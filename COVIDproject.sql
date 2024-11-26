@@ -1,5 +1,6 @@
 --Updated 2024.11.17
 
+--Create table to import data into Postgres
 CREATE TABLE CovidDeaths (isocode text, 
                             continent text, 
                             location text, 
@@ -46,12 +47,9 @@ CREATE TABLE CovidDeaths (isocode text,
                             excess_mortality real,
                             excess_mortality_cumulative_per_million real)
 
-
+--Data type updates
 ALTER TABLE covidvaccinations
 ALTER COLUMN testsUnits TYPE text
-
-
-
 ALTER TABLE CovidDeaths
 ALTER COLUMN totalCases TYPE real,
 ALTER COLUMN newCases TYPE real,
@@ -62,6 +60,7 @@ ALTER COLUMN hospPatients TYPE real,
 ALTER COLUMN totalTests TYPE real;
 
 
+--Separate table for vaccination information
 CREATE TABLE CovidVax (isocode text, continent text, location text, date date, population integer,
 						 totalCases integer, newCases integer, newCases_smoothed real, totalDeaths integer,
 						 newDeaths integer, newDeaths_smoothed real, totalCasesPerMillion real, 
@@ -138,8 +137,6 @@ ORDER BY 1, 2;
 
 
 --Queries using both tables
-
-
 SELECT * 
 FROM coviddeaths dea
 JOIN covidvaccinationdata vax
@@ -229,16 +226,11 @@ CREATE VIEW PercentPopulationVaccinated AS
 
 
 --Creating some queries and views that use the per million data
-
 SELECT continent, location, date, cast(population AS bigint), CAST(totalcases AS BIGINT), CAST(totaldeaths AS BIGINT),
 		totalcasespermillion, newdeathspermillion
 FROM coviddeaths
 WHERE continent is NULL AND totalcases is not NULL AND date>='2023-01-01'::date
 ORDER BY location, date
-
-
-
-
 
 --Pull in vax, fully vaxed, and sociodemographic data
 CREATE VIEW Deaths_and_Vaccinations_by_Location AS
@@ -258,11 +250,7 @@ SELECT * FROM Deaths_and_Vaccinations_by_Location
 ORDER BY location, date
 
 
-
-
-
-
---Tableau Project
+----------------Tableau Project Data & Queries
 
 --Global Totals
 SELECT CAST(SUM(newCases) AS BIGINT) as total_cases, CAST(SUM(newDeaths) AS BIGINT) as total_deaths, 
