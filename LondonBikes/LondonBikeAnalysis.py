@@ -2,6 +2,7 @@
 # !pip install pandas
 # !pip install zipfile
 # !pip install kaggle
+# !pip install openpyxl
 
 
 
@@ -53,16 +54,24 @@ season_dict = {
     '2.0' : 'autumn',
     '3.0' : 'winter'
 }
+bikes.season = bikes.season.astype('str')
+bikes.season = bikes.season.map(season_dict)
 
 #Map weather codes to alphanumeric 
 weather_dict = {
-    '1.0' = 'Clear',
-    '2.0' = 'Scattered Clouds',
-    '3.0' = 'Mostly Cloudy',
-    '4.0' = 'Cloudy',
-    '7.0' = 'Rain',
-    '10.0' = 'Thunderstorms',
-    '26.0' = 'Snow/Frozen Precip'
+    '1.0' : 'Clear',
+    '2.0' : 'Scattered Clouds',
+    '3.0' : 'Mostly Cloudy',
+    '4.0' : 'Cloudy',
+    '7.0' : 'Rain',
+    '10.0' : 'Thunderstorms',
+    '26.0' : 'Snow/Frozen Precip'
 }
+bikes.weather = bikes.weather.astype('str')
+bikes.weather = bikes.weather.map(weather_dict)
+print(bikes.head())
+
+#Write to an Excel file to use for visualizations
+bikes.to_excel('london_bikes_data_final.xlsx', sheet_name='Bikes_Data')
 
 
