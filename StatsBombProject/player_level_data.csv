@@ -1,0 +1,1046 @@
+player_id,match_id,player_name,total_passes,total_shots,total_dribbles,total_interceptions,total_duels,total_fouls_won,total_ball_receipts,total_miscontrols,total_dispossessions,total_errors,total_pressures,total_fouls_committed,total_50-50s,total_clearances,total_dribbled_past,successful_passes,unsuccessful_passes,successful_dribbles,unsuccessful_dribbles,goal_assists,shot_assists,total_xg,goals_scored,unsuccessful_shots,duels_won,duels_lost,clearances,position_code,position,team,event_count
+3053.0,3895074,Leroy Sané,50,2,5,0,2,2,52,1,1,0,12,1,0,0,1,35,15,2,3,0,2,0.11870924599999999,0,1,1,0,0,17.0,Right Wing,Bayern Munich,186
+3053.0,3895232,Leroy Sané,57,1,5,0,2,1,69,1,3,0,20,3,0,0,0,46,11,3,2,0,2,0.08916859,0,1,1,1,0,18.0,Right Attacking Midfield,Bayern Munich,228
+3117.0,3895292,Lucas Tousart,22,0,3,0,4,1,15,2,1,0,19,1,1,4,1,17,5,2,1,0,0,0.0,0,0,1,1,4,13.0,Right Center Midfield,Union Berlin,110
+3176.0,3895158,Thomas Meunier,3,0,0,0,1,0,2,0,0,0,2,1,0,0,0,3,0,0,0,0,0,0.0,0,0,0,0,0,7.0,Right Wing Back,Borussia Dortmund,11
+3230.0,3895060,Alassane Pléa,46,1,2,0,4,2,56,5,2,0,13,1,0,0,0,33,13,0,2,0,True,0.023374189,0,1,1,0,0,21.0,Left Wing,Borussia Mönchengladbach,181
+3428.0,3895348,Tomáš Koubek,34,0,0,0,0,0,18,0,0,1,0,0,0,0,0,24,10,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Augsburg,102
+3493.0,3895158,Emre Can,36,0,2,0,1,0,30,0,2,1,18,2,1,4,0,30,6,2,0,0,True,0.0,0,0,0,0,4,9.0,Right Defensive Midfield,Borussia Dortmund,141
+3493.0,3895309,Emre Can,36,1,0,0,2,1,36,2,1,0,18,5,0,0,1,34,2,0,0,0,True,0.14243458,0,0,2,0,0,10.0,Center Defensive Midfield,Borussia Dortmund,138
+3499.0,3895074,Jean-Eric Maxim Choupo-Moting,1,0,1,0,2,0,5,1,0,0,4,0,0,0,0,1,0,1,0,0,0,0.0,0,0,0,0,0,23.0,Center Forward,Bayern Munich,16
+3499.0,3895232,Jean-Eric Maxim Choupo-Moting,2,0,1,0,0,1,4,0,1,0,0,0,0,0,0,2,0,1,0,0,0,0.0,0,0,0,0,0,22.0,Right Center Forward,Bayern Munich,14
+3500.0,3895052,Granit Xhaka,48,1,0,0,2,2,50,0,2,0,9,2,0,1,1,41,7,0,0,0,0,0.020733545,0,0,0,1,1,11.0,Left Defensive Midfield,Bayer Leverkusen,171
+3500.0,3895060,Granit Xhaka,121,1,0,0,1,1,116,1,0,0,6,1,0,1,0,114,7,0,0,0,0,0.044252444,0,1,1,0,1,11.0,Left Defensive Midfield,Bayer Leverkusen,365
+3500.0,3895067,Granit Xhaka,118,1,0,0,1,4,114,1,1,0,12,2,1,0,0,109,9,0,0,0,3,0.04052658,0,0,1,0,0,11.0,Left Defensive Midfield,Bayer Leverkusen,368
+3500.0,3895074,Granit Xhaka,79,1,3,0,2,0,72,0,0,0,15,2,1,6,1,72,7,1,2,0,0,0.006139515,0,0,1,1,6,11.0,Left Defensive Midfield,Bayer Leverkusen,260
+3500.0,3895086,Granit Xhaka,125,0,0,0,0,1,116,1,0,0,7,1,0,0,1,118,7,0,0,0,2,0.0,0,0,0,0,0,11.0,Left Defensive Midfield,Bayer Leverkusen,346
+3500.0,3895095,Granit Xhaka,88,0,1,0,6,0,89,0,0,0,13,2,0,2,0,86,2,1,0,0,0,0.0,0,0,2,2,2,11.0,Left Defensive Midfield,Bayer Leverkusen,269
+3500.0,3895107,Granit Xhaka,110,1,0,0,3,1,104,1,2,0,11,1,0,0,0,102,8,0,0,0,3,0.04141494,0,1,1,0,0,11.0,Left Defensive Midfield,Bayer Leverkusen,342
+3500.0,3895113,Granit Xhaka,95,0,0,0,2,3,81,0,0,0,8,1,0,0,1,89,6,0,0,0,True,0.0,0,0,1,0,0,11.0,Left Defensive Midfield,Bayer Leverkusen,285
+3500.0,3895121,Granit Xhaka,98,2,1,0,2,1,93,0,0,0,9,2,0,2,1,91,7,0,1,0,0,0.047940271,0,2,0,1,2,11.0,Left Defensive Midfield,Bayer Leverkusen,307
+3500.0,3895134,Granit Xhaka,76,0,1,0,1,1,68,1,0,0,12,2,0,3,1,69,7,1,0,0,2,0.0,0,0,1,0,3,11.0,Left Defensive Midfield,Bayer Leverkusen,222
+3500.0,3895139,Granit Xhaka,150,1,0,0,4,1,137,1,1,0,14,0,0,0,2,143,7,0,0,0,0,0.025693294,0,1,1,2,0,9.0,Right Defensive Midfield,Bayer Leverkusen,452
+3500.0,3895153,Granit Xhaka,114,2,0,0,4,2,109,2,1,0,15,0,0,2,0,106,8,0,0,0,True,0.074052202,0,2,2,0,2,9.0,Right Defensive Midfield,Bayer Leverkusen,353
+3500.0,3895158,Granit Xhaka,116,5,2,0,1,1,108,1,0,0,7,2,0,0,0,106,10,1,1,0,3,0.23102959100000003,0,4,0,0,0,9.0,Right Defensive Midfield,Bayer Leverkusen,354
+3500.0,3895167,Granit Xhaka,71,1,1,0,4,1,65,1,1,0,12,1,0,2,1,65,6,1,0,0,2,0.04765752,0,0,2,1,2,9.0,Right Defensive Midfield,Bayer Leverkusen,238
+3500.0,3895180,Granit Xhaka,115,1,1,0,1,1,106,0,2,0,13,0,0,1,0,110,5,0,1,0,0,0.024108738,0,1,1,0,1,9.0,Right Defensive Midfield,Bayer Leverkusen,333
+3500.0,3895182,Granit Xhaka,108,0,0,0,4,3,98,2,6,0,11,0,3,2,0,95,13,0,0,0,0,0.0,0,0,1,0,2,9.0,Right Defensive Midfield,Bayer Leverkusen,342
+3500.0,3895194,Granit Xhaka,122,3,1,0,1,3,117,1,2,0,5,0,0,0,0,114,8,0,1,0,3,0.10557464899999999,0,3,1,0,0,9.0,Right Defensive Midfield,Bayer Leverkusen,378
+3500.0,3895202,Granit Xhaka,88,1,2,0,2,2,83,1,1,0,7,1,1,4,3,82,6,1,1,0,True,0.029031394,0,1,1,1,4,9.0,Right Defensive Midfield,Bayer Leverkusen,290
+3500.0,3895210,Granit Xhaka,159,1,0,0,3,1,138,1,2,0,19,2,1,0,2,142,17,0,0,0,2,0.019440634,0,1,1,1,0,9.0,Right Defensive Midfield,Bayer Leverkusen,480
+3500.0,3895220,Granit Xhaka,137,0,1,0,5,3,132,0,3,0,8,0,0,1,0,128,9,1,0,0,3,0.0,0,0,2,1,1,11.0,Left Defensive Midfield,Bayer Leverkusen,408
+3500.0,3895232,Granit Xhaka,56,1,1,0,1,2,46,0,0,0,13,3,0,1,3,50,6,0,1,0,2,0.02057064,0,0,0,0,1,9.0,Right Defensive Midfield,Bayer Leverkusen,179
+3500.0,3895244,Granit Xhaka,86,1,2,0,3,3,76,3,0,0,4,0,0,5,3,75,11,1,1,0,True,0.04768445,0,1,0,0,5,11.0,Left Defensive Midfield,Bayer Leverkusen,255
+3500.0,3895250,Granit Xhaka,109,2,0,0,0,2,103,1,0,0,7,2,0,2,1,102,7,0,0,0,2,0.051734701,1,0,0,0,2,9.0,Right Defensive Midfield,Bayer Leverkusen,326
+3500.0,3895258,Granit Xhaka,111,0,1,0,1,2,110,1,2,0,3,1,0,0,0,104,7,1,0,0,True,0.0,0,0,0,0,0,9.0,Right Defensive Midfield,Bayer Leverkusen,335
+3500.0,3895266,Granit Xhaka,167,2,0,0,2,0,159,0,0,0,7,1,0,1,1,161,6,0,0,0,3,0.043321265,0,1,1,0,1,9.0,Right Defensive Midfield,Bayer Leverkusen,494
+3500.0,3895275,Granit Xhaka,108,1,0,0,2,0,105,1,1,0,10,0,1,0,0,103,5,0,0,0,2,0.03647135,0,0,0,0,0,9.0,Right Defensive Midfield,Bayer Leverkusen,326
+3500.0,3895286,Granit Xhaka,120,4,0,0,3,3,107,1,2,0,8,2,0,3,0,107,13,0,0,0,2,0.174235635,0,2,1,0,3,11.0,Left Defensive Midfield,Bayer Leverkusen,362
+3500.0,3895292,Granit Xhaka,92,1,1,0,1,1,83,0,0,0,3,0,1,3,0,83,9,1,0,0,0,0.0423987,0,1,0,0,3,11.0,Left Defensive Midfield,Bayer Leverkusen,269
+3500.0,3895302,Granit Xhaka,85,3,0,0,1,1,88,0,1,0,19,1,0,0,0,79,6,0,0,0,0,0.10285396799999999,1,2,0,1,0,9.0,Right Defensive Midfield,Bayer Leverkusen,286
+3500.0,3895309,Granit Xhaka,67,0,0,0,3,1,68,0,1,0,9,1,0,1,1,61,6,0,0,0,0,0.0,0,0,2,0,1,9.0,Right Defensive Midfield,Bayer Leverkusen,209
+3500.0,3895333,Granit Xhaka,43,2,0,0,2,1,46,1,1,0,10,1,0,2,1,38,5,0,0,0,0,0.057225591000000006,1,1,0,0,2,9.0,Right Defensive Midfield,Bayer Leverkusen,144
+3500.0,3895340,Granit Xhaka,86,3,0,0,1,0,83,0,1,0,1,0,0,1,0,79,7,0,0,0,True,0.144107994,0,1,0,0,1,11.0,Left Defensive Midfield,Bayer Leverkusen,257
+3500.0,3895348,Granit Xhaka,31,2,0,0,0,1,28,0,0,0,2,0,0,0,0,28,3,0,0,0,True,0.092719968,0,1,0,0,0,9.0,Right Defensive Midfield,Bayer Leverkusen,98
+3676.0,3895139,Jérôme Roussillon,25,0,0,0,3,1,26,1,1,0,18,1,0,1,0,22,3,0,0,0,True,0.0,0,0,2,1,1,8.0,Left Wing Back,Union Berlin,101
+3767.0,3895180,Ellyes Joris Skhiri,18,0,0,0,1,0,18,1,0,0,8,0,0,3,2,16,2,0,0,0,0,0.0,0,0,0,1,3,9.0,Right Defensive Midfield,Eintracht Frankfurt,68
+3767.0,3895333,Ellyes Joris Skhiri,45,0,0,0,2,0,35,0,0,0,16,1,0,0,0,43,2,0,0,0,True,0.0,0,0,2,0,0,11.0,Left Defensive Midfield,Eintracht Frankfurt,134
+3913.0,3895095,Edimilson Fernandes,65,1,1,0,3,0,46,0,1,0,11,1,0,1,0,57,8,1,0,0,2,0.011072776,0,1,1,0,1,5.0,Left Center Back,FSV Mainz 05,197
+4381.0,3895095,Anwar El Ghazi,10,1,1,0,1,0,12,1,0,0,4,0,0,0,1,7,3,1,0,0,0,0.041664448,0,1,0,0,0,21.0,Left Wing,FSV Mainz 05,42
+4440.0,3895180,Kevin Trapp,46,0,0,0,0,0,29,0,0,0,0,0,0,0,0,36,10,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Eintracht Frankfurt,125
+4440.0,3895333,Kevin Trapp,31,0,0,0,0,0,22,0,0,0,0,0,0,0,0,22,9,0,0,0,True,0.0,0,0,0,0,0,1.0,Goalkeeper,Eintracht Frankfurt,94
+4682.0,3895194,Robert Gumny,0,0,0,0,1,0,1,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,8.0,Left Wing Back,Augsburg,8
+5209.0,3895232,Raphaël Adelino José Guerreiro,9,0,0,0,0,0,12,0,0,0,1,0,0,0,1,9,0,0,0,0,0,0.0,0,0,0,0,0,2.0,Right Back,Bayern Munich,31
+5460.0,3895134,Andrej Kramarić,11,1,0,0,0,0,15,0,0,0,1,0,0,0,0,7,4,0,0,0,0,0.04776482,0,1,0,0,0,13.0,Right Center Midfield,Hoffenheim,37
+5460.0,3895286,Andrej Kramarić,22,1,0,0,2,2,26,1,0,0,4,0,0,0,0,17,5,0,0,0,0,0.12478229,0,0,0,2,0,13.0,Right Center Midfield,Hoffenheim,86
+5536.0,3895052,Yussuf Yurary Poulsen,5,2,0,0,0,2,14,1,0,0,5,0,1,1,0,5,0,0,0,0,0,0.314083646,0,0,0,0,1,18.0,Right Attacking Midfield,RB Leipzig,38
+5536.0,3895202,Yussuf Yurary Poulsen,6,0,1,0,2,0,6,0,1,0,4,0,1,0,0,4,2,1,0,0,0,0.0,0,0,1,0,0,22.0,Right Center Forward,RB Leipzig,27
+5555.0,3895158,Julian Brandt,37,2,0,0,4,0,45,3,1,0,25,0,0,3,3,30,7,0,0,0,0,0.0647908016,0,1,0,1,3,19.0,Center Attacking Midfield,Borussia Dortmund,161
+5555.0,3895309,Julian Brandt,37,0,1,0,3,3,40,1,2,0,20,0,0,2,0,33,4,1,0,0,2,0.0,0,0,0,0,2,15.0,Left Center Midfield,Borussia Dortmund,147
+5557.0,3895052,Timo Werner,16,1,2,0,3,0,33,1,4,0,12,1,0,0,0,8,8,0,2,0,2,0.042124372,0,1,0,0,0,16.0,Left Midfield,RB Leipzig,96
+5559.0,3895158,Marco Reus,18,0,0,0,3,0,36,2,1,0,26,1,0,0,2,12,6,0,0,0,0,0.0,0,0,1,1,0,17.0,Right Wing,Borussia Dortmund,113
+5559.0,3895309,Marco Reus,7,0,0,0,1,0,13,0,1,0,14,2,0,1,0,4,3,0,0,0,0,0.0,0,0,1,0,1,16.0,Left Midfield,Borussia Dortmund,42
+5562.0,3895074,Thomas Müller,26,1,0,0,6,1,37,2,1,0,20,1,0,1,0,22,4,0,0,0,True,0.101909965,0,0,1,3,1,19.0,Center Attacking Midfield,Bayern Munich,109
+5562.0,3895232,Thomas Müller,24,0,1,0,1,0,24,0,0,0,3,0,0,0,0,21,3,1,0,0,True,0.0,0,0,0,1,0,22.0,Right Center Forward,Bayern Munich,78
+5570.0,3895232,Manuel Neuer,36,0,0,0,1,0,19,0,0,0,0,0,0,0,0,26,10,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Bayern Munich,101
+5572.0,3895158,Mats Hummels,31,0,0,0,5,2,17,0,0,0,14,1,0,13,4,25,6,0,0,0,0,0.0,0,0,2,2,13,3.0,Right Center Back,Borussia Dortmund,116
+5572.0,3895309,Mats Hummels,73,0,0,0,8,0,64,1,0,0,15,0,1,7,0,62,11,0,0,0,0,0.0,0,0,5,3,7,3.0,Right Center Back,Borussia Dortmund,234
+5579.0,3895074,Joshua Kimmich,70,1,0,0,4,0,61,0,0,0,10,1,1,0,1,61,9,0,0,0,2,0.020028673,0,0,1,3,0,9.0,Right Defensive Midfield,Bayern Munich,201
+5579.0,3895232,Joshua Kimmich,41,0,0,0,1,0,33,1,0,0,10,0,0,0,1,34,7,0,0,0,0,0.0,0,0,1,0,0,9.0,Right Defensive Midfield,Bayern Munich,120
+5602.0,3895182,Cristian Gamboa Luna,36,0,0,0,4,0,21,0,0,0,21,1,0,1,2,26,10,0,0,0,0,0.0,0,0,0,4,1,2.0,Right Back,Bochum,122
+5623.0,3895095,Jae-Sung Lee,30,0,1,0,3,0,26,0,0,0,17,1,0,0,1,22,8,1,0,0,0,0.0,0,0,0,1,0,21.0,Left Wing,FSV Mainz 05,109
+5623.0,3895250,Jae-Sung Lee,32,2,0,0,3,2,43,1,0,0,20,1,1,1,0,28,4,0,0,0,True,0.42510944500000003,0,2,1,0,1,20.0,Left Attacking Midfield,FSV Mainz 05,154
+5625.0,3895052,Emil Peter Forsberg,7,0,0,0,0,2,10,0,0,0,3,0,0,0,0,6,1,0,0,0,0,0.0,0,0,0,0,0,18.0,Right Attacking Midfield,RB Leipzig,32
+5666.0,3895302,Dawid Kownacki,5,0,0,0,1,0,11,0,0,0,7,0,0,0,0,2,3,0,0,0,0,0.0,0,0,0,0,0,22.0,Right Center Forward,Werder Bremen,26
+6321.0,3895153,Milos Veljkovic,64,0,1,0,4,0,55,1,0,0,13,0,0,3,2,55,9,0,1,0,0,0.0,0,0,1,1,3,3.0,Right Center Back,Werder Bremen,194
+6321.0,3895302,Milos Veljkovic,61,0,0,0,2,0,53,0,0,0,4,0,0,4,0,56,5,0,0,0,0,0.0,0,0,1,0,4,5.0,Left Center Back,Werder Bremen,178
+6324.0,3895074,Leon Goretzka,53,2,0,0,0,1,45,0,0,0,13,0,0,0,0,46,7,0,0,0,0,0.34877853000000003,1,0,0,0,0,11.0,Left Defensive Midfield,Bayern Munich,155
+6324.0,3895232,Leon Goretzka,57,2,0,0,1,0,60,1,1,0,14,2,0,0,0,54,3,0,0,0,0,0.114908859,0,2,0,1,0,11.0,Left Defensive Midfield,Bayern Munich,191
+6874.0,3895194,Ermedin Demirović,19,2,4,0,3,2,29,1,1,0,27,1,0,1,1,11,8,2,2,0,True,0.161729462,0,2,0,0,1,24.0,Left Center Forward,Augsburg,116
+6874.0,3895348,Ermedin Demirović,19,4,0,0,4,1,34,3,1,0,24,1,0,0,3,13,6,0,0,0,0,0.226136871,0,3,0,0,0,22.0,Right Center Forward,Augsburg,117
+6985.0,3895139,Robin Gosens,13,0,0,0,1,0,10,0,0,0,1,0,0,0,0,10,3,0,0,0,0,0.0,0,0,1,0,0,8.0,Left Wing Back,Union Berlin,36
+6985.0,3895292,Robin Gosens,27,1,0,0,1,1,24,0,1,0,5,2,0,1,1,19,8,0,0,0,2,0.061352093,0,1,0,0,1,8.0,Left Wing Back,Union Berlin,90
+7044.0,3895121,Patrik Schick,1,0,0,0,0,0,5,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0.0,0,0,0,0,0,23.0,Center Forward,Bayer Leverkusen,8
+7044.0,3895158,Patrik Schick,4,1,0,0,0,0,7,0,1,0,1,0,1,0,0,2,2,0,0,0,0,0.06840045,0,1,0,0,0,18.0,Right Attacking Midfield,Bayer Leverkusen,20
+7044.0,3895167,Patrik Schick,2,1,0,0,2,0,16,1,0,0,1,0,0,0,0,2,0,0,0,0,0,0.043944217,0,1,0,0,0,23.0,Center Forward,Bayer Leverkusen,26
+7044.0,3895180,Patrik Schick,5,1,0,0,0,0,12,0,1,0,8,0,0,0,0,4,1,0,0,0,0,0.08704005,0,0,0,0,0,23.0,Center Forward,Bayer Leverkusen,29
+7044.0,3895182,Patrik Schick,23,4,1,0,2,4,46,2,2,0,8,1,0,1,0,17,6,0,1,0,True,1.36863058,3,1,0,0,1,23.0,Center Forward,Bayer Leverkusen,114
+7044.0,3895194,Patrik Schick,13,4,3,0,6,1,40,3,2,0,16,0,0,0,0,11,2,1,2,0,0,0.44817375000000004,0,3,0,0,0,23.0,Center Forward,Bayer Leverkusen,114
+7044.0,3895202,Patrik Schick,26,3,0,0,0,0,37,1,1,0,14,3,0,0,0,21,5,0,0,0,True,0.177001883,0,3,0,0,0,23.0,Center Forward,Bayer Leverkusen,106
+7044.0,3895210,Patrik Schick,30,3,3,0,1,1,58,3,1,0,15,2,0,0,0,28,2,2,1,0,3,0.33334601399999997,0,3,0,0,0,23.0,Center Forward,Bayer Leverkusen,153
+7044.0,3895244,Patrik Schick,22,2,3,0,4,3,43,2,1,0,15,0,1,2,0,19,3,0,3,0,True,0.12789864,0,2,0,0,2,22.0,Right Center Forward,Bayer Leverkusen,122
+7044.0,3895250,Patrik Schick,7,0,0,0,3,0,19,1,3,0,7,1,0,1,0,5,2,0,0,0,0,0.0,0,0,0,0,1,18.0,Right Attacking Midfield,Bayer Leverkusen,50
+7044.0,3895258,Patrik Schick,7,2,1,0,2,0,26,2,2,0,13,0,0,0,0,5,2,0,1,0,True,0.1206514,0,1,1,1,0,23.0,Center Forward,Bayer Leverkusen,67
+7044.0,3895266,Patrik Schick,11,0,2,0,0,2,22,4,0,0,16,0,3,1,0,7,4,1,1,0,0,0.0,0,0,0,0,1,23.0,Center Forward,Bayer Leverkusen,77
+7044.0,3895275,Patrik Schick,18,2,2,0,3,2,37,3,2,0,9,2,0,0,0,15,3,2,0,0,0,0.410803544,1,0,0,0,0,23.0,Center Forward,Bayer Leverkusen,102
+7044.0,3895286,Patrik Schick,9,5,1,0,1,0,37,3,0,0,14,1,0,1,0,7,2,1,0,0,0,0.9354651839999999,1,2,0,0,1,23.0,Center Forward,Bayer Leverkusen,78
+7044.0,3895302,Patrik Schick,6,1,1,0,1,0,12,0,1,0,9,0,0,0,0,4,2,0,1,0,0,0.109270036,0,0,0,0,0,23.0,Center Forward,Bayer Leverkusen,40
+7044.0,3895309,Patrik Schick,1,0,1,0,1,0,5,1,0,0,0,0,0,1,0,1,0,0,1,0,0,0.0,0,0,0,0,1,22.0,Right Center Forward,Bayer Leverkusen,13
+7044.0,3895320,Patrik Schick,15,3,0,0,3,0,30,0,0,0,14,0,0,0,0,13,2,0,0,0,0,0.41025329099999996,0,2,1,1,0,23.0,Center Forward,Bayer Leverkusen,73
+7044.0,3895333,Patrik Schick,11,1,0,0,1,0,23,1,0,0,9,0,0,1,0,9,2,0,0,0,0,0.19578177,1,0,0,0,1,23.0,Center Forward,Bayer Leverkusen,55
+7044.0,3895340,Patrik Schick,13,5,0,0,3,1,37,2,6,0,7,1,1,0,0,13,0,0,0,0,0,0.379899582,1,3,1,1,0,23.0,Center Forward,Bayer Leverkusen,99
+7044.0,3895348,Patrik Schick,5,2,0,0,0,1,11,0,0,0,2,0,0,0,0,5,0,0,0,0,0,0.230597712,0,2,0,0,0,23.0,Center Forward,Bayer Leverkusen,28
+7083.0,3895153,Anthony Jung,62,0,1,0,3,0,51,0,0,0,12,1,0,2,0,58,4,1,0,0,0,0.0,0,0,1,0,2,5.0,Left Center Back,Werder Bremen,186
+7095.0,3895107,Marvin Schwäbe,48,0,0,0,0,0,34,0,0,0,0,0,0,0,0,39,9,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,FC Köln,141
+7095.0,3895258,Marvin Schwäbe,31,0,0,0,0,1,17,0,0,0,0,0,0,0,0,18,13,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,FC Köln,87
+7173.0,3895139,Leonardo Bonucci,9,0,0,0,2,0,7,0,0,0,3,0,0,1,0,6,3,0,0,0,0,0.0,0,0,1,1,1,4.0,Center Back,Union Berlin,30
+7198.0,3895060,Franck Honorat,50,1,3,0,0,0,45,0,0,0,15,0,0,0,2,40,10,0,3,0,6,0.070884824,0,0,0,0,0,7.0,Right Wing Back,Borussia Mönchengladbach,145
+7198.0,3895210,Franck Honorat,21,0,1,0,1,0,26,2,0,1,32,0,0,4,0,13,8,1,0,0,0,0.0,0,0,0,1,4,7.0,Right Wing Back,Borussia Mönchengladbach,113
+7208.0,3895095,Ludovic Ajorque,9,0,0,0,2,0,17,1,0,0,2,0,0,0,0,8,1,0,0,0,True,0.0,0,0,1,0,0,22.0,Right Center Forward,FSV Mainz 05,38
+7375.0,3895210,Theoson Jordan Siebatcheu,13,0,0,0,2,4,41,4,1,0,40,3,2,0,0,8,5,0,0,0,True,0.0,0,0,1,0,0,22.0,Right Center Forward,Borussia Mönchengladbach,124
+7796.0,3895250,Silvan Widmer,25,0,0,0,4,0,22,2,2,0,9,1,0,3,1,22,3,0,0,True,0,0.0,0,0,0,1,3,7.0,Right Wing Back,FSV Mainz 05,91
+7829.0,3895134,Wout Weghorst,24,2,0,0,3,3,50,1,1,0,43,0,0,1,0,18,6,0,0,0,True,1.04062588,1,1,0,0,1,22.0,Right Center Forward,Hoffenheim,141
+7829.0,3895286,Wout Weghorst,17,1,2,0,6,2,26,3,1,0,26,2,0,2,1,12,5,0,2,True,0,0.05932622,0,1,1,1,2,22.0,Right Center Forward,Hoffenheim,111
+8056.0,3895194,Fredrik Jensen,21,0,2,0,4,0,18,0,0,0,19,1,1,2,1,16,5,0,2,0,0,0.0,0,0,3,0,2,13.0,Right Center Midfield,Augsburg,100
+8068.0,3895060,Maximilian Wöber,56,0,0,0,6,0,41,0,0,0,15,1,0,5,0,48,8,0,0,0,0,0.0,0,0,4,1,5,5.0,Left Center Back,Borussia Mönchengladbach,173
+8069.0,3895074,Matthijs de Ligt,2,0,0,0,0,0,1,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0.0,0,0,0,0,0,11.0,Left Defensive Midfield,Bayern Munich,5
+8207.0,3895095,Dominik Kohr,41,1,0,0,6,0,40,1,0,0,24,1,0,0,2,39,2,0,0,0,0,0.038837012,0,1,3,2,0,11.0,Left Defensive Midfield,FSV Mainz 05,148
+8207.0,3895250,Dominik Kohr,42,2,0,0,3,2,35,0,0,0,9,3,0,6,0,29,13,0,0,0,0,0.259213935,1,0,1,1,6,3.0,Right Center Back,FSV Mainz 05,140
+8208.0,3895074,Sven Ulreich,36,0,0,0,0,0,27,0,0,0,0,0,0,0,0,25,11,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Bayern Munich,106
+8211.0,3895052,Benjamin Henrichs,63,5,1,0,2,3,54,1,0,0,12,0,0,0,2,49,14,1,0,0,0,0.167161626,0,2,1,0,0,2.0,Right Back,RB Leipzig,205
+8211.0,3895202,Benjamin Henrichs,6,1,1,0,0,0,6,0,0,0,2,0,0,0,0,5,1,1,0,0,0,0.18715149,0,1,0,0,0,2.0,Right Back,RB Leipzig,21
+8221.0,3895052,Jonathan Tah,52,1,0,0,2,0,41,0,0,0,6,1,0,6,1,50,2,0,0,0,0,0.15772732,1,0,0,2,6,4.0,Center Back,Bayer Leverkusen,158
+8221.0,3895060,Jonathan Tah,57,1,0,0,2,0,50,1,0,0,9,2,0,5,0,55,2,0,0,0,0,0.16639715,1,0,1,1,5,4.0,Center Back,Bayer Leverkusen,182
+8221.0,3895067,Jonathan Tah,68,0,0,0,2,0,49,0,0,0,3,1,0,1,0,64,4,0,0,0,0,0.0,0,0,0,0,1,4.0,Center Back,Bayer Leverkusen,188
+8221.0,3895074,Jonathan Tah,57,0,1,0,2,0,47,0,0,0,8,0,0,5,0,57,0,1,0,0,0,0.0,0,0,1,0,5,4.0,Center Back,Bayer Leverkusen,177
+8221.0,3895086,Jonathan Tah,77,0,1,0,1,0,69,0,0,0,9,0,0,4,2,74,3,1,0,0,0,0.0,0,0,1,0,4,4.0,Center Back,Bayer Leverkusen,228
+8221.0,3895095,Jonathan Tah,67,0,0,0,3,0,59,0,0,0,9,2,0,6,0,64,3,0,0,0,0,0.0,0,0,1,0,6,4.0,Center Back,Bayer Leverkusen,208
+8221.0,3895107,Jonathan Tah,86,1,1,0,4,1,81,0,1,0,6,1,0,2,0,84,2,1,0,0,0,0.110566854,0,1,0,0,2,4.0,Center Back,Bayer Leverkusen,272
+8221.0,3895113,Jonathan Tah,56,1,0,0,1,0,48,0,0,0,8,2,0,6,0,53,3,0,0,0,0,0.030106671,0,0,1,0,6,4.0,Center Back,Bayer Leverkusen,172
+8221.0,3895121,Jonathan Tah,100,1,0,0,2,0,90,1,0,0,5,0,0,8,0,95,5,0,0,0,True,0.02354686,0,1,0,1,8,4.0,Center Back,Bayer Leverkusen,298
+8221.0,3895134,Jonathan Tah,60,0,0,0,1,0,49,0,0,0,10,3,0,11,1,56,4,0,0,0,0,0.0,0,0,1,0,11,4.0,Center Back,Bayer Leverkusen,185
+8221.0,3895139,Jonathan Tah,87,2,0,0,3,0,80,1,0,0,9,0,0,4,1,82,5,0,0,0,0,0.08920386899999999,1,1,2,1,4,4.0,Center Back,Bayer Leverkusen,275
+8221.0,3895158,Jonathan Tah,47,1,0,0,1,1,36,0,0,0,6,2,0,4,0,43,4,0,0,0,0,0.11983944,0,0,0,0,4,4.0,Center Back,Bayer Leverkusen,140
+8221.0,3895167,Jonathan Tah,45,3,1,0,5,0,37,0,0,1,11,2,0,2,0,42,3,0,1,0,True,0.16071546599999997,0,2,1,1,2,4.0,Center Back,Bayer Leverkusen,144
+8221.0,3895180,Jonathan Tah,81,0,1,0,1,2,67,1,1,0,5,1,0,10,0,77,4,0,1,0,0,0.0,0,0,1,0,10,4.0,Center Back,Bayer Leverkusen,243
+8221.0,3895182,Jonathan Tah,71,0,1,0,1,0,54,0,0,0,7,2,1,3,1,67,4,0,1,0,0,0.0,0,0,1,0,3,4.0,Center Back,Bayer Leverkusen,195
+8221.0,3895202,Jonathan Tah,85,1,0,0,2,0,71,0,1,0,9,2,0,4,1,80,5,0,0,0,True,0.18319073,1,0,0,1,4,4.0,Center Back,Bayer Leverkusen,251
+8221.0,3895220,Jonathan Tah,111,1,0,0,1,0,100,0,0,0,8,1,0,5,1,108,3,0,0,0,0,0.08595843,0,1,0,0,5,4.0,Center Back,Bayer Leverkusen,322
+8221.0,3895232,Jonathan Tah,35,1,0,0,2,0,29,0,0,0,5,0,0,7,1,33,2,0,0,0,0,0.04810058,0,0,0,0,7,4.0,Center Back,Bayer Leverkusen,113
+8221.0,3895244,Jonathan Tah,57,0,0,0,3,0,41,0,0,0,4,0,0,3,0,51,6,0,0,0,0,0.0,0,0,0,1,3,4.0,Center Back,Bayer Leverkusen,150
+8221.0,3895250,Jonathan Tah,66,0,0,0,1,0,56,0,0,0,12,4,0,0,0,66,0,0,0,0,0,0.0,0,0,0,0,0,4.0,Center Back,Bayer Leverkusen,202
+8221.0,3895258,Jonathan Tah,120,0,0,0,2,0,109,0,0,0,6,1,1,1,0,116,4,0,0,0,0,0.0,0,0,0,0,1,4.0,Center Back,Bayer Leverkusen,350
+8221.0,3895266,Jonathan Tah,91,2,0,0,1,1,79,0,0,0,3,0,0,1,0,88,3,0,0,0,0,0.055042668999999995,0,1,0,0,1,4.0,Center Back,Bayer Leverkusen,251
+8221.0,3895275,Jonathan Tah,92,2,0,0,2,0,83,0,0,0,9,0,0,5,0,89,3,0,0,0,0,0.146985222,0,1,0,0,5,4.0,Center Back,Bayer Leverkusen,274
+8221.0,3895286,Jonathan Tah,93,2,0,0,0,0,73,0,1,1,8,1,0,1,0,90,3,0,0,True,0,0.09192916000000001,0,2,0,0,1,4.0,Center Back,Bayer Leverkusen,257
+8221.0,3895292,Jonathan Tah,93,1,0,0,4,0,86,0,0,0,10,4,0,5,0,86,7,0,0,0,True,0.066974714,0,0,0,1,5,4.0,Center Back,Bayer Leverkusen,290
+8221.0,3895302,Jonathan Tah,74,3,0,0,0,0,65,0,0,0,10,1,0,3,0,72,2,0,0,0,0,0.19236262999999998,0,1,0,0,3,4.0,Center Back,Bayer Leverkusen,225
+8221.0,3895309,Jonathan Tah,57,0,0,0,2,1,46,1,0,0,6,1,0,4,0,53,4,0,0,0,0,0.0,0,0,1,0,4,4.0,Center Back,Bayer Leverkusen,168
+8221.0,3895320,Jonathan Tah,20,0,0,0,1,0,12,0,0,0,5,1,0,1,0,19,1,0,0,0,0,0.0,0,0,0,0,1,4.0,Center Back,Bayer Leverkusen,51
+8221.0,3895333,Jonathan Tah,4,0,0,0,0,0,2,0,0,0,1,0,0,5,0,4,0,0,0,0,0,0.0,0,0,0,0,5,4.0,Center Back,Bayer Leverkusen,17
+8221.0,3895340,Jonathan Tah,73,1,0,0,3,0,61,0,2,0,1,1,0,6,0,69,4,0,0,0,0,0.025919521,0,1,1,1,6,4.0,Center Back,Bayer Leverkusen,222
+8221.0,3895348,Jonathan Tah,85,1,1,0,1,0,74,1,0,0,8,1,0,0,0,81,4,1,0,0,0,0.05129539,0,0,0,0,0,4.0,Center Back,Bayer Leverkusen,256
+8222.0,3895052,Kevin Kampl,27,0,0,0,1,0,26,0,1,0,5,0,0,0,0,25,2,0,0,0,2,0.0,0,0,1,0,0,9.0,Right Defensive Midfield,RB Leipzig,85
+8222.0,3895202,Kevin Kampl,6,0,0,0,0,1,2,0,0,0,1,0,0,0,0,5,1,0,0,0,0,0.0,0,0,0,0,0,9.0,Right Defensive Midfield,RB Leipzig,17
+8226.0,3895167,Dan-Axel Zagadou,77,1,1,0,2,0,73,0,0,0,9,1,0,4,1,72,5,0,1,0,True,0.07588608,0,0,1,0,4,4.0,Center Back,VfB Stuttgart,240
+8227.0,3895180,Mario Götze,29,0,0,0,3,0,27,1,1,0,26,2,1,1,2,20,9,0,0,0,0,0.0,0,0,0,2,1,11.0,Left Defensive Midfield,Eintracht Frankfurt,124
+8227.0,3895333,Mario Götze,81,2,0,0,3,0,69,3,0,0,15,1,0,0,2,71,10,0,0,0,2,0.095075496,0,2,2,0,0,9.0,Right Defensive Midfield,Eintracht Frankfurt,243
+8228.0,3895275,Maximilian Philipp,3,0,0,0,0,0,2,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0.0,0,0,0,0,1,17.0,Right Wing,Freiburg,10
+8230.0,3895250,Josuha Guilavogui,24,0,0,0,1,0,17,0,0,0,3,0,0,2,0,22,2,0,0,0,0,0.0,0,0,1,0,2,4.0,Center Back,FSV Mainz 05,71
+8231.0,3895113,Yannick Gerhardt,26,2,0,0,0,1,33,1,1,0,33,3,0,0,0,20,6,0,0,0,True,0.07783462,0,2,0,0,0,13.0,Right Center Midfield,Wolfsburg,127
+8231.0,3895266,Yannick Gerhardt,30,0,1,0,2,0,30,0,0,0,21,1,1,1,1,23,7,0,1,0,0,0.0,0,0,2,0,1,9.0,Right Defensive Midfield,Wolfsburg,117
+8235.0,3895113,Maximilian Arnold,65,1,0,0,2,2,45,0,1,0,21,3,1,1,1,56,9,0,0,0,True,0.00993443,0,1,1,1,1,10.0,Center Defensive Midfield,Wolfsburg,201
+8235.0,3895266,Maximilian Arnold,31,0,0,0,1,2,26,1,0,0,14,0,0,2,2,29,2,0,0,0,True,0.0,0,0,0,0,2,11.0,Left Defensive Midfield,Wolfsburg,112
+8238.0,3895320,Mahmoud Dahoud,10,0,1,0,2,0,13,0,1,0,10,0,0,0,0,8,2,0,1,0,0,0.0,0,0,1,1,0,11.0,Left Defensive Midfield,VfB Stuttgart,47
+8239.0,3895139,Robin Knoche,39,0,0,0,4,0,33,0,0,0,6,1,0,1,1,34,5,0,0,0,0,0.0,0,0,0,1,1,4.0,Center Back,Union Berlin,124
+8240.0,3895266,Koen Casteels,42,0,0,0,0,0,18,0,0,0,0,0,0,0,0,25,17,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Wolfsburg,111
+8241.0,3895340,Felix Passlack,14,0,0,0,1,0,8,0,0,0,4,1,0,0,0,9,5,0,0,0,0,0.0,0,0,1,0,0,2.0,Right Back,Bochum,36
+8245.0,3895194,Felix Uduokhai,33,0,0,0,1,0,24,2,0,0,11,0,0,10,0,30,3,0,0,0,0,0.0,0,0,1,0,10,5.0,Left Center Back,Augsburg,105
+8245.0,3895348,Felix Uduokhai,40,0,0,0,3,0,36,0,0,0,8,1,0,5,0,34,6,0,0,0,0,0.0,0,0,1,1,5,5.0,Left Center Back,Augsburg,139
+8309.0,3895121,Michael Gregoritsch,2,3,0,0,0,0,12,1,0,0,4,0,1,0,0,1,1,0,0,0,0,0.200481045,0,3,0,0,0,23.0,Center Forward,Freiburg,26
+8309.0,3895275,Michael Gregoritsch,4,0,0,0,4,0,17,1,0,0,4,0,0,2,0,2,2,0,0,0,0,0.0,0,0,1,0,2,23.0,Center Forward,Freiburg,35
+8318.0,3895194,Jeffrey Gouweleeuw,24,0,0,0,4,0,17,0,0,0,14,2,0,4,0,20,4,0,0,0,0,0.0,0,0,2,1,4,3.0,Right Center Back,Augsburg,96
+8318.0,3895348,Jeffrey Gouweleeuw,54,0,1,0,1,0,46,0,0,0,8,0,0,5,1,47,7,0,1,0,2,0.0,0,0,1,0,5,3.0,Right Center Back,Augsburg,163
+8352.0,3895107,Julian Chabot,55,2,0,0,2,1,45,1,0,0,6,0,1,6,0,52,3,0,0,0,0,0.23884054,0,2,1,0,6,5.0,Left Center Back,FC Köln,168
+8352.0,3895258,Julian Chabot,28,0,0,0,1,1,15,1,0,0,6,0,0,6,0,21,7,0,0,0,0,0.0,0,0,1,0,6,5.0,Left Center Back,FC Köln,88
+8361.0,3895121,Ritsu Doan,20,0,4,0,5,1,30,2,2,0,13,1,1,2,1,12,8,3,1,0,True,0.0,0,0,2,1,2,12.0,Right Midfield,Freiburg,109
+8361.0,3895275,Ritsu Doan,17,1,1,0,4,1,23,0,5,0,8,0,0,3,0,13,4,1,0,0,0,0.076960765,1,0,2,0,3,7.0,Right Wing Back,Freiburg,91
+8375.0,3895139,Sheraldo Becker,33,0,0,0,2,1,43,0,1,0,11,1,0,0,0,27,6,0,0,0,True,0.0,0,0,0,0,0,21.0,Left Wing,Union Berlin,122
+8391.0,3895286,Dennis Geiger,5,0,0,0,0,1,6,1,0,0,7,1,1,0,0,4,1,0,0,0,True,0.0,0,0,0,0,0,13.0,Right Center Midfield,Hoffenheim,31
+8393.0,3895134,Oliver Baumann,42,0,0,0,0,1,27,0,0,0,0,0,0,0,0,36,6,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Hoffenheim,105
+8393.0,3895286,Oliver Baumann,50,0,0,0,0,1,31,0,0,0,0,0,0,0,0,38,12,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Hoffenheim,145
+8397.0,3895134,Kevin Vogt,84,0,0,0,0,1,74,0,0,0,8,0,0,6,1,76,8,0,0,0,0,0.0,0,0,0,0,6,4.0,Center Back,Hoffenheim,243
+8397.0,3895292,Kevin Vogt,43,0,0,0,0,1,35,0,0,0,4,1,0,4,1,40,3,0,0,0,0,0.0,0,0,0,0,4,4.0,Center Back,Union Berlin,130
+8400.0,3895074,Serge Gnabry,30,4,1,0,3,0,44,1,1,0,24,0,0,1,3,23,7,0,1,0,0,0.496187265,0,3,2,0,1,21.0,Left Wing,Bayern Munich,141
+8401.0,3895121,Maximilian Eggestein,14,0,1,0,2,0,14,1,1,0,17,1,1,0,1,10,4,0,1,0,0,0.0,0,0,0,1,0,13.0,Right Center Midfield,Freiburg,74
+8403.0,3895052,Nadiem Amiri,5,0,0,0,0,0,5,0,0,0,2,0,0,0,0,3,2,0,0,0,0,0.0,0,0,0,0,0,24.0,Left Center Forward,Bayer Leverkusen,15
+8403.0,3895074,Nadiem Amiri,0,0,0,0,1,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,16.0,Left Midfield,Bayer Leverkusen,5
+8403.0,3895095,Nadiem Amiri,1,0,1,0,0,2,2,0,1,0,2,0,0,0,0,0,1,1,0,0,0,0.0,0,0,0,0,0,18.0,Right Attacking Midfield,Bayer Leverkusen,15
+8403.0,3895113,Nadiem Amiri,3,0,0,0,0,1,8,0,0,0,4,0,0,0,0,2,1,0,0,0,0,0.0,0,0,0,0,0,20.0,Left Attacking Midfield,Bayer Leverkusen,21
+8403.0,3895153,Nadiem Amiri,1,1,0,0,0,0,2,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0.07680104,0,1,0,0,0,20.0,Left Attacking Midfield,Bayer Leverkusen,8
+8403.0,3895180,Nadiem Amiri,4,0,1,0,0,0,5,0,0,0,1,0,0,0,0,4,0,0,1,0,0,0.0,0,0,0,0,0,20.0,Left Attacking Midfield,Bayer Leverkusen,16
+8403.0,3895182,Nadiem Amiri,4,0,1,0,0,0,6,0,1,0,1,0,0,0,0,3,1,0,1,0,0,0.0,0,0,0,0,0,20.0,Left Attacking Midfield,Bayer Leverkusen,19
+8403.0,3895210,Nadiem Amiri,80,2,0,0,1,1,80,0,1,0,9,1,1,1,0,78,2,0,0,0,True,0.035945968,0,0,1,0,1,11.0,Left Defensive Midfield,Bayer Leverkusen,253
+8403.0,3895250,Nadiem Amiri,57,1,2,0,0,1,43,1,1,0,20,2,1,0,0,45,12,2,0,0,2,0.04142683,0,1,0,0,0,11.0,Left Defensive Midfield,FSV Mainz 05,192
+8406.0,3895107,Florian Kainz,31,0,2,0,2,1,39,1,1,0,27,1,0,2,1,24,7,2,0,0,True,0.0,0,0,1,1,2,15.0,Left Center Midfield,FC Köln,139
+8506.0,3895074,Konrad Laimer,61,2,0,0,6,0,48,1,1,0,32,0,2,1,3,56,5,0,0,0,True,0.136887546,0,1,4,2,1,2.0,Right Back,Bayern Munich,221
+8507.0,3895202,Lukas Klostermann,40,0,0,0,5,0,32,0,0,0,7,0,0,4,0,39,1,0,0,0,0,0.0,0,0,0,1,4,3.0,Right Center Back,RB Leipzig,134
+8509.0,3895052,Willi Orban,93,0,0,0,4,1,84,1,0,0,9,4,0,3,1,84,9,0,0,0,0,0.0,0,0,2,0,3,5.0,Left Center Back,RB Leipzig,278
+8518.0,3895158,Marcel Sabitzer,23,0,0,0,3,2,23,0,0,0,14,1,2,6,1,16,7,0,0,0,0,0.0,0,0,1,0,6,11.0,Left Defensive Midfield,Borussia Dortmund,100
+8518.0,3895309,Marcel Sabitzer,33,2,0,0,3,0,35,2,1,0,15,0,0,0,0,27,6,0,0,True,0,0.117821273,0,1,0,1,0,13.0,Right Center Midfield,Borussia Dortmund,118
+8519.0,3895074,Dayotchanculle Upamecano,79,1,0,0,2,0,65,0,0,0,17,0,1,2,4,73,6,0,0,0,0,0.0514962,0,1,2,0,2,3.0,Right Center Back,Bayern Munich,252
+8519.0,3895232,Dayotchanculle Upamecano,67,0,0,0,3,0,62,0,0,0,8,1,0,1,0,57,10,0,0,0,0,0.0,0,0,2,0,1,3.0,Right Center Back,Bayern Munich,210
+8538.0,3895167,Waldemar Anton,86,1,1,0,4,1,74,3,1,0,6,0,0,3,2,77,9,0,1,0,True,0.01512756,0,1,1,0,3,3.0,Right Center Back,VfB Stuttgart,274
+8538.0,3895320,Waldemar Anton,60,0,0,0,2,0,51,0,0,0,13,0,0,4,0,50,10,0,0,0,True,0.0,0,0,1,1,4,3.0,Right Center Back,VfB Stuttgart,183
+8546.0,3895158,Niclas Füllkrug,29,2,0,0,5,3,55,4,1,0,7,4,0,4,0,19,10,0,0,True,0,0.29512831,0,2,0,0,4,23.0,Center Forward,Borussia Dortmund,144
+8546.0,3895309,Niclas Füllkrug,18,1,0,0,7,1,39,1,0,0,33,3,1,0,1,15,3,0,0,0,True,0.16429694,1,0,0,0,0,23.0,Center Forward,Borussia Dortmund,115
+8559.0,3895095,Stefan Bell,54,1,1,0,1,1,49,1,0,0,6,3,0,3,1,48,6,1,0,0,0,0.054707997,0,1,0,0,3,4.0,Center Back,FSV Mainz 05,167
+8570.0,3895153,Niklas Stark,6,0,0,0,1,0,5,0,0,0,6,0,0,0,1,5,1,0,0,0,0,0.0,0,0,0,1,0,4.0,Center Back,Werder Bremen,26
+8576.0,3895153,Mitchell Weiser,51,0,2,0,2,1,50,1,1,0,22,1,1,0,2,42,9,0,2,0,0,0.0,0,0,1,0,0,7.0,Right Wing Back,Werder Bremen,175
+8576.0,3895302,Mitchell Weiser,33,1,2,0,2,0,36,4,2,0,13,0,0,0,0,26,7,2,0,0,0,0.3757361,0,0,1,1,0,7.0,Right Wing Back,Werder Bremen,128
+8606.0,3895067,Emir Karic,27,0,0,0,3,0,22,0,0,0,12,0,0,3,2,18,9,0,0,0,0,0.0,0,0,1,2,3,8.0,Left Wing Back,Darmstadt 98,91
+8606.0,3895220,Emir Karic,62,2,4,0,2,1,54,1,0,0,11,0,0,3,0,54,8,4,0,0,2,0.135688124,0,0,2,0,3,6.0,Left Back,Darmstadt 98,204
+8623.0,3895107,Dejan Ljubicic,38,1,0,0,1,0,35,1,0,0,29,0,0,3,0,29,9,0,0,0,True,0.005871595,0,1,0,1,3,19.0,Center Attacking Midfield,FC Köln,136
+8623.0,3895258,Dejan Ljubicic,23,1,0,0,0,0,20,0,0,0,35,2,2,1,1,17,6,0,0,0,0,0.19827367,0,1,0,0,1,11.0,Left Defensive Midfield,FC Köln,112
+8667.0,3895052,Lukáš Hrádecký,26,0,0,0,0,0,10,0,0,0,0,0,0,0,0,20,6,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Bayer Leverkusen,67
+8667.0,3895060,Lukáš Hrádecký,32,0,0,0,0,0,21,0,0,0,0,0,0,0,0,24,8,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Bayer Leverkusen,93
+8667.0,3895067,Lukáš Hrádecký,21,0,0,0,0,0,9,0,0,0,0,0,0,0,0,20,1,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Bayer Leverkusen,57
+8667.0,3895074,Lukáš Hrádecký,27,0,0,0,0,0,9,0,0,0,0,0,0,0,0,23,4,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Bayer Leverkusen,73
+8667.0,3895086,Lukáš Hrádecký,27,0,0,0,0,0,19,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Bayer Leverkusen,70
+8667.0,3895095,Lukáš Hrádecký,28,0,0,0,0,0,13,0,0,0,0,0,0,0,0,23,5,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Bayer Leverkusen,73
+8667.0,3895107,Lukáš Hrádecký,29,0,0,0,0,0,16,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Bayer Leverkusen,68
+8667.0,3895113,Lukáš Hrádecký,41,0,0,0,0,0,24,0,0,0,0,0,0,0,0,32,9,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Bayer Leverkusen,122
+8667.0,3895121,Lukáš Hrádecký,22,0,0,0,0,1,8,0,0,0,0,0,0,0,0,19,3,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Bayer Leverkusen,60
+8667.0,3895134,Lukáš Hrádecký,25,0,0,0,0,0,10,0,0,1,0,0,0,0,0,19,6,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Bayer Leverkusen,65
+8667.0,3895139,Lukáš Hrádecký,25,0,0,0,0,0,15,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Bayer Leverkusen,64
+8667.0,3895153,Lukáš Hrádecký,29,0,0,0,0,0,16,0,0,0,0,0,0,0,0,18,11,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Bayer Leverkusen,71
+8667.0,3895158,Lukáš Hrádecký,19,0,0,0,0,0,5,0,0,0,0,0,0,0,0,18,1,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Bayer Leverkusen,48
+8667.0,3895167,Lukáš Hrádecký,28,0,0,0,0,1,10,0,0,0,0,0,0,0,0,18,10,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Bayer Leverkusen,84
+8667.0,3895180,Lukáš Hrádecký,35,0,0,0,0,0,28,0,0,0,0,0,0,0,0,30,5,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Bayer Leverkusen,97
+8667.0,3895182,Lukáš Hrádecký,30,0,0,0,0,0,17,0,0,0,0,0,0,1,0,23,7,0,0,0,0,0.0,0,0,0,0,1,1.0,Goalkeeper,Bayer Leverkusen,75
+8667.0,3895194,Lukáš Hrádecký,22,0,0,0,0,0,13,1,0,0,1,0,0,0,1,22,0,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Bayer Leverkusen,57
+8667.0,3895202,Lukáš Hrádecký,18,0,0,0,0,0,10,0,0,0,0,0,0,0,0,14,4,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Bayer Leverkusen,52
+8667.0,3895220,Lukáš Hrádecký,40,0,0,0,0,0,22,0,0,0,0,0,0,0,0,33,7,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Bayer Leverkusen,93
+8667.0,3895232,Lukáš Hrádecký,32,0,0,0,0,0,14,0,0,0,0,0,0,0,0,21,11,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Bayer Leverkusen,77
+8667.0,3895244,Lukáš Hrádecký,44,0,0,0,0,0,28,1,0,0,0,0,0,0,0,26,18,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Bayer Leverkusen,111
+8667.0,3895250,Lukáš Hrádecký,29,0,0,0,0,0,9,0,0,0,0,0,0,0,0,20,9,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Bayer Leverkusen,72
+8667.0,3895258,Lukáš Hrádecký,19,0,0,0,0,0,10,0,0,0,0,0,0,0,0,18,1,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Bayer Leverkusen,49
+8667.0,3895266,Lukáš Hrádecký,10,0,0,0,0,0,5,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Bayer Leverkusen,27
+8667.0,3895275,Lukáš Hrádecký,27,0,0,0,0,0,10,0,0,0,0,0,0,0,0,23,4,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Bayer Leverkusen,60
+8667.0,3895286,Lukáš Hrádecký,14,0,0,0,0,0,7,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Bayer Leverkusen,37
+8667.0,3895292,Lukáš Hrádecký,25,0,0,0,0,0,14,0,0,0,0,0,0,0,0,24,1,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Bayer Leverkusen,69
+8667.0,3895302,Lukáš Hrádecký,24,0,0,0,0,0,16,0,0,0,0,0,0,0,0,21,3,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Bayer Leverkusen,71
+8667.0,3895309,Lukáš Hrádecký,22,0,0,0,0,0,16,0,0,0,0,0,0,0,0,20,2,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Bayer Leverkusen,68
+8667.0,3895320,Lukáš Hrádecký,24,0,0,0,0,0,14,0,0,0,0,0,0,0,0,16,8,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Bayer Leverkusen,67
+8667.0,3895333,Lukáš Hrádecký,34,0,0,0,0,0,16,0,0,0,0,0,0,0,0,26,8,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Bayer Leverkusen,94
+8667.0,3895340,Lukáš Hrádecký,31,0,0,0,0,0,14,0,0,0,0,0,0,0,0,25,6,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Bayer Leverkusen,77
+8667.0,3895348,Lukáš Hrádecký,23,0,0,0,0,0,15,0,0,0,0,0,0,0,0,22,1,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Bayer Leverkusen,70
+8676.0,3895095,Danny Vieira da Costa,35,0,0,0,2,0,38,1,1,0,16,0,0,0,0,24,11,0,0,0,True,0.0,0,0,0,0,0,7.0,Right Wing Back,FSV Mainz 05,125
+8769.0,3895052,Xaver Schlager,41,1,1,0,2,0,38,1,0,0,21,2,0,1,0,34,7,1,0,0,0,0.021753032,0,1,2,0,1,11.0,Left Defensive Midfield,RB Leipzig,154
+8769.0,3895202,Xaver Schlager,34,0,0,0,4,1,27,1,2,0,24,3,1,0,0,32,2,0,0,True,0,0.0,0,0,3,0,0,11.0,Left Defensive Midfield,RB Leipzig,142
+8779.0,3895210,Stefan Lainer,4,0,0,0,1,0,4,0,0,0,8,0,0,0,2,4,0,0,0,0,0,0.0,0,0,0,1,0,7.0,Right Wing Back,Borussia Mönchengladbach,24
+8784.0,3895153,Romano Schmid,53,0,1,0,3,0,56,1,7,1,18,2,1,0,0,37,16,1,0,0,0,0.0,0,0,2,1,0,15.0,Left Center Midfield,Werder Bremen,209
+8784.0,3895302,Romano Schmid,52,1,3,0,5,3,61,1,2,0,27,1,0,2,1,41,11,1,2,0,2,0.03447609,0,1,3,1,2,15.0,Left Center Midfield,Werder Bremen,215
+8804.0,3895052,Jonas Hofmann,40,1,0,0,6,0,47,1,1,0,22,0,0,1,1,32,8,0,0,True,3,0.03869969,0,1,4,1,1,17.0,Right Wing,Bayer Leverkusen,152
+8804.0,3895060,Jonas Hofmann,68,5,1,0,1,0,76,0,2,0,9,0,0,0,0,60,8,0,1,True,2,0.580017579,0,2,0,1,0,17.0,Right Wing,Bayer Leverkusen,232
+8804.0,3895067,Jonas Hofmann,66,4,1,0,0,0,73,1,1,0,12,0,0,0,0,56,10,1,0,0,4,0.57159273,1,1,0,0,0,17.0,Right Wing,Bayer Leverkusen,221
+8804.0,3895074,Jonas Hofmann,65,0,4,0,2,3,67,1,1,0,17,2,0,1,2,54,11,1,3,0,True,0.0,0,0,1,0,1,17.0,Right Wing,Bayer Leverkusen,233
+8804.0,3895086,Jonas Hofmann,72,4,0,0,1,1,74,5,0,0,16,0,0,0,0,60,12,0,0,0,True,0.601333106,1,2,0,0,0,18.0,Right Attacking Midfield,Bayer Leverkusen,212
+8804.0,3895095,Jonas Hofmann,44,2,0,0,0,0,49,1,0,0,20,0,0,0,1,35,9,0,0,0,0,0.13575651,1,1,0,0,0,20.0,Left Attacking Midfield,Bayer Leverkusen,152
+8804.0,3895107,Jonas Hofmann,55,3,1,0,0,0,55,1,0,0,31,0,0,0,0,48,7,1,0,True,6,0.270772963,1,1,0,0,0,18.0,Right Attacking Midfield,Bayer Leverkusen,189
+8804.0,3895113,Jonas Hofmann,68,0,1,0,0,2,75,2,0,0,18,1,1,0,0,58,10,0,1,0,True,0.0,0,0,0,0,0,18.0,Right Attacking Midfield,Bayer Leverkusen,231
+8804.0,3895121,Jonas Hofmann,63,2,3,0,0,2,58,1,1,0,14,2,0,1,1,48,15,1,2,0,3,0.195814496,0,1,0,0,1,18.0,Right Attacking Midfield,Bayer Leverkusen,209
+8804.0,3895134,Jonas Hofmann,48,2,0,0,0,0,48,2,0,0,22,1,0,1,1,39,9,0,0,True,0,0.12158527,0,2,0,0,1,18.0,Right Attacking Midfield,Bayer Leverkusen,157
+8804.0,3895139,Jonas Hofmann,64,1,0,0,0,0,61,0,1,0,18,2,0,0,0,52,12,0,0,True,2,0.02942759,0,1,0,0,0,18.0,Right Attacking Midfield,Bayer Leverkusen,194
+8804.0,3895153,Jonas Hofmann,75,2,2,0,4,0,83,2,2,0,43,0,0,0,2,62,13,2,0,0,True,0.10090302000000001,0,1,2,1,0,18.0,Right Attacking Midfield,Bayer Leverkusen,286
+8804.0,3895158,Jonas Hofmann,40,2,0,0,0,0,45,1,0,0,14,1,1,0,0,24,16,0,0,0,4,0.066681136,0,2,0,0,0,18.0,Right Attacking Midfield,Bayer Leverkusen,140
+8804.0,3895167,Jonas Hofmann,15,1,0,0,1,0,17,0,1,0,3,0,0,1,0,12,3,0,0,0,0,0.015310748,0,1,0,0,1,21.0,Left Wing,Bayer Leverkusen,58
+8804.0,3895180,Jonas Hofmann,70,0,1,0,1,0,72,0,0,0,32,0,1,0,1,56,14,0,1,0,0,0.0,0,0,1,0,0,18.0,Right Attacking Midfield,Bayer Leverkusen,238
+8804.0,3895182,Jonas Hofmann,40,2,2,0,2,2,51,0,1,0,14,0,0,0,0,34,6,1,1,0,2,0.134278503,0,1,1,0,0,18.0,Right Attacking Midfield,Bayer Leverkusen,149
+8804.0,3895194,Jonas Hofmann,94,2,1,0,0,0,95,3,2,0,16,1,1,0,1,79,15,1,0,0,5,0.15788673,0,1,0,0,0,18.0,Right Attacking Midfield,Bayer Leverkusen,304
+8804.0,3895202,Jonas Hofmann,58,1,0,0,0,1,51,0,1,0,15,0,0,0,2,43,15,0,0,True,3,0.02334218,0,1,0,0,0,18.0,Right Attacking Midfield,Bayer Leverkusen,181
+8804.0,3895210,Jonas Hofmann,84,5,2,0,1,0,85,0,3,0,28,1,0,0,1,70,14,1,1,0,3,0.334079621,0,2,1,0,0,17.0,Right Wing,Bayer Leverkusen,293
+8804.0,3895220,Jonas Hofmann,13,0,0,0,0,0,14,0,1,0,5,0,0,0,0,13,0,0,0,0,0,0.0,0,0,0,0,0,19.0,Center Attacking Midfield,Bayer Leverkusen,47
+8804.0,3895232,Jonas Hofmann,8,0,0,0,0,0,7,0,0,0,6,0,0,1,1,7,1,0,0,0,0,0.0,0,0,0,0,1,20.0,Left Attacking Midfield,Bayer Leverkusen,28
+8804.0,3895244,Jonas Hofmann,4,0,0,0,0,1,5,0,0,0,6,1,0,0,0,2,2,0,0,0,0,0.0,0,0,0,0,0,19.0,Center Attacking Midfield,Bayer Leverkusen,23
+8804.0,3895250,Jonas Hofmann,36,4,1,0,1,1,32,0,0,0,6,0,0,0,0,25,11,1,0,0,True,0.553304684,0,2,1,0,0,18.0,Right Attacking Midfield,Bayer Leverkusen,105
+8804.0,3895258,Jonas Hofmann,46,1,0,0,3,2,52,0,1,0,12,0,1,0,0,38,8,0,0,0,3,0.09465459,0,1,0,2,0,18.0,Right Attacking Midfield,Bayer Leverkusen,154
+8804.0,3895266,Jonas Hofmann,17,1,0,0,0,0,17,0,0,0,1,0,0,0,0,15,2,0,0,0,True,0.0060533835,0,0,0,0,0,17.0,Right Wing,Bayer Leverkusen,53
+8804.0,3895286,Jonas Hofmann,35,6,1,0,1,1,42,1,0,0,13,0,0,0,0,27,8,1,0,0,3,0.446777793,0,5,1,0,0,18.0,Right Attacking Midfield,Bayer Leverkusen,129
+8804.0,3895302,Jonas Hofmann,46,1,1,0,0,1,47,3,1,0,38,0,0,0,0,38,8,1,0,0,6,0.09542403,0,1,0,0,0,18.0,Right Attacking Midfield,Bayer Leverkusen,178
+8804.0,3895309,Jonas Hofmann,37,1,2,0,2,3,44,0,2,0,24,4,1,0,1,27,10,2,0,0,4,0.017508581,0,1,1,0,0,23.0,Center Forward,Bayer Leverkusen,158
+8804.0,3895320,Jonas Hofmann,40,1,1,0,3,2,44,1,1,0,10,0,0,0,0,32,8,0,1,0,2,0.19331166,0,0,0,2,0,18.0,Right Attacking Midfield,Bayer Leverkusen,137
+8804.0,3895333,Jonas Hofmann,33,2,1,0,0,1,35,1,2,0,41,0,1,1,1,30,3,0,1,0,True,0.092973548,0,1,0,0,1,18.0,Right Attacking Midfield,Bayer Leverkusen,148
+8804.0,3895340,Jonas Hofmann,18,2,0,0,1,0,20,1,0,0,5,0,0,0,1,16,2,0,0,True,4,0.6388131050000001,0,1,0,0,0,3.0,Right Center Back,Bayer Leverkusen,60
+8804.0,3895348,Jonas Hofmann,66,4,0,0,0,0,64,3,0,0,13,0,0,0,0,59,7,0,0,0,3,0.192856276,0,2,0,0,0,18.0,Right Attacking Midfield,Bayer Leverkusen,213
+8805.0,3895210,Christoph Kramer,3,0,0,0,1,0,3,0,0,0,9,1,1,1,0,1,2,0,0,0,0,0.0,0,0,1,0,1,15.0,Left Center Midfield,Borussia Mönchengladbach,21
+8808.0,3895121,Matthias Ginter,40,0,0,0,5,1,35,0,1,0,9,0,0,5,4,32,8,0,0,0,0,0.0,0,0,0,3,5,3.0,Right Center Back,Freiburg,130
+8808.0,3895275,Matthias Ginter,25,0,0,0,0,0,19,0,0,0,5,1,0,2,1,25,0,0,0,0,0,0.0,0,0,0,0,2,4.0,Center Back,Freiburg,79
+8814.0,3895210,Nico Elvedi,35,0,0,0,4,0,28,0,0,0,16,0,1,7,1,30,5,0,0,0,0,0.0,0,0,1,0,7,5.0,Left Center Back,Borussia Mönchengladbach,139
+8816.0,3895060,Julian Weigl,57,0,0,0,3,1,50,0,0,0,28,2,0,0,0,49,8,0,0,0,0,0.0,0,0,2,1,0,9.0,Right Defensive Midfield,Borussia Mönchengladbach,193
+8816.0,3895210,Julian Weigl,40,0,1,0,3,0,26,0,0,0,34,0,0,5,0,38,2,1,0,0,0,0.0,0,0,2,1,5,10.0,Center Defensive Midfield,Borussia Mönchengladbach,140
+8826.0,3895153,Leonardo Bittencourt,49,0,1,0,1,1,47,0,0,0,29,1,0,1,1,40,9,0,1,0,0,0.0,0,0,1,0,1,13.0,Right Center Midfield,Werder Bremen,185
+8826.0,3895302,Leonardo Bittencourt,50,2,2,0,3,4,57,0,2,0,35,1,0,0,1,46,4,0,2,0,True,0.10505227,0,1,0,1,0,13.0,Right Center Midfield,Werder Bremen,216
+8906.0,3895182,Philipp Förster,10,0,0,0,1,0,15,1,2,0,13,2,0,0,0,8,2,0,0,0,0,0.0,0,0,0,0,0,19.0,Center Attacking Midfield,Bochum,52
+8919.0,3895067,Marcel Schuhen,40,0,0,0,0,0,20,0,0,0,0,0,0,0,0,17,23,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Darmstadt 98,113
+8919.0,3895220,Marcel Schuhen,33,0,0,0,0,0,18,0,0,1,0,0,0,0,0,25,8,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Darmstadt 98,91
+8924.0,3895340,Maximilian Wittek,18,0,0,0,8,1,26,1,1,0,14,1,0,1,0,14,4,0,0,0,0,0.0,0,0,1,2,1,21.0,Left Wing,Bochum,94
+8931.0,3895121,Philipp Lienhart,27,0,0,0,0,0,16,0,0,0,1,0,0,2,1,18,9,0,0,0,0,0.0,0,0,0,0,2,5.0,Left Center Back,Freiburg,68
+8931.0,3895275,Philipp Lienhart,18,0,0,0,1,0,17,0,0,0,6,0,0,2,1,17,1,0,0,0,0,0.0,0,0,1,0,2,4.0,Center Back,Freiburg,60
+8934.0,3895320,Pascal Stenzel,1,0,0,0,0,0,2,0,0,0,2,1,0,0,0,1,0,0,0,0,0,0.0,0,0,0,0,0,7.0,Right Wing Back,VfB Stuttgart,8
+8938.0,3895139,Janik Haberer,26,1,3,0,2,0,37,3,0,0,35,0,0,0,1,23,3,3,0,0,0,0.02171633,0,0,0,1,0,17.0,Right Wing,Union Berlin,140
+8939.0,3895121,Nicolas Höfler,27,0,0,0,5,1,21,0,2,0,25,1,0,1,1,22,5,0,0,0,0,0.0,0,0,2,3,1,10.0,Center Defensive Midfield,Freiburg,115
+8939.0,3895275,Nicolas Höfler,35,1,0,0,5,1,26,0,1,0,21,2,0,1,1,30,5,0,0,0,0,0.032508153,0,0,2,1,1,9.0,Right Defensive Midfield,Freiburg,118
+8945.0,3895275,Christian Günter,43,2,0,0,0,0,40,0,1,0,9,2,0,3,1,33,10,0,0,0,True,0.051873596,0,2,0,0,3,8.0,Left Wing Back,Freiburg,131
+8949.0,3895182,Takuma Asano,4,0,0,0,2,1,16,1,2,0,18,1,0,0,0,2,2,0,0,0,0,0.0,0,0,0,0,0,17.0,Right Wing,Bochum,51
+8949.0,3895340,Takuma Asano,4,0,0,0,1,0,9,3,0,0,3,0,0,0,0,2,2,0,0,0,0,0.0,0,0,0,0,0,17.0,Right Wing,Bochum,26
+8960.0,3895182,Bernardo Fernandes da Silva Junior,30,1,0,0,6,0,27,1,0,0,18,1,0,2,0,20,10,0,0,0,0,0.045845725,0,0,2,3,2,6.0,Left Back,Bochum,113
+8960.0,3895340,Bernardo Fernandes da Silva Junior,14,0,0,0,2,0,10,0,0,0,5,0,0,2,0,11,3,0,0,0,0,0.0,0,0,0,1,2,6.0,Left Back,Bochum,44
+8962.0,3895134,Ihlas Bebou,9,0,2,0,0,0,10,1,0,0,1,0,0,0,0,7,2,1,1,0,0,0.0,0,0,0,0,0,7.0,Right Wing Back,Hoffenheim,32
+8962.0,3895286,Ihlas Bebou,7,0,1,0,1,0,15,3,1,0,4,1,0,0,0,4,3,0,1,0,0,0.0,0,0,0,0,0,24.0,Left Center Forward,Hoffenheim,38
+9085.0,3895309,Salih Özcan,4,0,0,0,0,0,2,0,0,0,1,0,0,0,0,3,1,0,0,0,0,0.0,0,0,0,0,0,9.0,Right Defensive Midfield,Borussia Dortmund,9
+9088.0,3895182,Danilo Teodoro Soares,18,0,0,0,0,0,15,1,0,0,5,0,1,0,0,14,4,0,0,0,0,0.0,0,0,0,0,0,8.0,Left Wing Back,Bochum,55
+9089.0,3895182,Anthony Losilla,28,1,1,0,2,0,28,2,1,0,22,2,2,0,0,28,0,0,1,0,True,0.04213696,0,1,0,1,0,13.0,Right Center Midfield,Bochum,110
+9089.0,3895340,Anthony Losilla,14,0,0,0,2,0,8,0,0,0,7,0,0,1,1,10,4,0,0,0,0,0.0,0,0,1,1,1,9.0,Right Defensive Midfield,Bochum,42
+9095.0,3895182,Manuel Riemann,63,0,0,0,0,0,37,0,0,0,2,1,0,0,0,27,36,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Bochum,164
+9095.0,3895340,Manuel Riemann,46,0,0,0,0,0,19,0,0,0,0,0,0,0,0,30,16,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Bochum,123
+9102.0,3895167,Serhou Guirassy,30,3,2,0,2,3,60,3,2,0,10,0,0,2,0,28,2,0,2,0,3,0.436844954,0,1,1,0,2,23.0,Center Forward,VfB Stuttgart,145
+9102.0,3895320,Serhou Guirassy,35,6,1,0,0,2,69,4,1,0,15,0,0,2,1,28,7,1,0,0,0,1.434243433,0,5,0,0,2,24.0,Left Center Forward,VfB Stuttgart,170
+9109.0,3895086,Jonas Föhrenbach,45,0,0,0,1,1,30,0,0,0,14,2,0,1,1,31,14,0,0,0,0,0.0,0,0,1,0,1,6.0,Left Back,FC Heidenheim,127
+9109.0,3895244,Jonas Föhrenbach,45,0,1,0,2,0,30,0,1,0,7,4,0,4,1,29,16,0,1,0,0,0.0,0,0,0,1,4,6.0,Left Back,FC Heidenheim,129
+9110.0,3895244,Benedikt Gimber,20,1,0,0,1,0,16,1,0,0,15,2,1,4,1,16,4,0,0,0,0,0.06789194,0,0,1,0,4,5.0,Left Center Back,FC Heidenheim,80
+9125.0,3895258,Sargis Adamyan,11,3,1,0,2,4,34,4,2,0,15,1,0,0,0,7,4,1,0,0,0,0.38559688999999997,0,2,0,1,0,22.0,Right Center Forward,FC Köln,104
+9133.0,3895134,Marius Bülter,47,1,1,0,1,0,43,0,1,0,16,3,0,1,1,29,18,0,1,0,2,0.006225055,0,0,0,0,1,8.0,Left Wing Back,Hoffenheim,152
+9133.0,3895286,Marius Bülter,4,0,0,0,1,0,8,1,0,0,2,0,0,0,0,2,2,0,0,0,0,0.0,0,0,0,0,0,22.0,Right Center Forward,Hoffenheim,17
+9159.0,3895134,Grischa Prömel,56,0,1,0,3,2,55,1,1,0,11,1,0,3,1,49,7,1,0,0,True,0.0,0,0,1,0,3,15.0,Left Center Midfield,Hoffenheim,176
+9159.0,3895286,Grischa Prömel,8,1,0,0,0,0,6,0,0,0,5,0,0,1,0,7,1,0,0,0,True,0.08963502,0,1,0,0,1,15.0,Left Center Midfield,Hoffenheim,28
+9164.0,3895139,Christopher Trimmel,20,0,0,0,1,0,18,0,0,0,14,0,0,2,0,13,7,0,0,0,0,0.0,0,0,0,0,2,7.0,Right Wing Back,Union Berlin,71
+9164.0,3895292,Christopher Trimmel,24,0,0,0,3,0,13,0,0,0,7,1,0,2,0,14,10,0,0,0,True,0.0,0,0,2,0,2,7.0,Right Wing Back,Union Berlin,66
+9174.0,3895060,Marvin Friedrich,48,4,0,0,2,0,47,1,0,0,15,0,0,5,0,44,4,0,0,0,0,0.203116767,0,4,0,2,5,3.0,Right Center Back,Borussia Mönchengladbach,174
+9174.0,3895210,Marvin Friedrich,32,0,0,0,1,0,22,0,0,0,12,0,2,16,1,28,4,0,0,0,0,0.0,0,0,0,0,16,4.0,Center Back,Borussia Mönchengladbach,109
+9186.0,3895244,Marnon Busch,16,0,0,0,1,0,10,0,0,0,4,0,0,0,0,11,5,0,0,0,0,0.0,0,0,1,0,0,2.0,Right Back,FC Heidenheim,41
+9195.0,3895052,Robert Andrich,4,0,0,0,0,0,4,1,0,0,6,1,0,1,0,4,0,0,0,0,0,0.0,0,0,0,0,1,10.0,Center Defensive Midfield,Bayer Leverkusen,18
+9195.0,3895060,Robert Andrich,25,0,0,0,0,0,22,0,1,0,6,0,0,1,0,22,3,0,0,0,0,0.0,0,0,0,0,1,9.0,Right Defensive Midfield,Bayer Leverkusen,82
+9195.0,3895067,Robert Andrich,36,0,0,0,0,0,32,0,0,0,1,0,0,0,0,34,2,0,0,0,0,0.0,0,0,0,0,0,11.0,Left Defensive Midfield,Bayer Leverkusen,100
+9195.0,3895074,Robert Andrich,32,0,0,0,2,0,30,0,0,0,3,0,0,3,1,25,7,0,0,0,0,0.0,0,0,0,0,3,9.0,Right Defensive Midfield,Bayer Leverkusen,98
+9195.0,3895086,Robert Andrich,16,0,0,0,0,0,16,0,0,0,4,0,0,1,1,14,2,0,0,0,0,0.0,0,0,0,0,1,9.0,Right Defensive Midfield,Bayer Leverkusen,52
+9195.0,3895095,Robert Andrich,6,0,0,0,2,0,9,0,0,0,3,0,0,0,1,6,0,0,0,0,0,0.0,0,0,0,0,0,11.0,Left Defensive Midfield,Bayer Leverkusen,26
+9195.0,3895134,Robert Andrich,5,0,0,0,1,0,3,0,0,0,2,0,0,0,0,5,0,0,0,0,0,0.0,0,0,0,0,0,13.0,Right Center Midfield,Bayer Leverkusen,14
+9195.0,3895139,Robert Andrich,13,0,0,0,0,0,13,0,0,0,0,1,0,0,0,13,0,0,0,0,0,0.0,0,0,0,0,0,9.0,Right Defensive Midfield,Bayer Leverkusen,37
+9195.0,3895153,Robert Andrich,68,0,0,0,1,2,54,0,0,0,9,1,1,1,0,66,2,0,0,0,0,0.0,0,0,0,0,1,4.0,Center Back,Bayer Leverkusen,190
+9195.0,3895182,Robert Andrich,92,0,0,0,4,1,78,1,0,0,18,2,2,2,0,80,12,0,0,0,0,0.0,0,0,2,1,2,11.0,Left Defensive Midfield,Bayer Leverkusen,265
+9195.0,3895194,Robert Andrich,90,1,0,0,4,2,73,0,0,0,10,0,1,3,1,85,5,0,0,0,0,0.13132846,0,0,1,0,3,4.0,Center Back,Bayer Leverkusen,257
+9195.0,3895202,Robert Andrich,1,0,0,0,0,0,0,0,0,0,2,1,0,0,0,1,0,0,0,0,0,0.0,0,0,0,0,0,11.0,Left Defensive Midfield,Bayer Leverkusen,4
+9195.0,3895210,Robert Andrich,144,1,0,0,3,0,119,0,0,0,9,1,1,1,0,134,10,0,0,0,2,0.025872136,0,1,0,1,1,4.0,Center Back,Bayer Leverkusen,421
+9195.0,3895220,Robert Andrich,92,2,0,0,1,0,76,0,0,0,11,1,1,0,0,85,7,0,0,0,0,0.146976736,0,1,1,0,0,9.0,Right Defensive Midfield,Bayer Leverkusen,250
+9195.0,3895232,Robert Andrich,35,1,0,0,3,3,29,0,0,0,23,2,0,2,1,31,4,0,0,True,0,0.049609818,0,1,3,0,2,11.0,Left Defensive Midfield,Bayer Leverkusen,127
+9195.0,3895244,Robert Andrich,65,2,2,0,6,0,49,2,0,0,18,0,1,3,2,59,6,1,1,0,0,0.09801819,0,1,2,1,3,9.0,Right Defensive Midfield,Bayer Leverkusen,204
+9195.0,3895250,Robert Andrich,85,1,0,0,5,1,77,0,0,0,15,2,0,1,0,76,9,0,0,0,2,0.0062867645,1,0,2,3,1,11.0,Left Defensive Midfield,Bayer Leverkusen,251
+9195.0,3895258,Robert Andrich,85,0,0,0,1,1,80,2,0,0,8,2,0,1,0,78,7,0,0,0,True,0.0,0,0,1,0,1,11.0,Left Defensive Midfield,Bayer Leverkusen,254
+9195.0,3895266,Robert Andrich,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.0,0,0,0,0,0,11.0,Left Defensive Midfield,Bayer Leverkusen,3
+9195.0,3895275,Robert Andrich,7,0,0,0,1,0,6,0,0,0,3,0,0,1,0,6,1,0,0,0,0,0.0,0,0,0,0,1,10.0,Center Defensive Midfield,Bayer Leverkusen,23
+9195.0,3895286,Robert Andrich,93,3,1,0,6,0,81,1,0,0,12,2,0,1,0,78,15,0,1,0,3,0.28477740900000004,1,2,3,2,1,9.0,Right Defensive Midfield,Bayer Leverkusen,273
+9195.0,3895292,Robert Andrich,72,2,2,0,3,1,66,0,1,0,13,4,0,2,0,67,5,1,1,0,True,0.098477819,0,1,1,1,2,9.0,Right Defensive Midfield,Bayer Leverkusen,243
+9195.0,3895302,Robert Andrich,88,0,1,0,0,2,77,1,0,0,16,1,0,1,2,82,6,1,0,True,True,0.0,0,0,0,0,1,11.0,Left Defensive Midfield,Bayer Leverkusen,269
+9195.0,3895309,Robert Andrich,50,0,0,0,0,3,39,1,0,0,16,2,2,0,0,44,6,0,0,0,0,0.0,0,0,0,0,0,11.0,Left Defensive Midfield,Bayer Leverkusen,152
+9195.0,3895320,Robert Andrich,74,4,0,0,2,1,62,0,2,1,17,1,0,0,0,65,9,0,0,0,True,0.313783216,1,2,1,0,0,9.0,Right Defensive Midfield,Bayer Leverkusen,226
+9195.0,3895333,Robert Andrich,61,0,0,0,2,0,45,0,0,0,8,1,0,2,0,56,5,0,0,0,0,0.0,0,0,2,0,2,4.0,Center Back,Bayer Leverkusen,165
+9195.0,3895340,Robert Andrich,70,2,1,0,2,1,59,0,0,0,5,1,2,0,0,61,9,1,0,0,6,0.09708438999999999,0,2,0,0,0,9.0,Right Defensive Midfield,Bayer Leverkusen,205
+9195.0,3895348,Robert Andrich,91,4,4,0,3,0,87,0,1,0,14,1,0,1,0,86,5,3,1,0,2,0.44954254899999996,1,2,3,0,1,9.0,Right Defensive Midfield,Bayer Leverkusen,302
+9198.0,3895194,Niklas Dorsch,27,0,1,0,3,0,15,1,1,0,18,2,0,4,1,23,4,1,0,0,0,0.0,0,0,2,1,4,10.0,Center Defensive Midfield,Augsburg,105
+9198.0,3895348,Niklas Dorsch,45,1,0,0,0,2,45,0,2,0,11,0,0,2,1,43,2,0,0,0,True,0.034268443,0,1,0,0,2,15.0,Left Center Midfield,Augsburg,160
+9201.0,3895086,Nikola Dovedan,16,0,2,0,7,1,15,2,3,0,36,1,0,1,0,11,5,1,1,0,0,0.0,0,0,4,0,1,19.0,Center Attacking Midfield,FC Heidenheim,110
+9201.0,3895244,Nikola Dovedan,22,1,2,0,0,2,24,3,2,0,23,0,1,1,3,15,7,2,0,True,True,0.056982346,0,0,0,0,1,15.0,Left Center Midfield,FC Heidenheim,118
+9203.0,3895086,Norman Theuerkauf,14,0,0,0,2,0,14,0,0,0,8,1,0,2,0,13,1,0,0,0,0,0.0,0,0,0,0,2,11.0,Left Defensive Midfield,FC Heidenheim,55
+9205.0,3895086,Kevin Müller,42,0,0,0,0,0,25,0,0,0,0,0,0,0,0,27,15,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,FC Heidenheim,117
+9205.0,3895244,Kevin Müller,38,0,0,0,1,0,16,0,0,0,2,0,0,0,1,25,13,0,0,0,0,0.0,0,0,1,0,0,1.0,Goalkeeper,FC Heidenheim,103
+9209.0,3895067,Tim Skarke,5,2,1,0,1,0,12,0,1,0,4,1,0,0,0,4,1,0,1,0,0,0.036261563,0,2,1,0,0,24.0,Left Center Forward,Darmstadt 98,33
+9209.0,3895220,Tim Skarke,35,0,0,0,1,0,35,2,1,0,22,0,1,1,3,24,11,0,0,0,2,0.0,0,0,0,0,1,12.0,Right Midfield,Darmstadt 98,135
+9219.0,3895067,Tobias Kempe,8,0,0,0,1,0,9,1,0,0,6,0,0,0,0,6,2,0,0,0,True,0.0,0,0,1,0,0,12.0,Right Midfield,Darmstadt 98,31
+9221.0,3895194,Phillip Tietz,23,1,0,0,5,0,30,1,0,0,35,3,0,3,0,20,3,0,0,0,0,0.12377237,0,1,2,1,3,22.0,Right Center Forward,Augsburg,123
+9221.0,3895348,Phillip Tietz,25,0,1,0,0,0,34,2,2,0,9,1,0,1,0,16,9,1,0,0,True,0.0,0,0,0,0,1,24.0,Left Center Forward,Augsburg,104
+9222.0,3895067,Fabian Holland,27,0,0,0,3,1,31,1,1,0,26,2,1,3,0,21,6,0,0,0,0,0.0,0,0,0,1,3,15.0,Left Center Midfield,Darmstadt 98,130
+9222.0,3895220,Fabian Holland,20,0,0,0,4,2,20,3,0,1,25,2,0,0,1,18,2,0,0,0,True,0.0,0,0,2,0,0,11.0,Left Defensive Midfield,Darmstadt 98,100
+9225.0,3895067,Marvin Mehlem,29,0,0,0,5,2,24,2,0,0,23,2,0,0,3,23,6,0,0,0,2,0.0,0,0,2,2,0,13.0,Right Center Midfield,Darmstadt 98,129
+9225.0,3895220,Marvin Mehlem,14,0,0,0,1,1,15,1,2,0,10,2,0,0,1,14,0,0,0,0,0,0.0,0,0,1,0,0,11.0,Left Defensive Midfield,Darmstadt 98,68
+9227.0,3895194,Sven Michel,3,0,0,0,1,0,6,1,0,0,5,2,0,1,0,2,1,0,0,0,0,0.0,0,0,0,0,1,22.0,Right Center Forward,Augsburg,23
+9227.0,3895348,Sven Michel,7,0,0,0,4,0,9,1,0,0,6,0,0,0,0,2,5,0,0,0,True,0.0,0,0,3,0,0,24.0,Left Center Forward,Augsburg,36
+9230.0,3895182,Christopher Antwi-Adjej,19,1,0,0,4,1,25,1,0,0,12,1,1,0,0,11,8,0,0,0,2,0.06309424,0,1,2,1,0,21.0,Left Wing,Bochum,79
+9397.0,3895286,Pavel Kadeřábek,39,0,2,0,2,0,33,1,0,0,18,2,0,2,1,22,17,0,2,0,True,0.0,0,0,0,0,2,7.0,Right Wing Back,Hoffenheim,121
+9402.0,3895292,Rani Khedira,18,1,0,0,3,0,13,0,0,0,9,1,0,1,0,15,3,0,0,0,0,0.048803795,0,1,2,0,1,10.0,Center Defensive Midfield,Union Berlin,58
+9410.0,3895158,Marius Wolf,44,0,1,0,4,1,31,1,0,0,23,0,1,1,1,28,16,1,0,0,0,0.0,0,0,2,2,1,2.0,Right Back,Borussia Dortmund,151
+9410.0,3895309,Marius Wolf,38,1,1,0,1,0,30,0,0,0,12,1,0,0,0,30,8,0,1,0,0,0.05357171,0,1,1,0,0,2.0,Right Back,Borussia Dortmund,108
+10012.0,3895167,Josha Mamadou Karaboue Vagnoman,42,1,0,0,5,0,39,0,1,0,12,1,0,0,1,38,4,0,0,True,0,0.26228788,0,1,3,0,0,7.0,Right Wing Back,VfB Stuttgart,145
+10014.0,3895139,Kevin Behrens,5,0,0,0,0,0,10,0,0,0,12,1,0,0,0,3,2,0,0,0,0,0.0,0,0,0,0,0,23.0,Center Forward,Union Berlin,32
+10014.0,3895266,Kevin Behrens,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0.0,0,0,0,0,0,23.0,Center Forward,Wolfsburg,5
+10016.0,3895107,Leart Paqarada,54,0,2,0,1,0,40,0,0,0,6,1,0,4,1,39,15,1,1,0,3,0.0,0,0,0,0,4,6.0,Left Back,FC Köln,146
+10016.0,3895258,Leart Paqarada,8,0,0,0,0,0,5,0,0,0,0,0,0,1,0,6,2,0,0,0,0,0.0,0,0,0,0,1,6.0,Left Back,FC Köln,23
+10303.0,3895086,Patrick Mainka,31,0,0,0,1,0,24,0,1,0,23,0,0,6,1,29,2,0,0,0,0,0.0,0,0,0,1,6,3.0,Right Center Back,FC Heidenheim,116
+10303.0,3895244,Patrick Mainka,51,0,2,0,8,0,35,1,0,0,23,1,0,5,2,41,10,1,1,0,0,0.0,0,0,4,1,5,3.0,Right Center Back,FC Heidenheim,173
+10336.0,3895052,Alejandro Grimaldo García,41,1,2,0,1,0,31,0,0,0,10,1,0,0,0,31,10,2,0,0,0,0.12706259,0,1,0,1,0,8.0,Left Wing Back,Bayer Leverkusen,120
+10336.0,3895060,Alejandro Grimaldo García,62,1,1,0,3,0,51,2,1,0,5,1,0,1,0,51,11,0,1,True,2,0.10086409,0,1,0,1,1,8.0,Left Wing Back,Bayer Leverkusen,180
+10336.0,3895067,Alejandro Grimaldo García,58,4,1,0,3,1,48,0,1,0,7,0,0,0,1,47,11,0,1,0,0,0.303538804,0,3,1,2,0,8.0,Left Wing Back,Bayer Leverkusen,177
+10336.0,3895074,Alejandro Grimaldo García,66,2,2,0,6,1,50,3,0,0,16,0,1,3,0,58,8,0,2,0,3,0.0989168,1,1,2,2,3,8.0,Left Wing Back,Bayer Leverkusen,214
+10336.0,3895086,Alejandro Grimaldo García,68,1,0,0,3,2,56,1,0,0,9,0,0,1,1,59,9,0,0,True,True,0.10766188,0,0,0,2,1,8.0,Left Wing Back,Bayer Leverkusen,198
+10336.0,3895095,Alejandro Grimaldo García,67,2,3,0,4,1,43,2,0,0,23,1,0,4,3,55,12,1,2,0,0,0.129040395,1,1,2,1,4,8.0,Left Wing Back,Bayer Leverkusen,222
+10336.0,3895107,Alejandro Grimaldo García,89,2,2,0,0,1,85,2,0,0,17,0,1,1,0,81,8,1,1,True,True,0.1161121034,0,1,0,0,1,8.0,Left Wing Back,Bayer Leverkusen,286
+10336.0,3895113,Alejandro Grimaldo García,62,1,1,0,2,2,51,0,1,0,10,3,0,2,0,55,7,0,1,0,2,0.12249167,1,0,1,0,2,8.0,Left Wing Back,Bayer Leverkusen,193
+10336.0,3895121,Alejandro Grimaldo García,55,1,1,0,4,0,44,2,0,0,7,1,2,3,2,47,8,1,0,0,0,0.007893321,0,1,2,1,3,8.0,Left Wing Back,Bayer Leverkusen,181
+10336.0,3895134,Alejandro Grimaldo García,59,3,1,0,1,1,53,0,0,0,18,0,0,4,3,52,7,0,1,0,True,0.152171617,2,0,1,0,4,8.0,Left Wing Back,Bayer Leverkusen,198
+10336.0,3895139,Alejandro Grimaldo García,72,2,1,0,1,0,65,0,0,0,6,0,0,1,1,63,9,0,1,True,True,0.036478808,1,1,0,0,1,8.0,Left Wing Back,Bayer Leverkusen,216
+10336.0,3895153,Alejandro Grimaldo García,66,2,1,0,2,1,61,2,0,0,17,1,0,1,0,54,12,1,0,0,2,0.08750095199999999,1,0,1,0,1,8.0,Left Wing Back,Bayer Leverkusen,204
+10336.0,3895158,Alejandro Grimaldo García,88,4,1,0,0,0,78,1,0,0,3,0,0,1,1,62,26,1,0,0,0,0.122428113,0,3,0,0,1,8.0,Left Wing Back,Bayer Leverkusen,249
+10336.0,3895167,Alejandro Grimaldo García,64,3,1,0,2,1,56,1,1,0,11,0,0,1,1,50,14,1,0,0,5,0.137512946,0,2,1,1,1,8.0,Left Wing Back,Bayer Leverkusen,198
+10336.0,3895180,Alejandro Grimaldo García,47,2,1,0,7,2,36,1,0,0,14,0,0,1,1,40,7,0,1,0,True,0.14433041000000002,0,0,0,2,1,8.0,Left Wing Back,Bayer Leverkusen,165
+10336.0,3895182,Alejandro Grimaldo García,72,1,3,0,0,0,71,3,2,0,5,0,0,2,0,64,8,2,1,True,2,0.4563931,0,1,0,0,2,8.0,Left Wing Back,Bayer Leverkusen,228
+10336.0,3895194,Alejandro Grimaldo García,92,3,2,0,1,3,83,1,1,0,7,0,0,0,0,75,17,2,0,True,3,0.12872912,0,1,1,0,0,8.0,Left Wing Back,Bayer Leverkusen,269
+10336.0,3895202,Alejandro Grimaldo García,71,2,1,0,1,1,67,1,0,0,9,1,1,1,0,62,9,1,0,2,3,0.068947707,0,2,0,1,1,8.0,Left Wing Back,Bayer Leverkusen,218
+10336.0,3895210,Alejandro Grimaldo García,93,3,3,0,2,2,95,4,2,0,15,0,0,0,1,82,11,2,1,0,3,0.21722592599999999,0,3,1,0,0,8.0,Left Wing Back,Bayer Leverkusen,320
+10336.0,3895220,Alejandro Grimaldo García,75,0,3,0,3,2,70,1,2,0,4,0,1,1,0,59,16,2,1,True,4,0.0,0,0,2,0,1,8.0,Left Wing Back,Bayer Leverkusen,223
+10336.0,3895232,Alejandro Grimaldo García,46,1,0,0,0,1,38,0,3,0,10,0,0,1,1,41,5,0,0,0,2,0.15563484,1,0,0,0,1,8.0,Left Wing Back,Bayer Leverkusen,134
+10336.0,3895244,Alejandro Grimaldo García,84,1,3,0,4,1,68,0,0,0,16,1,0,1,1,63,21,0,3,0,6,0.05416238,0,1,0,4,1,8.0,Left Wing Back,Bayer Leverkusen,247
+10336.0,3895250,Alejandro Grimaldo García,65,3,1,0,0,0,53,1,1,0,15,1,0,2,0,49,16,1,0,0,2,0.11348829399999999,0,2,0,0,2,8.0,Left Wing Back,Bayer Leverkusen,191
+10336.0,3895258,Alejandro Grimaldo García,94,7,0,0,1,0,88,2,0,0,11,0,0,0,1,84,10,0,0,0,3,0.265340431,1,5,0,0,0,8.0,Left Wing Back,Bayer Leverkusen,290
+10336.0,3895266,Alejandro Grimaldo García,93,2,1,0,0,0,83,0,1,0,5,1,0,1,1,80,13,1,0,True,3,0.054300913,0,2,0,0,1,8.0,Left Wing Back,Bayer Leverkusen,269
+10336.0,3895275,Alejandro Grimaldo García,63,3,1,0,1,0,59,1,1,0,9,0,0,3,0,54,9,0,1,True,3,0.191165494,0,3,0,1,3,8.0,Left Wing Back,Bayer Leverkusen,195
+10336.0,3895286,Alejandro Grimaldo García,88,4,0,0,2,2,75,2,0,0,10,0,0,1,0,73,15,0,0,0,3,0.129172764,0,2,0,1,1,8.0,Left Wing Back,Bayer Leverkusen,263
+10336.0,3895292,Alejandro Grimaldo García,91,3,1,0,5,1,80,0,1,0,11,1,0,2,2,75,16,0,1,0,4,0.22298305100000002,0,1,3,0,2,8.0,Left Wing Back,Bayer Leverkusen,274
+10336.0,3895302,Alejandro Grimaldo García,10,0,0,0,2,0,8,0,1,0,2,0,0,1,0,10,0,0,0,True,0,0.0,0,0,0,2,1,8.0,Left Wing Back,Bayer Leverkusen,34
+10336.0,3895309,Alejandro Grimaldo García,55,4,2,0,2,1,53,2,2,0,6,1,0,2,1,46,9,1,1,0,True,0.137780227,0,2,0,1,2,8.0,Left Wing Back,Bayer Leverkusen,181
+10336.0,3895320,Alejandro Grimaldo García,40,2,0,0,0,3,32,1,0,0,5,0,0,0,1,30,10,0,0,True,0,0.35854277,0,1,0,0,0,8.0,Left Wing Back,Bayer Leverkusen,115
+10336.0,3895340,Alejandro Grimaldo García,17,1,0,0,0,0,17,0,1,0,2,0,0,0,0,12,5,0,0,0,True,0.86161053,1,0,0,0,0,8.0,Left Wing Back,Bayer Leverkusen,53
+10336.0,3895348,Alejandro Grimaldo García,46,0,0,0,2,0,41,1,0,0,6,1,0,1,0,39,7,0,0,0,True,0.0,0,0,1,1,1,8.0,Left Wing Back,Bayer Leverkusen,136
+10480.0,3895095,Anthony Caci,51,0,1,0,0,0,34,1,0,0,13,2,0,1,1,39,12,0,1,0,0,0.0,0,0,0,0,1,8.0,Left Wing Back,FSV Mainz 05,141
+10480.0,3895250,Anthony Caci,34,1,0,0,4,0,27,0,0,0,17,2,0,1,1,25,9,0,0,0,0,0.025662301,0,0,3,1,1,5.0,Left Center Back,FSV Mainz 05,127
+10955.0,3895074,Harry Kane,17,2,2,0,0,1,30,3,3,0,13,0,0,0,1,9,8,2,0,0,True,0.85733924,1,0,0,0,0,23.0,Center Forward,Bayern Munich,96
+10955.0,3895232,Harry Kane,12,1,0,0,1,1,26,1,0,0,12,0,0,1,0,8,4,0,0,0,0,0.03253544,0,1,0,0,1,23.0,Center Forward,Bayern Munich,71
+10956.0,3895232,Eric Dier,119,0,0,0,4,1,102,0,0,0,8,4,0,4,0,100,19,0,0,0,0,0.0,0,0,0,1,4,4.0,Center Back,Bayern Munich,340
+11175.0,3895139,Diogo Filipe Monteiro Pinto Leite,50,0,0,0,3,1,28,0,0,0,20,1,1,2,0,42,8,0,0,0,0,0.0,0,0,1,1,2,5.0,Left Center Back,Union Berlin,151
+11175.0,3895292,Diogo Filipe Monteiro Pinto Leite,39,1,2,0,4,3,41,2,0,0,18,2,0,2,2,34,5,0,2,0,0,0.07846915,0,1,1,2,2,5.0,Left Center Back,Union Berlin,161
+11278.0,3895095,Karim Onisiwo,21,3,3,0,4,4,56,5,2,0,19,1,1,0,1,16,5,1,2,0,0,0.163829855,0,1,1,0,0,23.0,Center Forward,FSV Mainz 05,145
+11278.0,3895250,Karim Onisiwo,15,1,1,0,10,3,52,4,2,0,32,2,0,1,1,11,4,0,1,0,True,0.028864658,0,0,0,1,1,23.0,Center Forward,FSV Mainz 05,141
+11279.0,3895107,Davie Selke,11,1,0,0,1,3,30,3,0,0,22,2,0,1,0,10,1,0,0,0,0,0.09981244,0,1,0,0,1,22.0,Right Center Forward,FC Köln,80
+11282.0,3895121,Vincenzo Grifo,20,0,1,0,1,3,20,1,0,0,7,1,0,1,0,13,7,1,0,True,0,0.0,0,0,1,0,1,16.0,Left Midfield,Freiburg,68
+11282.0,3895275,Vincenzo Grifo,30,0,0,0,1,0,20,0,0,0,4,0,0,1,0,23,7,0,0,0,3,0.0,0,0,0,0,1,21.0,Left Wing,Freiburg,84
+11382.0,3895086,Tim Kleindienst,20,1,0,0,3,0,33,1,1,0,21,2,0,1,1,12,8,0,0,0,0,0.24645855,0,0,0,1,1,23.0,Center Forward,FC Heidenheim,101
+11382.0,3895244,Tim Kleindienst,23,2,0,0,10,0,54,3,2,0,24,2,0,1,0,15,8,0,0,0,0,0.29882722500000003,1,1,0,0,1,23.0,Center Forward,FC Heidenheim,139
+11391.0,3895220,Borja Iglesias Quintas,28,3,1,0,7,1,45,2,1,0,11,0,0,1,1,24,4,1,0,0,2,0.7344288999999999,0,1,1,0,1,23.0,Center Forward,Bayer Leverkusen,125
+11391.0,3895244,Borja Iglesias Quintas,11,1,0,0,2,0,17,0,2,0,6,0,0,0,0,10,1,0,0,0,True,0.024886785,0,1,0,0,0,22.0,Right Center Forward,Bayer Leverkusen,56
+11391.0,3895258,Borja Iglesias Quintas,10,0,0,0,0,0,18,2,0,0,10,2,0,0,0,8,2,0,0,0,0,0.0,0,0,0,0,0,23.0,Center Forward,Bayer Leverkusen,53
+11391.0,3895266,Borja Iglesias Quintas,3,1,0,0,0,1,9,0,1,0,3,0,0,0,0,2,1,0,0,0,0,0.09381463,0,1,0,0,0,23.0,Center Forward,Bayer Leverkusen,23
+11391.0,3895286,Borja Iglesias Quintas,7,1,1,0,1,0,14,1,0,0,7,0,0,0,0,5,2,0,1,0,True,0.13514416,0,0,0,0,0,24.0,Left Center Forward,Bayer Leverkusen,38
+11391.0,3895292,Borja Iglesias Quintas,14,2,0,0,1,1,25,2,0,0,7,0,0,0,0,8,6,0,0,0,0,0.203266516,0,1,0,0,0,23.0,Center Forward,Bayer Leverkusen,69
+11391.0,3895340,Borja Iglesias Quintas,4,0,0,0,0,0,9,1,0,0,4,1,0,0,0,4,0,0,0,0,True,0.0,0,0,0,0,0,23.0,Center Forward,Bayer Leverkusen,24
+11396.0,3895286,Florian Grillitsch,39,0,0,0,7,0,26,0,0,0,15,0,0,13,2,35,4,0,0,0,0,0.0,0,0,3,2,13,4.0,Center Back,Hoffenheim,128
+11399.0,3895060,Robin Hack,12,0,0,0,1,1,11,0,0,0,12,0,0,0,0,11,1,0,0,0,0,0.0,0,0,1,0,0,21.0,Left Wing,Borussia Mönchengladbach,48
+11399.0,3895210,Robin Hack,18,1,1,0,1,1,34,1,2,0,37,0,0,1,1,15,3,1,0,0,0,0.062127307,0,1,0,0,1,24.0,Left Center Forward,Borussia Mönchengladbach,120
+11459.0,3895121,Lukas Kübler,28,1,0,0,0,0,20,1,0,0,9,2,0,3,0,23,5,0,0,0,0,0.021455169,0,1,0,0,3,6.0,Left Back,Freiburg,98
+11468.0,3895258,Benno Schmitz,7,0,0,0,1,0,5,0,0,0,4,0,0,0,1,6,1,0,0,0,0,0.0,0,0,1,0,0,2.0,Right Back,FC Köln,24
+11814.0,3895067,Christoph Zimmermann,10,0,0,0,0,0,8,0,0,0,2,0,0,6,3,10,0,0,0,0,0,0.0,0,0,0,0,6,4.0,Center Back,Darmstadt 98,42
+11814.0,3895220,Christoph Zimmermann,45,1,0,0,3,0,31,2,0,0,14,1,0,4,0,37,8,0,0,0,0,0.0377309,0,0,1,0,4,3.0,Right Center Back,Darmstadt 98,137
+11818.0,3895095,Aymen Barkok,18,1,0,0,1,0,19,1,0,0,7,2,0,0,1,15,3,0,0,0,0,0.053944573,0,1,1,0,0,7.0,Right Wing Back,FSV Mainz 05,69
+11819.0,3895095,Marco Richter,7,0,0,0,0,0,7,0,0,0,2,0,0,0,0,3,4,0,0,0,0,0.0,0,0,0,0,0,18.0,Right Attacking Midfield,FSV Mainz 05,25
+12034.0,3895052,David Raum,77,0,2,0,2,0,49,0,0,0,5,0,0,1,0,55,22,0,2,True,2,0.0,0,0,2,0,1,6.0,Left Back,RB Leipzig,197
+12034.0,3895202,David Raum,60,0,2,0,3,0,45,0,2,0,17,1,0,1,1,46,14,1,1,0,True,0.0,0,0,2,1,1,6.0,Left Back,RB Leipzig,185
+12088.0,3895134,Mërgim Berisha,1,0,0,0,1,0,3,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0.0,0,0,0,0,0,24.0,Left Center Forward,Hoffenheim,9
+12299.0,3895153,Marvin Ducksch,36,0,0,0,0,0,52,1,1,0,10,1,0,2,0,21,15,0,0,0,True,0.0,0,0,0,0,2,24.0,Left Center Forward,Werder Bremen,124
+12299.0,3895302,Marvin Ducksch,19,0,0,0,1,2,26,0,0,0,20,0,0,2,1,13,6,0,0,0,0,0.0,0,0,0,0,2,24.0,Left Center Forward,Werder Bremen,86
+12303.0,3895340,Kevin Stöger,64,1,1,0,4,3,59,1,2,0,18,1,0,0,0,51,13,0,1,0,True,0.038659126,0,1,1,3,0,19.0,Center Attacking Midfield,Bochum,216
+12318.0,3895258,Linton Maina,10,0,2,0,0,0,22,1,0,0,24,1,0,0,0,10,0,2,0,0,True,0.0,0,0,0,0,0,16.0,Left Midfield,FC Köln,74
+12323.0,3895060,Florian Neuhaus,36,0,0,0,0,1,29,0,1,0,8,1,0,2,2,30,6,0,0,0,0,0.0,0,0,0,0,2,11.0,Left Defensive Midfield,Borussia Mönchengladbach,109
+12323.0,3895210,Florian Neuhaus,25,1,1,0,5,4,26,2,1,0,34,0,0,1,1,20,5,1,0,0,2,0.038628068,0,0,4,0,1,15.0,Left Center Midfield,Borussia Mönchengladbach,139
+12365.0,3895074,Alphonso Davies,62,0,3,0,3,1,61,3,1,0,10,2,1,2,1,58,4,3,0,0,0,0.0,0,0,2,1,2,6.0,Left Back,Bayern Munich,215
+12387.0,3895158,Julian Ryerson,28,1,1,0,4,2,19,1,1,0,17,0,1,5,1,23,5,1,0,0,0,0.37884635,1,0,1,3,5,6.0,Left Back,Borussia Dortmund,123
+12387.0,3895309,Julian Ryerson,42,1,2,0,5,4,33,1,3,0,12,1,0,1,1,41,1,1,1,0,True,0.028324867,0,1,2,2,1,2.0,Right Back,Borussia Dortmund,153
+12407.0,3895167,Maximilian Mittelstädt,64,1,1,0,7,0,51,0,0,0,13,1,0,1,2,58,6,0,1,0,True,0.023887914,0,1,3,4,1,5.0,Left Center Back,VfB Stuttgart,201
+12407.0,3895320,Maximilian Mittelstädt,47,0,1,0,6,0,32,0,2,0,18,3,0,0,3,36,11,1,0,0,0,0.0,0,0,3,3,0,6.0,Left Back,VfB Stuttgart,155
+12411.0,3895194,Arne Maier,9,0,3,0,0,0,9,2,0,0,30,0,0,0,0,8,1,2,1,0,0,0.0,0,0,0,0,0,19.0,Center Attacking Midfield,Augsburg,68
+12411.0,3895348,Arne Maier,45,0,0,0,1,0,42,0,1,0,20,0,0,2,1,32,13,0,0,True,0,0.0,0,0,1,0,2,13.0,Right Center Midfield,Augsburg,154
+12418.0,3895121,Lucas Höler,34,2,2,0,9,1,57,1,0,0,14,4,1,2,3,22,12,2,0,0,True,0.135623514,0,1,0,0,2,23.0,Center Forward,Freiburg,158
+12418.0,3895275,Lucas Höler,25,1,0,0,5,1,29,1,1,0,9,1,0,1,1,21,4,0,0,True,True,0.13077787,0,0,1,0,1,17.0,Right Wing,Freiburg,106
+12420.0,3895139,Frederik Rønnow,33,0,0,0,0,0,20,0,0,0,1,0,0,0,0,18,15,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Union Berlin,95
+12420.0,3895292,Frederik Rønnow,48,2,0,0,0,0,26,0,0,0,0,0,0,0,0,36,12,0,0,0,0,0.20156666,0,1,0,0,0,1.0,Goalkeeper,Union Berlin,139
+12422.0,3895121,Manuel Gulde,18,1,0,0,0,0,20,1,0,0,1,1,1,1,0,17,1,0,0,0,0,0.23913546,1,0,0,0,1,5.0,Left Center Back,Freiburg,62
+12422.0,3895275,Manuel Gulde,44,1,0,0,6,2,37,0,0,0,8,0,0,7,1,39,5,0,0,0,0,0.10829955,0,1,0,4,7,5.0,Left Center Back,Freiburg,142
+12423.0,3895309,Jadon Sancho,25,0,3,0,0,0,36,1,2,0,12,0,0,0,0,21,4,2,1,0,0,0.0,0,0,0,0,0,12.0,Right Midfield,Borussia Dortmund,106
+12629.0,3895220,Gerrit Holtmann,27,1,7,0,2,0,39,3,2,0,16,3,0,0,2,21,6,1,6,0,0,0.008671612,0,1,0,1,0,16.0,Left Midfield,Darmstadt 98,140
+12630.0,3895113,Ridle Bote Baku,53,1,0,0,3,3,51,1,0,0,14,2,1,4,1,41,12,0,0,0,True,0.029662412,0,1,2,0,4,7.0,Right Wing Back,Wolfsburg,179
+12630.0,3895266,Ridle Bote Baku,28,1,1,0,3,1,32,2,0,0,14,2,0,2,0,20,8,0,1,0,0,0.105068766,0,1,0,2,2,7.0,Right Wing Back,Wolfsburg,116
+13292.0,3895134,Kevin Akpoguma,54,0,0,0,2,0,46,1,0,0,15,0,0,0,1,49,5,0,0,0,True,0.0,0,0,1,1,0,5.0,Left Center Back,Hoffenheim,166
+13294.0,3895180,Robin Koch,32,0,0,0,2,0,28,0,0,0,6,0,0,4,0,30,2,0,0,0,0,0.0,0,0,2,0,4,4.0,Center Back,Eintracht Frankfurt,103
+13294.0,3895333,Robin Koch,85,0,0,0,2,0,79,0,0,0,4,1,0,6,1,75,10,0,0,0,0,0.0,0,0,0,0,6,3.0,Right Center Back,Eintracht Frankfurt,252
+13309.0,3895113,Pavao Pervan,42,0,0,0,0,0,28,0,0,0,0,0,0,0,0,27,15,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Wolfsburg,118
+13315.0,3895250,Philipp Mwene,23,1,0,0,3,1,21,1,1,0,14,3,0,1,3,16,7,0,0,0,0,0.1299605,0,1,1,1,1,8.0,Left Wing Back,FSV Mainz 05,96
+13329.0,3895167,Silas Katompa Mvumpa,9,1,1,0,1,0,20,2,1,0,5,1,0,0,0,8,1,1,0,0,0,0.026126096,0,1,0,0,0,12.0,Right Midfield,VfB Stuttgart,57
+13329.0,3895320,Silas Katompa Mvumpa,6,0,1,0,0,0,7,1,0,0,3,0,0,0,0,5,1,1,0,0,0,0.0,0,0,0,0,0,21.0,Left Wing,VfB Stuttgart,29
+15155.0,3895052,Janis Blaswich,48,0,0,0,0,0,28,0,0,0,0,0,0,0,0,43,5,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,RB Leipzig,131
+15155.0,3895202,Janis Blaswich,60,0,0,0,0,0,42,0,0,0,0,0,0,0,0,46,14,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,RB Leipzig,169
+15458.0,3895095,Sepp van den Berg,53,0,1,0,4,1,40,0,0,0,7,0,0,1,0,46,7,1,0,0,0,0.0,0,0,1,1,1,3.0,Right Center Back,FSV Mainz 05,154
+15458.0,3895250,Sepp van den Berg,39,0,0,0,7,0,30,1,0,1,7,0,0,10,0,33,6,0,0,0,True,0.0,0,0,0,1,10,4.0,Center Back,FSV Mainz 05,132
+15546.0,3895182,Matúš Bero,25,1,0,0,3,1,22,2,0,0,28,3,2,0,1,21,4,0,0,0,0,0.028390592,0,1,1,1,0,15.0,Left Center Midfield,Bochum,120
+15546.0,3895340,Matúš Bero,13,1,0,0,0,0,15,0,0,0,4,0,0,0,2,9,4,0,0,0,0,0.15157913,0,1,0,0,0,13.0,Right Center Midfield,Bochum,47
+15693.0,3895086,Denis Thomalla,8,0,0,0,0,1,6,0,0,0,2,0,0,0,0,8,0,0,0,0,0,0.0,0,0,0,0,0,21.0,Left Wing,FC Heidenheim,26
+15797.0,3895067,Matthias Bader,42,0,2,0,7,0,30,0,0,0,16,0,0,1,2,29,13,1,1,0,True,0.0,0,0,4,1,1,7.0,Right Wing Back,Darmstadt 98,145
+15797.0,3895220,Matthias Bader,37,0,0,0,6,1,23,2,2,0,42,1,1,3,4,25,12,0,0,0,0,0.0,0,0,4,2,3,2.0,Right Back,Darmstadt 98,157
+15854.0,3895153,Marco Friedl,49,0,0,0,2,1,37,0,0,0,11,2,0,3,3,45,4,0,0,0,0,0.0,0,0,2,0,3,4.0,Center Back,Werder Bremen,164
+15869.0,3895067,Thomas Poppler Isherwood,14,0,0,0,1,0,8,0,0,0,5,1,0,3,0,11,3,0,0,0,0,0.0,0,0,1,0,3,5.0,Left Center Back,Darmstadt 98,47
+15879.0,3895113,Mattias Svanberg,31,3,1,0,1,3,31,5,0,0,13,2,0,1,0,22,9,1,0,0,True,0.100881269,0,1,0,0,1,15.0,Left Center Midfield,Wolfsburg,131
+15890.0,3895074,Noussair Mazraoui,17,0,1,0,0,0,14,0,0,0,6,1,0,1,0,13,4,0,1,0,0,0.0,0,0,0,0,1,9.0,Right Defensive Midfield,Bayern Munich,54
+15890.0,3895232,Noussair Mazraoui,63,1,2,0,7,0,58,3,0,0,19,0,0,1,1,55,8,2,0,0,3,0.030153356,0,0,2,2,1,7.0,Right Wing Back,Bayern Munich,217
+16027.0,3895194,Kevin Mbabu,19,0,0,0,6,0,15,1,2,0,33,2,0,4,1,12,7,0,0,0,0,0.0,0,0,2,3,4,2.0,Right Back,Augsburg,106
+16275.0,3895052,Ikoma Loïs Openda,16,4,3,0,2,1,25,2,1,0,19,1,0,0,0,14,2,1,2,0,0,1.0845185860000002,1,1,1,0,0,22.0,Right Center Forward,RB Leipzig,97
+16275.0,3895202,Ikoma Loïs Openda,17,2,1,0,2,4,31,1,2,0,8,1,0,0,1,11,6,0,1,0,True,0.27376011899999997,1,0,0,0,0,24.0,Left Center Forward,RB Leipzig,107
+16294.0,3895134,Robert Skov,42,2,2,0,2,3,33,2,0,0,8,1,0,2,3,37,5,2,0,0,True,0.136275996,0,1,2,0,2,7.0,Right Wing Back,Hoffenheim,149
+16532.0,3895052,Daniel Olmo Carvajal,37,1,1,0,1,2,37,2,1,0,28,0,0,1,1,29,8,1,0,0,True,0.092468806,1,0,0,0,1,24.0,Left Center Forward,RB Leipzig,157
+16532.0,3895202,Daniel Olmo Carvajal,30,1,2,0,5,0,31,1,0,0,15,1,0,0,2,22,8,2,0,True,True,0.03687667,0,1,3,0,0,20.0,Left Attacking Midfield,RB Leipzig,124
+16535.0,3895202,Eljif Elmas,7,0,0,0,0,0,9,0,1,0,0,0,0,0,0,7,0,0,0,0,0,0.0,0,0,0,0,0,20.0,Left Attacking Midfield,RB Leipzig,24
+16554.0,3895113,Joakim Mæhle,35,0,0,0,3,0,30,1,0,0,15,1,0,0,1,31,4,0,0,0,0,0.0,0,0,0,2,0,8.0,Left Wing Back,Wolfsburg,116
+17925.0,3895220,Sebastian Polter,4,0,1,0,1,0,10,0,0,0,9,0,0,0,0,1,3,0,1,0,0,0.0,0,0,0,0,0,24.0,Left Center Forward,Darmstadt 98,28
+17974.0,3895158,Gregor Kobel,38,0,0,0,0,0,15,0,0,0,0,0,0,0,0,30,8,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Borussia Dortmund,97
+17974.0,3895309,Gregor Kobel,59,0,1,0,0,0,46,0,0,0,0,0,0,0,0,47,12,1,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Borussia Dortmund,163
+18119.0,3895194,Elvis Rexhbeçaj,15,0,0,0,2,1,21,2,3,0,20,0,0,0,1,11,4,0,0,0,0,0.0,0,0,1,1,0,15.0,Left Center Midfield,Augsburg,92
+18129.0,3895340,Lukas Daschner,10,0,1,0,5,0,20,1,0,0,7,0,0,0,1,7,3,0,1,0,True,0.0,0,0,0,2,0,23.0,Center Forward,Bochum,53
+18417.0,3895275,Florent Muslija,20,0,0,0,1,0,16,1,0,0,5,0,0,0,1,16,4,0,0,0,2,0.0,0,0,0,1,0,21.0,Left Wing,Freiburg,62
+18789.0,3895292,Danilho Doekhi,28,0,0,0,1,1,29,0,0,0,9,0,0,2,0,23,5,0,0,0,0,0.0,0,0,0,0,2,3.0,Right Center Back,Union Berlin,101
+19316.0,3895275,Roland Sallai,12,1,1,0,2,1,24,1,1,0,7,1,0,1,0,10,2,0,1,0,0,0.15504521,0,1,0,0,1,23.0,Center Forward,Freiburg,66
+19405.0,3895095,Robin Zentner,34,0,0,0,0,0,22,0,0,0,0,0,0,0,0,27,7,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,FSV Mainz 05,92
+19405.0,3895250,Robin Zentner,23,0,0,0,0,1,6,0,0,1,1,0,0,0,1,13,10,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,FSV Mainz 05,68
+20606.0,3895139,Paul Jaeckel,35,0,0,0,5,1,32,0,1,0,18,0,0,1,1,28,7,0,0,0,0,0.0,0,0,4,1,1,3.0,Right Center Back,Union Berlin,132
+20662.0,3895167,Alexander Nübel,49,0,0,0,0,0,32,0,0,0,0,0,0,0,0,35,14,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,VfB Stuttgart,135
+20662.0,3895320,Alexander Nübel,57,0,0,0,0,1,38,0,0,0,0,0,0,0,0,46,11,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,VfB Stuttgart,174
+20770.0,3895134,Ozan Muhammed Kabak,48,0,0,0,3,0,42,1,0,0,11,1,0,3,0,46,2,0,0,0,0,0.0,0,0,0,1,3,3.0,Right Center Back,Hoffenheim,156
+20770.0,3895286,Ozan Muhammed Kabak,27,0,0,0,2,0,25,0,0,0,18,2,0,3,1,22,5,0,0,0,0,0.0,0,0,0,1,3,3.0,Right Center Back,Hoffenheim,104
+20814.0,3895113,Sebastiaan Bornauw,36,0,0,0,3,0,34,1,0,0,14,4,0,1,0,28,8,0,0,0,0,0.0,0,0,2,0,1,3.0,Right Center Back,Wolfsburg,122
+20814.0,3895266,Sebastiaan Bornauw,13,0,0,0,3,0,10,0,0,0,7,1,0,2,1,11,2,0,0,0,0,0.0,0,0,0,1,2,4.0,Center Back,Wolfsburg,50
+20947.0,3895167,Atakan Karazor,56,1,1,0,6,3,46,0,1,0,41,2,0,5,1,50,6,0,1,0,4,0.031105785,0,1,3,2,5,9.0,Right Defensive Midfield,VfB Stuttgart,215
+20947.0,3895320,Atakan Karazor,73,0,0,0,2,1,62,0,3,0,32,2,0,0,0,66,7,0,0,0,True,0.0,0,0,0,1,0,9.0,Right Defensive Midfield,VfB Stuttgart,243
+21261.0,3895113,Jonas Older Wind,19,5,2,0,2,2,39,2,0,0,20,2,0,0,1,15,4,1,1,0,4,0.399083601,0,2,0,1,0,22.0,Right Center Forward,Wolfsburg,116
+21261.0,3895266,Jonas Older Wind,2,1,0,0,1,1,16,2,1,0,0,0,0,1,0,0,2,0,0,0,0,0.089785635,0,0,0,0,1,23.0,Center Forward,Wolfsburg,31
+21865.0,3895153,Senne Lynen,9,0,1,0,0,0,7,0,0,0,3,1,0,0,0,7,2,0,1,0,True,0.0,0,0,0,0,0,9.0,Right Defensive Midfield,Werder Bremen,28
+21865.0,3895302,Senne Lynen,68,0,0,0,3,1,57,0,0,0,31,1,1,3,1,63,5,0,0,0,0,0.0,0,0,3,0,3,10.0,Center Defensive Midfield,Werder Bremen,222
+22067.0,3895167,Woo-Yeong Jeong,3,0,0,0,1,0,4,0,0,0,2,0,0,0,0,0,3,0,0,0,0,0.0,0,0,0,0,0,22.0,Right Center Forward,VfB Stuttgart,12
+22067.0,3895320,Woo-Yeong Jeong,13,0,1,0,0,0,13,0,0,0,10,0,0,0,0,9,4,1,0,0,True,0.0,0,0,0,0,0,22.0,Right Center Forward,VfB Stuttgart,48
+22314.0,3895113,Maxence Lacroix,66,1,1,0,3,0,56,0,0,0,14,0,0,6,1,57,9,0,1,0,0,0.24649659,1,0,0,2,6,5.0,Left Center Back,Wolfsburg,209
+22314.0,3895266,Maxence Lacroix,29,0,0,0,2,1,18,0,0,0,7,0,0,2,1,22,7,0,0,0,0,0.0,0,0,2,0,2,3.0,Right Center Back,Wolfsburg,85
+23198.0,3895153,Michael Zetterer,41,0,0,0,0,1,26,0,0,0,0,0,0,0,0,32,9,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Werder Bremen,121
+23198.0,3895302,Michael Zetterer,49,0,0,0,0,0,36,0,0,0,0,0,0,0,0,43,6,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Werder Bremen,149
+23351.0,3895182,Keven Schlotterbeck,34,0,0,0,4,1,21,1,0,0,19,3,0,2,1,29,5,0,0,0,0,0.0,0,0,3,1,2,5.0,Left Center Back,Bochum,118
+23351.0,3895340,Keven Schlotterbeck,33,0,2,0,7,2,29,1,1,0,11,2,0,3,1,26,7,1,1,0,True,0.0,0,0,3,2,3,5.0,Left Center Back,Bochum,123
+23402.0,3895095,Leandro Barreiro Martins,50,0,0,0,2,3,51,2,0,0,21,4,0,0,1,44,6,0,0,0,0,0.0,0,0,2,0,0,9.0,Right Defensive Midfield,FSV Mainz 05,177
+23402.0,3895250,Leandro Barreiro Martins,21,2,0,0,5,3,23,0,0,0,18,1,0,3,0,17,4,0,0,0,0,0.134664536,0,2,1,1,3,9.0,Right Defensive Midfield,FSV Mainz 05,108
+23452.0,3895139,Alex Král,31,0,0,0,1,1,17,0,0,0,35,0,0,1,1,25,6,0,0,0,0,0.0,0,0,1,0,1,9.0,Right Defensive Midfield,Union Berlin,114
+23452.0,3895292,Alex Král,17,2,1,0,2,0,23,0,1,0,7,0,1,0,0,13,4,1,0,0,0,0.047048098499999996,0,1,0,1,0,15.0,Left Center Midfield,Union Berlin,73
+23498.0,3895182,Gonçalo Mendes Paciencia,14,1,1,0,7,3,47,6,2,0,39,0,1,0,0,8,6,1,0,0,0,0.05048838,0,1,1,0,0,23.0,Center Forward,Bochum,142
+23614.0,3895167,Chris Führich,35,4,3,0,2,1,43,1,1,0,10,1,0,0,5,27,8,1,2,0,2,0.94182661,1,1,2,0,0,8.0,Left Wing Back,VfB Stuttgart,149
+23614.0,3895320,Chris Führich,27,2,3,0,2,0,30,2,1,0,24,0,0,0,1,19,8,1,2,0,0,0.15502106999999998,1,1,1,1,0,20.0,Left Attacking Midfield,VfB Stuttgart,132
+23658.0,3895180,Aurélio Gabriel Ulineia Buta,51,1,0,0,2,1,53,1,3,0,14,3,0,1,1,44,7,0,0,0,0,0.031955447,0,1,1,1,1,7.0,Right Wing Back,Eintracht Frankfurt,181
+23658.0,3895333,Aurélio Gabriel Ulineia Buta,14,0,1,0,0,0,11,0,0,0,2,0,0,0,0,13,1,1,0,0,0,0.0,0,0,0,0,0,18.0,Right Attacking Midfield,Eintracht Frankfurt,43
+24118.0,3895158,Nico Schlotterbeck,24,0,0,0,0,1,14,0,0,0,9,0,0,2,0,19,5,0,0,0,True,0.0,0,0,0,0,2,5.0,Left Center Back,Borussia Dortmund,68
+24118.0,3895309,Nico Schlotterbeck,91,0,0,0,8,4,71,1,0,0,14,0,1,1,2,79,12,0,0,0,0,0.0,0,0,2,5,1,5.0,Left Center Back,Borussia Dortmund,269
+24179.0,3895153,Olivier Deman,32,0,1,0,3,0,27,2,0,0,11,3,0,3,1,30,2,1,0,0,0,0.0,0,0,1,1,3,8.0,Left Wing Back,Werder Bremen,117
+24179.0,3895302,Olivier Deman,8,1,0,0,0,0,10,0,1,0,4,0,0,0,0,6,2,0,0,0,0,0.047987003,0,0,0,0,0,8.0,Left Wing Back,Werder Bremen,31
+24243.0,3895139,Brenden Aaronson,7,0,0,0,0,0,15,3,0,0,16,0,0,0,0,6,1,0,0,0,0,0.0,0,0,0,0,0,21.0,Left Wing,Union Berlin,52
+24243.0,3895292,Brenden Aaronson,23,0,2,0,2,2,22,0,4,0,20,0,0,1,1,19,4,0,2,0,0,0.0,0,0,1,1,1,19.0,Center Attacking Midfield,Union Berlin,111
+24319.0,3895348,Pep Biel Mas Jaume,3,2,0,0,1,0,6,0,0,0,7,0,0,0,0,2,1,0,0,0,0,0.286509966,0,1,0,1,0,19.0,Center Attacking Midfield,Augsburg,22
+24442.0,3895348,Mads Pedersen,51,0,1,0,7,1,39,0,0,1,16,3,0,2,0,47,4,1,0,0,0,0.0,0,0,2,4,2,2.0,Right Back,Augsburg,164
+24532.0,3895153,Jens Stage,35,0,0,0,1,0,36,0,1,0,27,0,0,2,1,29,6,0,0,0,0,0.0,0,0,1,0,2,10.0,Center Defensive Midfield,Werder Bremen,134
+24845.0,3895134,Finn Ole Becker,38,1,0,0,1,1,37,1,2,0,29,1,0,1,1,33,5,0,0,0,True,0.013017672,0,0,1,0,1,13.0,Right Center Midfield,Hoffenheim,155
+24849.0,3895292,Mikkel Kaufmann,6,0,0,0,7,2,20,2,1,0,13,1,0,0,0,2,4,0,0,0,True,0.0,0,0,0,0,0,22.0,Right Center Forward,Union Berlin,61
+24946.0,3895232,Sacha Boey,55,1,4,0,2,4,47,1,0,0,25,4,0,0,1,48,7,1,3,0,0,0.22735669,0,1,0,0,0,8.0,Left Wing Back,Bayern Munich,188
+24947.0,3895086,Kevin Sessa,6,0,0,0,0,0,9,0,0,0,3,0,0,0,0,6,0,0,0,0,0,0.0,0,0,0,0,0,17.0,Right Wing,FC Heidenheim,24
+24947.0,3895244,Kevin Sessa,17,0,0,0,0,0,14,2,0,0,11,1,0,0,0,12,5,0,0,0,0,0.0,0,0,0,0,0,13.0,Right Center Midfield,FC Heidenheim,63
+24977.0,3895202,Christoph Baumgartner,5,0,0,0,1,1,6,1,1,0,7,0,0,0,0,2,3,0,0,0,0,0.0,0,0,0,1,0,20.0,Left Attacking Midfield,RB Leipzig,29
+25039.0,3895060,Nathan Ngoumou Minpole,26,0,0,0,5,1,40,1,3,0,24,1,0,0,2,21,5,0,0,0,2,0.0,0,0,2,1,0,17.0,Right Wing,Borussia Mönchengladbach,138
+25039.0,3895210,Nathan Ngoumou Minpole,1,0,0,0,1,1,5,1,0,0,7,0,0,1,0,1,0,0,0,0,0,0.0,0,0,0,0,1,22.0,Right Center Forward,Borussia Mönchengladbach,20
+25040.0,3895210,Kouadio Emmanuel Koné,32,1,2,0,2,0,32,3,1,0,29,1,1,0,0,29,3,2,0,0,0,0.018197801,0,0,2,0,0,13.0,Right Center Midfield,Borussia Mönchengladbach,145
+25118.0,3895194,Iago Amaral Borduchi,25,0,0,0,3,0,17,0,0,0,22,1,0,5,0,18,7,0,0,0,0,0.0,0,0,1,0,5,6.0,Left Back,Augsburg,106
+25118.0,3895348,Iago Amaral Borduchi,33,1,2,0,2,1,28,3,0,0,14,0,0,0,3,30,3,0,2,0,0,0.046394035,0,1,1,0,0,6.0,Left Back,Augsburg,131
+27133.0,3895052,Odilon Kossonou,52,0,1,0,4,0,32,0,0,0,14,1,0,1,1,44,8,1,0,0,0,0.0,0,0,1,0,1,3.0,Right Center Back,Bayer Leverkusen,155
+27133.0,3895060,Odilon Kossonou,52,0,0,0,3,1,45,2,0,0,8,1,0,1,0,47,5,0,0,0,True,0.0,0,0,2,0,1,3.0,Right Center Back,Bayer Leverkusen,166
+27133.0,3895067,Odilon Kossonou,83,0,0,0,3,0,66,0,2,0,5,1,0,3,0,77,6,0,0,0,0,0.0,0,0,0,1,3,3.0,Right Center Back,Bayer Leverkusen,245
+27133.0,3895074,Odilon Kossonou,48,0,3,0,3,1,43,1,0,0,14,0,0,4,1,46,2,3,0,0,0,0.0,0,0,1,1,4,3.0,Right Center Back,Bayer Leverkusen,178
+27133.0,3895086,Odilon Kossonou,87,1,1,0,3,0,74,2,2,0,8,2,1,1,0,82,5,1,0,0,3,0.03106978,0,1,1,1,1,3.0,Right Center Back,Bayer Leverkusen,275
+27133.0,3895095,Odilon Kossonou,65,0,0,0,3,1,63,4,1,0,21,2,0,2,0,56,9,0,0,0,0,0.0,0,0,2,0,2,3.0,Right Center Back,Bayer Leverkusen,227
+27133.0,3895107,Odilon Kossonou,81,0,1,0,2,0,72,3,1,0,9,0,0,2,0,73,8,0,1,0,0,0.0,0,0,2,0,2,3.0,Right Center Back,Bayer Leverkusen,250
+27133.0,3895113,Odilon Kossonou,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,3.0,Right Center Back,Bayer Leverkusen,2
+27133.0,3895121,Odilon Kossonou,75,0,1,0,2,1,63,1,0,0,4,1,0,3,0,71,4,1,0,0,0,0.0,0,0,0,0,3,3.0,Right Center Back,Bayer Leverkusen,229
+27133.0,3895134,Odilon Kossonou,29,0,0,0,0,0,28,0,0,0,5,0,0,2,0,26,3,0,0,0,0,0.0,0,0,0,0,2,3.0,Right Center Back,Bayer Leverkusen,94
+27133.0,3895139,Odilon Kossonou,80,1,0,0,3,0,63,0,1,0,11,0,0,2,0,75,5,0,0,0,True,0.12228728,1,0,1,0,2,3.0,Right Center Back,Bayer Leverkusen,235
+27133.0,3895153,Odilon Kossonou,76,0,0,0,4,1,61,0,1,0,17,0,0,5,0,65,11,0,0,0,0,0.0,0,0,2,1,5,3.0,Right Center Back,Bayer Leverkusen,236
+27133.0,3895158,Odilon Kossonou,50,1,2,0,6,0,47,1,1,0,11,2,1,2,1,46,4,0,2,0,True,0.104334064,0,0,2,2,2,3.0,Right Center Back,Bayer Leverkusen,178
+27133.0,3895167,Odilon Kossonou,61,0,6,0,5,0,52,0,2,0,9,1,1,4,0,50,11,3,3,0,0,0.0,0,0,2,0,4,3.0,Right Center Back,Bayer Leverkusen,204
+27133.0,3895180,Odilon Kossonou,78,1,2,0,3,1,67,0,2,0,8,0,1,1,0,71,7,1,1,0,0,0.10714567,0,1,1,2,1,3.0,Right Center Back,Bayer Leverkusen,238
+27133.0,3895250,Odilon Kossonou,75,0,1,0,1,1,64,1,0,0,3,1,1,0,0,66,9,0,1,0,True,0.0,0,0,0,0,0,3.0,Right Center Back,Bayer Leverkusen,206
+27133.0,3895292,Odilon Kossonou,67,0,2,0,0,0,55,0,2,0,11,1,0,7,2,64,3,2,0,0,True,0.0,0,0,0,0,7,3.0,Right Center Back,Bayer Leverkusen,213
+27133.0,3895302,Odilon Kossonou,77,0,0,0,3,0,60,0,1,1,11,1,1,1,0,69,8,0,0,0,0,0.0,0,0,2,1,1,3.0,Right Center Back,Bayer Leverkusen,234
+27133.0,3895320,Odilon Kossonou,65,0,2,0,3,0,51,2,0,0,8,1,0,0,1,56,9,1,1,0,True,0.0,0,0,0,1,0,3.0,Right Center Back,Bayer Leverkusen,194
+27133.0,3895333,Odilon Kossonou,46,0,0,0,0,0,41,1,0,0,9,0,0,3,1,40,6,0,0,0,True,0.0,0,0,0,0,3,3.0,Right Center Back,Bayer Leverkusen,140
+27133.0,3895340,Odilon Kossonou,58,1,1,0,2,0,55,0,1,0,1,1,1,6,0,53,5,0,1,0,True,0.023349753,0,1,0,0,6,3.0,Right Center Back,Bayer Leverkusen,183
+27133.0,3895348,Odilon Kossonou,117,0,2,0,2,1,101,0,1,0,7,0,0,1,0,115,2,1,1,0,0,0.0,0,0,2,0,1,3.0,Right Center Back,Bayer Leverkusen,346
+28239.0,3895052,Adam Hložek,4,0,0,0,1,0,7,0,2,0,3,1,0,0,0,3,1,0,0,0,0,0.0,0,0,1,0,0,22.0,Right Center Forward,Bayer Leverkusen,23
+28239.0,3895060,Adam Hložek,2,1,0,0,0,1,7,0,0,0,4,0,0,0,0,2,0,0,0,0,0,0.31652135,0,0,0,0,0,17.0,Right Wing,Bayer Leverkusen,16
+28239.0,3895067,Adam Hložek,10,1,0,0,0,0,10,1,0,0,1,0,0,0,0,9,1,0,0,0,True,0.58532554,1,0,0,0,0,9.0,Right Defensive Midfield,Bayer Leverkusen,34
+28239.0,3895074,Adam Hložek,0,0,0,0,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22.0,Right Center Forward,Bayer Leverkusen,4
+28239.0,3895086,Adam Hložek,3,0,0,0,1,0,5,1,0,0,2,1,0,0,0,1,2,0,0,0,0,0.0,0,0,1,0,0,23.0,Center Forward,Bayer Leverkusen,16
+28239.0,3895095,Adam Hložek,5,0,1,0,1,2,10,0,0,0,3,1,0,0,0,2,3,1,0,0,True,0.0,0,0,0,0,0,23.0,Center Forward,Bayer Leverkusen,29
+28239.0,3895107,Adam Hložek,2,0,0,0,0,0,2,1,0,0,4,0,0,0,0,1,1,0,0,0,True,0.0,0,0,0,0,0,23.0,Center Forward,Bayer Leverkusen,13
+28239.0,3895121,Adam Hložek,1,0,0,0,0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0.0,0,0,0,0,0,20.0,Left Attacking Midfield,Bayer Leverkusen,6
+28239.0,3895134,Adam Hložek,2,0,0,0,1,0,5,0,3,0,3,1,0,0,0,1,1,0,0,0,0,0.0,0,0,1,0,0,22.0,Right Center Forward,Bayer Leverkusen,18
+28239.0,3895139,Adam Hložek,0,0,0,0,0,0,1,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23.0,Center Forward,Bayer Leverkusen,5
+28239.0,3895153,Adam Hložek,10,1,0,0,0,0,10,0,0,0,0,0,0,0,0,7,3,0,0,0,0,0.03164785,0,0,0,0,0,18.0,Right Attacking Midfield,Bayer Leverkusen,32
+28239.0,3895180,Adam Hložek,8,0,0,0,1,0,7,0,0,0,3,0,1,0,0,7,1,0,0,0,0,0.0,0,0,0,0,0,18.0,Right Attacking Midfield,Bayer Leverkusen,25
+28239.0,3895182,Adam Hložek,7,2,0,0,0,0,12,0,1,0,10,0,0,0,0,6,1,0,0,0,0,0.45170566,0,1,0,0,0,18.0,Right Attacking Midfield,Bayer Leverkusen,39
+28239.0,3895194,Adam Hložek,17,2,1,0,2,0,26,1,2,0,7,1,0,0,0,15,2,0,1,0,True,0.094466897,0,1,1,0,0,20.0,Left Attacking Midfield,Bayer Leverkusen,78
+28239.0,3895202,Adam Hložek,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0.0,0,0,0,0,0,23.0,Center Forward,Bayer Leverkusen,6
+28239.0,3895210,Adam Hložek,2,2,1,0,1,0,7,0,1,0,4,1,1,1,0,1,1,0,1,0,0,0.11778104,0,1,0,1,1,17.0,Right Wing,Bayer Leverkusen,25
+28239.0,3895220,Adam Hložek,21,4,6,0,2,5,42,4,2,0,18,2,0,1,1,18,3,3,3,0,2,0.362330824,0,4,1,0,1,18.0,Right Attacking Midfield,Bayer Leverkusen,149
+28239.0,3895232,Adam Hložek,0,0,0,0,1,0,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23.0,Center Forward,Bayer Leverkusen,8
+28239.0,3895250,Adam Hložek,2,0,0,0,0,0,5,0,1,0,2,0,0,0,0,2,0,0,0,0,0,0.0,0,0,0,0,0,18.0,Right Attacking Midfield,Bayer Leverkusen,13
+28239.0,3895275,Adam Hložek,29,5,1,0,2,1,33,2,1,0,11,0,0,0,0,26,3,1,0,0,0,1.033099627,1,3,1,1,0,18.0,Right Attacking Midfield,Bayer Leverkusen,121
+28239.0,3895292,Adam Hložek,12,1,0,0,1,1,11,0,0,0,3,1,0,0,0,11,1,0,0,0,0,0.017574478,0,1,1,0,0,20.0,Left Attacking Midfield,Bayer Leverkusen,43
+28239.0,3895333,Adam Hložek,17,0,1,0,2,1,36,3,4,0,13,1,1,1,0,17,0,0,1,2,0,0.0,0,0,0,0,1,20.0,Left Attacking Midfield,Bayer Leverkusen,105
+28266.0,3895153,Rafael Santos Borré Amaury,18,1,0,0,7,0,41,1,1,0,26,3,0,2,3,14,4,0,0,0,0,0.057764426,0,0,1,0,2,22.0,Right Center Forward,Werder Bremen,116
+28268.0,3895052,Exequiel Alejandro Palacios,66,0,0,0,4,4,59,0,1,0,17,1,1,0,1,58,8,0,0,0,True,0.0,0,0,3,1,0,9.0,Right Defensive Midfield,Bayer Leverkusen,211
+28268.0,3895060,Exequiel Alejandro Palacios,73,2,1,0,4,2,68,0,0,0,6,1,1,0,0,69,4,1,0,0,0,0.036063237,0,2,2,1,0,9.0,Right Defensive Midfield,Bayer Leverkusen,233
+28268.0,3895067,Exequiel Alejandro Palacios,81,1,0,0,2,3,82,1,0,0,11,1,0,1,1,75,6,0,0,0,4,0.06972993,1,0,0,0,1,9.0,Right Defensive Midfield,Bayer Leverkusen,264
+28268.0,3895074,Exequiel Alejandro Palacios,43,1,0,0,2,2,45,2,1,0,8,0,0,1,1,38,5,0,0,0,0,0.7835,1,0,1,1,1,9.0,Right Defensive Midfield,Bayer Leverkusen,140
+28268.0,3895086,Exequiel Alejandro Palacios,108,0,0,0,3,0,100,0,1,0,10,4,0,3,0,101,7,0,0,2,True,0.0,0,0,2,1,3,9.0,Right Defensive Midfield,Bayer Leverkusen,320
+28268.0,3895095,Exequiel Alejandro Palacios,96,0,1,0,2,6,89,1,1,0,19,1,1,0,1,91,5,1,0,0,0,0.0,0,0,1,0,0,9.0,Right Defensive Midfield,Bayer Leverkusen,301
+28268.0,3895107,Exequiel Alejandro Palacios,116,0,0,0,1,2,107,1,0,0,16,1,0,0,2,112,4,0,0,0,2,0.0,0,0,0,1,0,9.0,Right Defensive Midfield,Bayer Leverkusen,358
+28268.0,3895113,Exequiel Alejandro Palacios,78,0,0,0,1,3,73,0,0,0,17,0,0,0,1,71,7,0,0,0,True,0.0,0,0,0,1,0,9.0,Right Defensive Midfield,Bayer Leverkusen,248
+28268.0,3895121,Exequiel Alejandro Palacios,110,2,2,0,7,4,103,2,0,0,17,0,2,4,2,103,7,2,0,0,True,0.094185833,0,2,2,2,4,9.0,Right Defensive Midfield,Bayer Leverkusen,367
+28268.0,3895134,Exequiel Alejandro Palacios,83,0,0,0,2,3,72,1,0,0,25,1,0,0,0,77,6,0,0,0,0,0.0,0,0,0,2,0,9.0,Right Defensive Midfield,Bayer Leverkusen,257
+28268.0,3895139,Exequiel Alejandro Palacios,118,0,0,0,2,0,114,0,0,0,14,1,0,1,1,111,7,0,0,0,0,0.0,0,0,1,1,1,11.0,Left Defensive Midfield,Bayer Leverkusen,370
+28268.0,3895153,Exequiel Alejandro Palacios,117,0,2,0,4,1,103,1,1,0,14,0,0,2,0,108,9,1,1,0,True,0.0,0,0,2,2,2,11.0,Left Defensive Midfield,Bayer Leverkusen,346
+28268.0,3895158,Exequiel Alejandro Palacios,80,3,2,0,6,5,72,0,2,1,17,3,0,0,0,73,7,2,0,0,True,0.199358989,0,2,2,2,0,11.0,Left Defensive Midfield,Bayer Leverkusen,281
+28268.0,3895167,Exequiel Alejandro Palacios,58,0,1,0,4,2,60,3,2,0,19,0,0,1,1,49,9,1,0,0,True,0.0,0,0,3,1,1,11.0,Left Defensive Midfield,Bayer Leverkusen,209
+28268.0,3895180,Exequiel Alejandro Palacios,110,0,4,0,3,5,100,1,1,0,11,1,0,2,0,100,10,4,0,0,True,0.0,0,0,3,0,2,11.0,Left Defensive Midfield,Bayer Leverkusen,344
+28268.0,3895194,Exequiel Alejandro Palacios,112,4,2,0,3,3,111,3,1,0,10,0,0,1,0,109,3,2,0,0,3,0.16705583499999999,1,3,2,1,1,11.0,Left Defensive Midfield,Bayer Leverkusen,368
+28268.0,3895202,Exequiel Alejandro Palacios,89,1,1,0,4,2,84,0,2,0,16,1,0,2,3,78,11,1,0,0,True,0.045703232,0,1,3,1,2,11.0,Left Defensive Midfield,Bayer Leverkusen,295
+28268.0,3895258,Exequiel Alejandro Palacios,19,0,0,0,1,0,20,0,0,0,4,0,0,0,1,18,1,0,0,0,0,0.0,0,0,0,0,0,9.0,Right Defensive Midfield,Bayer Leverkusen,63
+28268.0,3895266,Exequiel Alejandro Palacios,150,2,0,0,2,0,139,0,0,0,14,0,0,0,0,144,6,0,0,True,2,0.091844304,0,2,2,0,0,11.0,Left Defensive Midfield,Bayer Leverkusen,450
+28268.0,3895275,Exequiel Alejandro Palacios,114,2,1,0,3,3,112,0,4,0,13,1,0,1,1,107,7,0,1,0,0,0.16049449799999999,0,0,2,1,1,11.0,Left Defensive Midfield,Bayer Leverkusen,368
+28268.0,3895302,Exequiel Alejandro Palacios,17,1,1,0,0,0,18,1,0,0,6,0,1,0,2,17,0,1,0,True,0,0.06844198,0,1,0,0,0,11.0,Left Defensive Midfield,Bayer Leverkusen,65
+28268.0,3895320,Exequiel Alejandro Palacios,60,0,1,0,4,5,51,1,0,0,21,1,0,0,2,52,8,1,0,0,2,0.0,0,0,4,0,0,11.0,Left Defensive Midfield,Bayer Leverkusen,200
+28268.0,3895333,Exequiel Alejandro Palacios,52,2,2,0,1,3,53,0,0,0,21,1,0,3,0,45,7,2,0,0,0,0.9777941099999999,1,1,0,1,3,11.0,Left Defensive Midfield,Bayer Leverkusen,191
+28268.0,3895348,Exequiel Alejandro Palacios,72,0,2,0,3,3,70,0,1,0,16,1,0,1,1,66,6,1,1,0,True,0.0,0,0,2,0,1,11.0,Left Defensive Midfield,Bayer Leverkusen,246
+28346.0,3895180,Eric Junior Dina Ebimbe,19,0,0,0,4,1,35,1,3,0,30,3,1,1,0,16,3,0,0,0,0,0.0,0,0,0,2,1,17.0,Right Wing,Eintracht Frankfurt,128
+28346.0,3895333,Eric Junior Dina Ebimbe,23,1,1,0,4,1,30,1,1,0,28,1,0,2,1,19,4,0,1,0,0,0.04776066,0,0,2,1,2,18.0,Right Attacking Midfield,Eintracht Frankfurt,115
+28573.0,3895153,Felix Agu,19,0,0,0,0,0,14,0,0,0,6,0,0,2,1,11,8,0,0,0,0,0.0,0,0,0,0,2,8.0,Left Wing Back,Werder Bremen,53
+28573.0,3895302,Felix Agu,34,0,0,0,5,0,28,1,0,0,11,0,0,1,1,26,8,0,0,0,0,0.0,0,0,2,3,1,8.0,Left Wing Back,Werder Bremen,112
+28603.0,3895340,Philipp Hofmann,17,1,0,0,3,1,26,0,0,0,11,0,1,0,1,10,7,0,0,0,0,0.12386223,0,1,1,0,0,23.0,Center Forward,Bochum,65
+28805.0,3895167,Jamie Leweling,4,0,0,0,0,0,5,0,1,0,7,0,0,0,2,3,1,0,0,0,True,0.0,0,0,0,0,0,16.0,Left Midfield,VfB Stuttgart,26
+28805.0,3895320,Jamie Leweling,29,1,0,0,0,2,41,5,1,0,11,5,0,0,0,24,5,0,0,0,True,0.111039735,0,0,0,0,0,18.0,Right Attacking Midfield,VfB Stuttgart,134
+28914.0,3895113,Lovro Majer,13,1,0,0,2,0,10,0,0,0,12,0,0,0,0,10,3,0,0,0,True,0.028854862,0,1,1,0,0,15.0,Left Center Midfield,Wolfsburg,51
+28914.0,3895266,Lovro Majer,26,0,1,0,3,0,29,0,0,0,13,0,0,0,0,18,8,1,0,0,True,0.0,0,0,0,1,0,17.0,Right Wing,Wolfsburg,96
+29003.0,3895060,Jonas Omlin,38,0,0,0,0,1,19,0,0,0,0,0,0,0,0,30,8,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Borussia Mönchengladbach,108
+29163.0,3895139,Josip Juranović,18,0,0,0,1,0,15,0,0,0,9,0,0,0,0,16,2,0,0,0,0,0.0,0,0,1,0,0,7.0,Right Wing Back,Union Berlin,58
+29163.0,3895292,Josip Juranović,27,0,1,0,2,0,12,0,0,0,4,0,0,0,0,18,9,1,0,0,4,0.0,0,0,1,1,0,2.0,Right Back,Union Berlin,59
+29227.0,3895167,Leonidas Stergiou,7,0,0,0,2,0,9,0,0,0,5,0,0,1,0,7,0,0,0,0,0,0.0,0,0,1,1,1,2.0,Right Back,VfB Stuttgart,30
+29227.0,3895320,Leonidas Stergiou,30,1,0,0,1,0,30,1,1,0,3,1,0,0,0,27,3,0,0,0,True,0.020028373,0,1,0,0,0,2.0,Right Back,VfB Stuttgart,99
+29353.0,3895266,Cédric Zesiger,26,1,0,0,2,1,29,1,1,0,6,2,1,1,0,23,3,0,0,0,0,0.0319329,0,0,0,0,1,5.0,Left Center Back,Wolfsburg,98
+29595.0,3895060,Ko Itakura,42,1,0,0,2,0,37,0,0,0,17,2,1,1,1,37,5,0,0,0,0,0.092985675,0,0,1,1,1,4.0,Center Back,Borussia Mönchengladbach,139
+29682.0,3895107,Rasmus Carstensen,48,0,0,0,4,0,45,2,0,0,21,1,0,5,2,34,14,0,0,0,0,0.0,0,0,2,1,5,2.0,Right Back,FC Köln,173
+29682.0,3895258,Rasmus Carstensen,24,0,0,0,2,0,20,1,0,0,13,0,0,3,0,18,6,0,0,0,2,0.0,0,0,1,1,3,2.0,Right Back,FC Köln,88
+29760.0,3895182,Erhan Mašović,13,0,0,0,5,1,11,1,0,0,16,1,0,3,0,12,1,0,0,0,0,0.0,0,0,0,2,3,3.0,Right Center Back,Bochum,68
+29760.0,3895340,Erhan Mašović,12,0,0,0,2,1,8,1,0,1,3,0,0,4,0,10,2,0,0,0,0,0.0,0,0,1,1,4,3.0,Right Center Back,Bochum,42
+29906.0,3895266,Aster Vranckx,7,0,0,0,0,0,7,0,0,0,3,0,0,1,0,6,1,0,0,0,0,0.0,0,0,0,0,1,13.0,Right Center Midfield,Wolfsburg,24
+29925.0,3895180,Jens Petter Hauge,11,0,0,0,0,0,13,2,0,0,7,0,0,0,0,10,1,0,0,0,0,0.0,0,0,0,0,0,17.0,Right Wing,Eintracht Frankfurt,44
+30047.0,3895180,Hrvoje Smolčić,20,0,1,0,2,0,21,0,0,0,4,0,0,2,0,19,1,1,0,0,0,0.0,0,0,1,0,2,4.0,Center Back,Eintracht Frankfurt,72
+30360.0,3895052,Mohamed Simakan,92,0,0,0,6,1,82,1,0,0,12,1,0,2,2,89,3,0,0,True,True,0.0,0,0,2,2,2,3.0,Right Center Back,RB Leipzig,282
+30360.0,3895202,Mohamed Simakan,37,2,1,0,2,2,26,0,0,0,12,1,0,0,0,27,10,1,0,0,0,0.097737828,0,0,0,1,0,2.0,Right Back,RB Leipzig,117
+30401.0,3895194,Ruben Vargas,14,1,1,0,3,1,22,4,0,0,23,0,1,0,1,10,4,0,1,0,True,0.030362273,0,1,1,0,0,19.0,Center Attacking Midfield,Augsburg,85
+30606.0,3895052,Edmond Fayçal Tapsoba,59,0,1,0,0,0,50,1,0,0,5,3,0,3,0,51,8,1,0,0,True,0.0,0,0,0,0,3,5.0,Left Center Back,Bayer Leverkusen,178
+30606.0,3895060,Edmond Fayçal Tapsoba,90,0,3,0,4,0,66,1,0,0,8,2,0,4,0,81,9,3,0,0,0,0.0,0,0,2,0,4,5.0,Left Center Back,Bayer Leverkusen,260
+30606.0,3895067,Edmond Fayçal Tapsoba,108,1,3,0,2,1,95,0,0,0,6,0,0,1,0,102,6,3,0,0,0,0.07206045,0,0,0,0,1,5.0,Left Center Back,Bayer Leverkusen,333
+30606.0,3895074,Edmond Fayçal Tapsoba,64,0,1,0,6,0,59,0,0,0,10,1,0,7,0,61,3,0,1,0,0,0.0,0,0,3,0,7,5.0,Left Center Back,Bayer Leverkusen,210
+30606.0,3895086,Edmond Fayçal Tapsoba,111,0,1,0,5,1,103,0,2,0,8,1,0,3,0,106,5,0,1,0,0,0.0,0,0,1,2,3,5.0,Left Center Back,Bayer Leverkusen,338
+30606.0,3895095,Edmond Fayçal Tapsoba,85,0,0,0,2,0,73,0,0,0,8,0,0,8,1,77,8,0,0,0,True,0.0,0,0,0,0,8,5.0,Left Center Back,Bayer Leverkusen,251
+30606.0,3895107,Edmond Fayçal Tapsoba,74,0,0,0,2,1,66,0,0,0,6,3,0,0,0,72,2,0,0,0,0,0.0,0,0,0,1,0,5.0,Left Center Back,Bayer Leverkusen,221
+30606.0,3895113,Edmond Fayçal Tapsoba,73,1,1,0,0,0,58,1,0,0,5,1,0,0,0,66,7,0,1,0,0,0.033928115,0,0,0,0,0,5.0,Left Center Back,Bayer Leverkusen,212
+30606.0,3895121,Edmond Fayçal Tapsoba,110,1,0,0,4,0,105,1,1,0,4,1,0,7,1,104,6,0,0,0,0,0.1891779,0,1,1,0,7,5.0,Left Center Back,Bayer Leverkusen,351
+30606.0,3895134,Edmond Fayçal Tapsoba,63,0,0,0,2,0,51,0,0,0,13,1,0,5,0,57,6,0,0,0,0,0.0,0,0,1,0,5,5.0,Left Center Back,Bayer Leverkusen,188
+30606.0,3895158,Edmond Fayçal Tapsoba,84,0,0,0,3,1,72,1,1,0,7,0,1,1,2,83,1,0,0,0,0,0.0,0,0,0,1,1,5.0,Left Center Back,Bayer Leverkusen,265
+30606.0,3895167,Edmond Fayçal Tapsoba,73,0,0,0,2,0,63,0,0,0,10,1,0,2,0,68,5,0,0,0,0,0.0,0,0,0,1,2,5.0,Left Center Back,Bayer Leverkusen,224
+30606.0,3895180,Edmond Fayçal Tapsoba,88,1,1,0,3,0,79,0,0,0,11,2,1,0,1,84,4,0,1,0,0,0.21981987,0,1,2,0,0,5.0,Left Center Back,Bayer Leverkusen,268
+30606.0,3895182,Edmond Fayçal Tapsoba,33,1,0,0,1,0,32,0,0,1,3,1,0,1,0,31,2,0,0,0,0,0.12813282,0,0,1,0,1,4.0,Center Back,Bayer Leverkusen,100
+30606.0,3895220,Edmond Fayçal Tapsoba,6,0,0,0,1,1,5,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0.0,0,0,0,0,0,5.0,Left Center Back,Bayer Leverkusen,20
+30606.0,3895232,Edmond Fayçal Tapsoba,50,0,1,0,1,0,43,0,0,0,7,1,0,3,1,40,10,1,0,True,True,0.0,0,0,0,1,3,3.0,Right Center Back,Bayer Leverkusen,157
+30606.0,3895250,Edmond Fayçal Tapsoba,90,2,0,0,1,1,77,0,1,1,5,0,0,8,0,79,11,0,0,0,0,0.060275063000000004,0,2,0,0,8,5.0,Left Center Back,Bayer Leverkusen,274
+30606.0,3895258,Edmond Fayçal Tapsoba,24,0,0,0,0,0,17,0,0,0,1,0,0,1,0,24,0,0,0,0,0,0.0,0,0,0,0,1,5.0,Left Center Back,Bayer Leverkusen,64
+30606.0,3895266,Edmond Fayçal Tapsoba,99,1,1,0,2,0,87,0,0,0,6,0,0,1,0,95,4,1,0,0,True,0.026826069,0,1,1,0,1,3.0,Right Center Back,Bayer Leverkusen,298
+30606.0,3895275,Edmond Fayçal Tapsoba,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0.0,0,0,0,0,0,5.0,Left Center Back,Bayer Leverkusen,9
+30606.0,3895286,Edmond Fayçal Tapsoba,76,0,0,0,1,0,65,1,0,0,12,1,0,2,1,69,7,0,0,0,0,0.0,0,0,1,0,2,3.0,Right Center Back,Bayer Leverkusen,230
+30606.0,3895302,Edmond Fayçal Tapsoba,87,1,0,0,3,0,71,1,0,0,15,4,0,2,0,81,6,0,0,0,0,0.06755266,0,1,3,0,2,5.0,Left Center Back,Bayer Leverkusen,261
+30606.0,3895309,Edmond Fayçal Tapsoba,79,0,0,0,5,0,62,0,1,0,14,0,0,1,1,72,7,0,0,0,True,0.0,0,0,3,0,1,3.0,Right Center Back,Bayer Leverkusen,240
+30606.0,3895320,Edmond Fayçal Tapsoba,56,1,0,0,5,0,38,0,0,0,14,3,0,1,0,44,12,0,0,0,0,0.034692705,0,1,2,0,1,5.0,Left Center Back,Bayer Leverkusen,170
+30606.0,3895333,Edmond Fayçal Tapsoba,56,0,0,0,2,0,42,0,0,0,4,1,0,6,0,51,5,0,0,0,0,0.0,0,0,1,0,6,5.0,Left Center Back,Bayer Leverkusen,159
+30606.0,3895340,Edmond Fayçal Tapsoba,105,2,2,0,3,0,95,0,1,0,6,0,0,0,0,96,9,1,1,0,True,0.17691743000000001,0,2,1,1,0,5.0,Left Center Back,Bayer Leverkusen,312
+30606.0,3895348,Edmond Fayçal Tapsoba,100,0,1,0,4,0,86,0,1,0,13,1,0,4,0,92,8,1,0,0,0,0.0,0,0,0,1,4,5.0,Left Center Back,Bayer Leverkusen,303
+30742.0,3895067,Fabian Nürnberger,7,0,0,0,1,0,1,0,0,0,5,0,0,0,0,4,3,0,0,0,0,0.0,0,0,1,0,0,8.0,Left Wing Back,Darmstadt 98,17
+31100.0,3895302,Christian Groß,63,0,1,0,4,0,57,0,0,0,17,1,0,2,0,61,2,1,0,0,0,0.0,0,0,4,0,2,4.0,Center Back,Werder Bremen,204
+31310.0,3895086,Jan-Niklas Beste,19,0,1,0,4,3,35,2,3,0,28,1,1,0,0,11,8,1,0,True,0,0.0,0,0,1,2,0,21.0,Left Wing,FC Heidenheim,122
+31310.0,3895244,Jan-Niklas Beste,24,0,3,0,7,0,33,3,0,0,21,1,1,0,2,11,13,1,2,0,True,0.0,0,0,4,0,0,16.0,Left Midfield,FC Heidenheim,121
+31744.0,3895086,Adrian Beck,14,0,0,0,1,0,16,1,0,0,13,0,0,0,0,11,3,0,0,0,0,0.0,0,0,1,0,0,19.0,Center Attacking Midfield,FC Heidenheim,58
+31744.0,3895244,Adrian Beck,22,0,0,0,2,0,18,1,1,0,17,1,0,1,1,17,5,0,0,0,0,0.0,0,0,0,0,1,15.0,Left Center Midfield,FC Heidenheim,84
+31955.0,3895113,Jakub Kamiński,3,0,0,0,1,0,9,0,1,0,3,0,0,0,2,2,1,0,0,0,0,0.0,0,0,0,0,0,17.0,Right Wing,Wolfsburg,25
+32253.0,3895107,Luca Jannis Kilian,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0.0,0,0,0,0,0,2.0,Right Back,FC Köln,6
+32289.0,3895052,Victor Okoh Boniface,20,3,5,0,2,4,39,2,2,0,5,2,0,1,0,14,6,3,2,True,0,0.213703868,0,2,0,0,1,23.0,Center Forward,Bayer Leverkusen,120
+32289.0,3895060,Victor Okoh Boniface,28,11,2,0,2,2,66,3,3,0,3,1,0,0,0,23,5,1,1,0,0,1.403437664,2,6,0,0,0,23.0,Center Forward,Bayer Leverkusen,169
+32289.0,3895067,Victor Okoh Boniface,30,7,7,0,0,1,76,6,3,0,7,1,0,0,0,27,3,5,2,True,True,1.090115837,2,4,0,0,0,23.0,Center Forward,Bayer Leverkusen,184
+32289.0,3895074,Victor Okoh Boniface,15,8,7,0,1,0,43,4,2,0,11,0,1,1,0,9,6,5,2,0,True,0.969415028,0,6,0,0,1,23.0,Center Forward,Bayer Leverkusen,120
+32289.0,3895086,Victor Okoh Boniface,28,9,7,0,4,1,55,3,2,0,3,0,2,0,0,20,8,4,3,0,0,2.4532735850000003,2,4,1,0,0,23.0,Center Forward,Bayer Leverkusen,160
+32289.0,3895095,Victor Okoh Boniface,13,1,4,0,3,3,41,4,2,0,13,1,0,0,0,8,5,1,3,0,0,0.48862752,0,0,0,0,0,23.0,Center Forward,Bayer Leverkusen,103
+32289.0,3895107,Victor Okoh Boniface,17,6,9,0,1,0,42,2,2,0,8,0,1,1,0,12,5,4,5,0,2,1.352037038,1,3,0,0,1,23.0,Center Forward,Bayer Leverkusen,122
+32289.0,3895113,Victor Okoh Boniface,28,4,6,0,2,1,64,5,2,0,4,1,1,0,0,17,11,3,3,True,0,0.69930936,0,2,0,0,0,23.0,Center Forward,Bayer Leverkusen,160
+32289.0,3895121,Victor Okoh Boniface,26,4,5,0,4,1,60,5,2,0,10,2,0,1,1,21,5,4,1,0,3,0.3250564376,0,4,1,0,1,23.0,Center Forward,Bayer Leverkusen,158
+32289.0,3895134,Victor Okoh Boniface,23,2,3,0,0,1,36,4,1,0,10,1,0,1,0,17,6,2,1,2,0,0.3753238,0,0,0,0,1,23.0,Center Forward,Bayer Leverkusen,109
+32289.0,3895139,Victor Okoh Boniface,21,4,4,0,1,1,50,5,3,0,12,1,1,1,0,16,5,2,2,0,True,0.399048181,0,2,1,0,1,23.0,Center Forward,Bayer Leverkusen,137
+32289.0,3895153,Victor Okoh Boniface,21,3,4,0,0,3,48,4,0,0,14,0,0,1,1,14,7,2,2,0,0,0.44049380400000004,0,3,0,0,1,23.0,Center Forward,Bayer Leverkusen,131
+32289.0,3895158,Victor Okoh Boniface,26,3,6,0,4,1,64,4,4,0,16,1,0,0,0,21,5,2,4,0,True,1.084955364,1,1,1,1,0,23.0,Center Forward,Bayer Leverkusen,163
+32289.0,3895167,Victor Okoh Boniface,9,4,2,0,2,1,35,2,3,0,4,0,0,1,0,8,1,1,1,True,True,0.363109362,0,2,1,0,1,23.0,Center Forward,Bayer Leverkusen,82
+32289.0,3895180,Victor Okoh Boniface,9,2,3,0,1,0,34,4,3,0,19,1,0,1,0,6,3,1,2,True,0,0.19424087299999998,1,0,0,0,1,23.0,Center Forward,Bayer Leverkusen,98
+32289.0,3895182,Victor Okoh Boniface,6,1,2,0,0,0,11,1,1,0,8,0,0,0,0,5,1,0,2,0,2,0.34414628,1,0,0,0,0,23.0,Center Forward,Bayer Leverkusen,40
+32289.0,3895292,Victor Okoh Boniface,9,0,0,0,1,0,21,2,0,0,9,1,0,0,0,8,1,0,0,0,True,0.0,0,0,0,0,0,23.0,Center Forward,Bayer Leverkusen,53
+32289.0,3895302,Victor Okoh Boniface,15,2,1,0,0,0,25,2,2,0,18,0,0,0,0,12,3,1,0,True,0,1.106569,1,0,0,0,0,23.0,Center Forward,Bayer Leverkusen,81
+32289.0,3895309,Victor Okoh Boniface,1,0,1,0,0,0,2,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0.0,0,0,0,0,0,24.0,Left Center Forward,Bayer Leverkusen,9
+32289.0,3895320,Victor Okoh Boniface,7,0,1,0,2,0,11,0,0,0,6,1,0,0,0,2,5,1,0,0,0,0.0,0,0,0,0,0,23.0,Center Forward,Bayer Leverkusen,35
+32289.0,3895333,Victor Okoh Boniface,6,1,2,0,2,1,12,0,1,0,7,0,0,2,0,5,1,2,0,0,0,0.7835,1,0,0,0,2,23.0,Center Forward,Bayer Leverkusen,43
+32289.0,3895340,Victor Okoh Boniface,14,4,2,0,1,0,30,3,1,0,9,2,0,1,0,12,2,0,2,0,0,1.076389114,1,1,0,0,1,21.0,Left Wing,Bayer Leverkusen,83
+32289.0,3895348,Victor Okoh Boniface,19,2,3,0,1,0,29,2,2,0,7,1,0,0,0,15,4,2,1,0,0,0.8074633640000001,1,0,0,0,0,23.0,Center Forward,Bayer Leverkusen,93
+32537.0,3895292,Yorbe Vertessen,3,1,0,0,2,2,25,4,1,0,8,0,0,1,0,1,2,0,0,0,0,0.08249883,0,1,0,0,1,23.0,Center Forward,Union Berlin,58
+32712.0,3895052,Jeremie Frimpong,27,1,1,0,2,1,33,0,1,0,10,1,0,0,0,22,5,0,1,True,0,0.49154305,1,0,1,0,0,7.0,Right Wing Back,Bayer Leverkusen,105
+32712.0,3895060,Jeremie Frimpong,27,1,2,0,2,1,38,2,3,0,8,1,1,0,0,23,4,1,1,0,4,0.03741663,0,0,1,0,0,7.0,Right Wing Back,Bayer Leverkusen,116
+32712.0,3895067,Jeremie Frimpong,28,2,1,0,0,2,34,0,2,0,4,0,0,0,0,23,5,0,1,2,0,0.170089806,0,1,0,0,0,7.0,Right Wing Back,Bayer Leverkusen,108
+32712.0,3895074,Jeremie Frimpong,34,0,4,0,2,0,33,0,1,0,12,2,1,0,2,21,13,1,3,0,0,0.0,0,0,1,0,0,7.0,Right Wing Back,Bayer Leverkusen,120
+32712.0,3895086,Jeremie Frimpong,53,2,3,0,0,4,59,2,1,0,9,1,0,0,0,43,10,1,2,0,True,0.17643808,0,0,0,0,0,7.0,Right Wing Back,Bayer Leverkusen,193
+32712.0,3895095,Jeremie Frimpong,28,0,0,0,2,0,34,1,0,0,10,0,0,1,1,20,8,0,0,0,0,0.0,0,0,1,1,1,7.0,Right Wing Back,Bayer Leverkusen,102
+32712.0,3895107,Jeremie Frimpong,26,3,3,0,2,1,31,1,0,0,18,1,1,0,0,21,5,1,2,0,True,0.79430399,1,1,0,0,0,7.0,Right Wing Back,Bayer Leverkusen,122
+32712.0,3895113,Jeremie Frimpong,32,3,4,0,2,2,47,3,1,0,18,2,0,2,0,24,8,1,3,True,True,0.931964334,1,1,2,0,2,7.0,Right Wing Back,Bayer Leverkusen,158
+32712.0,3895121,Jeremie Frimpong,34,2,4,0,1,2,46,5,2,0,7,2,1,1,0,27,7,2,2,True,0,0.322144428,0,1,0,0,1,7.0,Right Wing Back,Bayer Leverkusen,157
+32712.0,3895134,Jeremie Frimpong,37,2,4,0,1,1,53,4,1,0,15,1,1,0,1,28,9,0,4,0,True,0.19180205,0,2,1,0,0,7.0,Right Wing Back,Bayer Leverkusen,165
+32712.0,3895139,Jeremie Frimpong,51,2,2,0,1,2,61,2,2,0,18,1,0,1,0,45,6,0,2,0,2,0.54413952,0,0,1,0,1,7.0,Right Wing Back,Bayer Leverkusen,201
+32712.0,3895153,Jeremie Frimpong,47,2,2,0,1,4,56,1,0,0,17,0,1,1,0,38,9,1,1,0,2,0.196413625,1,1,0,1,1,7.0,Right Wing Back,Bayer Leverkusen,181
+32712.0,3895158,Jeremie Frimpong,48,2,3,0,3,0,47,3,3,0,9,2,0,0,1,34,14,3,0,0,True,0.07681837,0,1,1,0,0,7.0,Right Wing Back,Bayer Leverkusen,169
+32712.0,3895167,Jeremie Frimpong,26,2,8,0,0,0,34,1,1,0,18,1,0,0,0,21,5,5,3,0,3,0.07115346,0,1,0,0,0,7.0,Right Wing Back,Bayer Leverkusen,124
+32712.0,3895180,Jeremie Frimpong,51,1,4,0,1,2,58,3,3,0,10,0,1,1,1,37,14,3,1,0,2,0.9111029,1,0,1,0,1,7.0,Right Wing Back,Bayer Leverkusen,184
+32712.0,3895182,Jeremie Frimpong,50,2,0,0,3,1,63,1,4,0,13,0,0,0,0,39,11,0,0,True,3,0.20533822000000002,0,0,0,0,0,7.0,Right Wing Back,Bayer Leverkusen,181
+32712.0,3895194,Jeremie Frimpong,76,2,1,0,2,1,82,2,3,0,13,1,0,2,0,59,17,1,0,0,4,0.091099457,0,2,1,0,2,7.0,Right Wing Back,Bayer Leverkusen,263
+32712.0,3895202,Jeremie Frimpong,12,0,0,0,0,0,14,2,0,0,9,0,0,0,0,10,2,0,0,0,0,0.0,0,0,0,0,0,7.0,Right Wing Back,Bayer Leverkusen,51
+32712.0,3895210,Jeremie Frimpong,49,2,2,0,3,0,51,2,2,0,11,1,1,1,0,41,8,1,1,0,2,0.37238714,0,1,0,2,1,7.0,Right Wing Back,Bayer Leverkusen,177
+32712.0,3895232,Jeremie Frimpong,2,3,1,0,0,0,8,0,0,0,8,0,0,0,1,2,0,1,0,0,0,0.113338358,1,1,0,0,0,18.0,Right Attacking Midfield,Bayer Leverkusen,29
+32712.0,3895244,Jeremie Frimpong,35,6,4,0,2,2,43,0,3,0,9,1,0,3,0,29,6,3,1,0,True,0.453738438,1,5,1,0,3,7.0,Right Wing Back,Bayer Leverkusen,156
+32712.0,3895250,Jeremie Frimpong,43,1,3,0,2,4,51,3,2,0,12,2,0,0,2,38,5,2,1,0,2,0.14916393,0,0,1,0,0,7.0,Right Wing Back,Bayer Leverkusen,178
+32712.0,3895258,Jeremie Frimpong,27,2,1,0,3,2,37,0,1,0,6,1,0,0,0,21,6,0,1,0,0,0.6358992499999999,1,1,1,1,0,7.0,Right Wing Back,Bayer Leverkusen,109
+32712.0,3895275,Jeremie Frimpong,31,1,2,0,2,1,42,2,3,0,8,1,0,2,0,27,4,1,1,True,0,0.0877793,0,1,0,0,2,7.0,Right Wing Back,Bayer Leverkusen,136
+32712.0,3895286,Jeremie Frimpong,41,3,5,0,0,0,51,2,1,0,16,1,0,1,0,33,8,2,3,0,2,0.26046024,0,3,0,0,1,7.0,Right Wing Back,Bayer Leverkusen,169
+32712.0,3895292,Jeremie Frimpong,9,2,2,0,1,0,12,1,1,0,3,0,1,0,0,8,1,1,1,0,0,0.183958225,0,1,1,0,0,7.0,Right Wing Back,Bayer Leverkusen,46
+32712.0,3895302,Jeremie Frimpong,8,1,2,0,2,0,10,2,0,0,4,0,0,0,0,7,1,1,1,0,True,0.17347074,0,0,1,0,0,7.0,Right Wing Back,Bayer Leverkusen,46
+32712.0,3895309,Jeremie Frimpong,30,3,5,0,2,2,49,2,6,0,27,2,0,0,0,24,6,2,3,0,True,0.29262707420000006,0,3,2,0,0,17.0,Right Wing,Bayer Leverkusen,180
+32712.0,3895320,Jeremie Frimpong,34,1,6,0,2,3,46,2,3,0,14,0,0,1,1,27,7,4,2,0,0,0.22501284,0,1,1,1,1,7.0,Right Wing Back,Bayer Leverkusen,157
+32712.0,3895333,Jeremie Frimpong,2,1,0,0,1,2,6,0,0,0,5,0,0,0,0,0,2,0,0,0,0,0.47853372,1,0,0,0,0,7.0,Right Wing Back,Bayer Leverkusen,19
+32712.0,3895348,Jeremie Frimpong,40,1,4,0,0,0,42,2,1,0,6,0,0,1,0,33,7,2,2,0,2,0.081525005,0,1,0,0,1,7.0,Right Wing Back,Bayer Leverkusen,145
+33088.0,3895180,Lucas Silva Melo,60,1,2,0,4,1,49,0,0,0,14,0,0,1,2,52,8,1,1,0,0,0.045849387,0,1,1,0,1,3.0,Right Center Back,Eintracht Frankfurt,194
+33088.0,3895333,Lucas Silva Melo,67,0,0,0,9,0,63,1,1,0,10,0,0,1,1,59,8,0,0,0,0,0.0,0,0,4,1,1,2.0,Right Back,Eintracht Frankfurt,214
+33297.0,3895266,Patrick Wimmer,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.0,0,0,0,0,0,16.0,Left Midfield,Wolfsburg,4
+33335.0,3895258,Jan Thielmann,2,0,0,0,1,0,3,0,1,0,10,2,0,0,0,2,0,0,0,0,0,0.0,0,0,0,0,0,24.0,Left Center Forward,FC Köln,22
+33401.0,3895074,Amine Adli,8,0,0,0,0,0,8,0,0,0,0,0,0,0,0,6,2,0,0,0,True,0.0,0,0,0,0,0,12.0,Right Midfield,Bayer Leverkusen,22
+33401.0,3895086,Amine Adli,19,1,1,0,0,2,26,2,0,0,2,0,0,0,0,16,3,1,0,0,0,0.06466207,1,0,0,0,0,21.0,Left Wing,Bayer Leverkusen,64
+33401.0,3895095,Amine Adli,12,1,1,0,0,0,12,1,0,0,12,1,0,1,1,9,3,1,0,True,0,0.04024042,0,1,0,0,1,20.0,Left Attacking Midfield,Bayer Leverkusen,51
+33401.0,3895107,Amine Adli,9,1,0,0,1,1,15,2,1,0,10,0,0,0,0,6,3,0,0,0,0,0.025139155,0,1,0,0,0,20.0,Left Attacking Midfield,Bayer Leverkusen,55
+33401.0,3895113,Amine Adli,29,1,1,0,2,3,35,1,0,0,18,2,0,0,0,24,5,1,0,0,3,0.04211412,0,0,0,1,0,20.0,Left Attacking Midfield,Bayer Leverkusen,126
+33401.0,3895121,Amine Adli,1,0,0,0,1,0,5,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0.0,0,0,0,0,1,18.0,Right Attacking Midfield,Bayer Leverkusen,9
+33401.0,3895134,Amine Adli,4,0,0,0,1,0,8,1,0,0,3,1,0,0,0,3,1,0,0,0,0,0.0,0,0,0,0,0,24.0,Left Center Forward,Bayer Leverkusen,22
+33401.0,3895139,Amine Adli,3,1,0,0,0,0,4,0,0,0,2,0,0,0,0,3,0,0,0,True,0,0.053452987,0,0,0,0,0,18.0,Right Attacking Midfield,Bayer Leverkusen,14
+33401.0,3895153,Amine Adli,6,0,3,0,1,1,16,0,0,0,11,1,0,0,0,6,0,2,1,True,True,0.0,0,0,0,0,0,23.0,Center Forward,Bayer Leverkusen,47
+33401.0,3895158,Amine Adli,25,0,0,0,1,1,25,0,0,0,1,0,0,1,0,19,6,0,0,0,True,0.0,0,0,0,0,1,20.0,Left Attacking Midfield,Bayer Leverkusen,74
+33401.0,3895167,Amine Adli,24,2,1,0,6,1,32,1,0,0,17,1,0,0,1,18,6,0,1,0,True,0.127074084,0,1,3,1,0,21.0,Left Wing,Bayer Leverkusen,113
+33401.0,3895232,Amine Adli,33,2,2,0,5,4,62,1,4,0,37,2,0,1,0,25,8,1,1,0,0,0.120600194,0,0,0,0,1,20.0,Left Attacking Midfield,Bayer Leverkusen,192
+33401.0,3895244,Amine Adli,46,2,6,0,4,2,71,0,3,0,30,1,1,0,2,38,8,4,2,0,2,0.74940703,1,1,2,1,0,24.0,Left Center Forward,Bayer Leverkusen,220
+33401.0,3895250,Amine Adli,29,1,1,0,3,3,53,4,1,0,27,1,1,0,0,24,5,0,1,0,0,0.04576154,0,1,0,0,0,23.0,Center Forward,Bayer Leverkusen,151
+33401.0,3895258,Amine Adli,25,0,2,0,0,0,30,0,1,0,5,0,0,0,0,22,3,0,2,True,True,0.0,0,0,0,0,0,18.0,Right Attacking Midfield,Bayer Leverkusen,91
+33401.0,3895266,Amine Adli,26,2,0,0,1,1,30,0,1,0,5,1,0,0,0,24,2,0,0,0,True,0.132297061,0,1,0,0,0,6.0,Left Back,Bayer Leverkusen,93
+33401.0,3895275,Amine Adli,7,0,1,0,1,0,13,0,0,0,13,0,0,0,0,6,1,0,1,0,0,0.0,0,0,0,0,0,23.0,Center Forward,Bayer Leverkusen,43
+33401.0,3895286,Amine Adli,30,2,1,0,0,1,30,0,0,0,3,1,0,0,0,25,5,1,0,0,5,0.125756568,0,1,0,0,0,18.0,Right Attacking Midfield,Bayer Leverkusen,99
+33401.0,3895292,Amine Adli,29,2,1,0,4,2,36,1,0,0,20,1,0,1,1,22,7,1,0,0,0,0.5064727,0,0,2,0,1,20.0,Left Attacking Midfield,Bayer Leverkusen,123
+33401.0,3895302,Amine Adli,21,1,2,0,1,1,30,2,1,0,15,2,0,0,0,17,4,1,1,0,0,0.07415738,0,0,0,1,0,20.0,Left Attacking Midfield,Bayer Leverkusen,101
+33401.0,3895320,Amine Adli,30,2,0,0,1,4,39,2,1,0,17,0,0,0,0,20,10,0,0,0,0,0.116927669,1,0,0,1,0,20.0,Left Attacking Midfield,Bayer Leverkusen,124
+33401.0,3895340,Amine Adli,13,5,0,0,1,0,16,0,0,0,6,0,0,0,0,12,1,0,0,0,0,0.802209351,1,2,0,1,0,21.0,Left Wing,Bayer Leverkusen,58
+33401.0,3895348,Amine Adli,36,1,2,0,2,3,44,1,2,0,16,0,0,2,1,31,5,1,1,True,True,0.058906764,0,0,1,1,2,20.0,Left Attacking Midfield,Bayer Leverkusen,153
+34612.0,3895067,Filip Stojilković,3,0,0,0,0,0,9,0,0,0,3,0,0,0,0,0,3,0,0,0,0,0.0,0,0,0,0,0,5.0,Left Center Back,Darmstadt 98,18
+34870.0,3895153,Nick Woltemade,8,0,1,0,0,0,13,0,3,0,8,1,0,0,0,7,1,0,1,0,0,0.0,0,0,0,0,0,22.0,Right Center Forward,Werder Bremen,47
+34870.0,3895302,Nick Woltemade,16,1,3,0,4,1,31,3,1,0,28,0,1,0,0,13,3,1,2,0,0,0.082292914,0,1,0,0,0,22.0,Right Center Forward,Werder Bremen,118
+35242.0,3895134,Maximilian Beier,17,4,4,0,1,0,37,1,0,0,26,0,0,0,0,13,4,3,1,0,0,0.21832838599999999,0,2,0,0,0,24.0,Left Center Forward,Hoffenheim,114
+35242.0,3895286,Maximilian Beier,16,2,1,0,4,0,25,2,0,0,12,0,0,0,0,13,3,1,0,0,True,0.345391153,1,1,1,1,0,24.0,Left Center Forward,Hoffenheim,79
+35578.0,3895067,Christoph Klarer,33,0,0,0,6,1,25,0,0,0,15,3,0,3,2,25,8,0,0,True,0,0.0,0,0,3,2,3,3.0,Right Center Back,Darmstadt 98,117
+35578.0,3895220,Christoph Klarer,2,0,0,0,1,1,8,0,0,0,6,1,0,0,0,0,2,0,0,0,0,0.0,0,0,0,0,0,22.0,Right Center Forward,Darmstadt 98,20
+35609.0,3895158,Karim-David Adeyemi,4,0,3,0,2,0,14,3,0,0,8,0,0,0,0,3,1,1,2,0,0,0.0,0,0,1,0,0,21.0,Left Wing,Borussia Dortmund,47
+35637.0,3895107,Timo Hübers,57,0,0,0,4,0,48,0,0,0,17,2,0,5,3,48,9,0,0,0,0,0.0,0,0,1,2,5,3.0,Right Center Back,FC Köln,188
+35637.0,3895258,Timo Hübers,34,1,0,0,4,1,26,0,1,0,9,0,0,6,0,29,5,0,0,0,0,0.03799639,0,0,2,1,6,3.0,Right Center Back,FC Köln,115
+35713.0,3895275,Yannik Keitel,9,2,0,0,0,0,9,1,1,0,1,1,0,0,0,5,4,0,0,0,0,0.23141392,1,0,0,0,0,11.0,Left Defensive Midfield,Freiburg,36
+36811.0,3895210,Moritz Nicolas,37,0,0,0,0,0,18,0,0,0,0,0,0,0,0,23,14,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Borussia Mönchengladbach,102
+36830.0,3895060,Joseph Scally,38,1,0,0,3,1,31,0,2,0,13,1,0,5,1,29,9,0,0,0,0,0.0070148637,0,1,1,2,5,8.0,Left Wing Back,Borussia Mönchengladbach,132
+36830.0,3895210,Joseph Scally,26,0,1,0,0,2,25,0,1,0,20,2,0,6,1,21,5,0,1,0,0,0.0,0,0,0,0,6,3.0,Right Center Back,Borussia Mönchengladbach,114
+37005.0,3895194,Finn Dahmen,43,0,0,0,0,0,25,0,0,0,0,0,0,0,0,32,11,0,0,0,True,0.0,0,0,0,0,0,1.0,Goalkeeper,Augsburg,124
+38004.0,3895086,Piero Martín Hincapié Reyna,16,0,0,0,0,0,14,0,0,0,2,0,0,0,0,16,0,0,0,0,0,0.0,0,0,0,0,0,6.0,Left Back,Bayer Leverkusen,43
+38004.0,3895107,Piero Martín Hincapié Reyna,25,0,0,0,0,0,23,0,0,0,1,0,0,2,0,25,0,0,0,0,0,0.0,0,0,0,0,2,5.0,Left Center Back,Bayer Leverkusen,76
+38004.0,3895121,Piero Martín Hincapié Reyna,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.0,0,0,0,0,0,8.0,Left Wing Back,Bayer Leverkusen,2
+38004.0,3895139,Piero Martín Hincapié Reyna,100,0,0,0,3,0,90,0,0,0,7,0,0,1,0,99,1,0,0,0,0,0.0,0,0,0,0,1,5.0,Left Center Back,Bayer Leverkusen,289
+38004.0,3895153,Piero Martín Hincapié Reyna,79,1,0,0,3,0,68,1,0,0,12,0,0,3,1,76,3,0,0,True,0,0.08324678,0,0,1,1,3,5.0,Left Center Back,Bayer Leverkusen,235
+38004.0,3895167,Piero Martín Hincapié Reyna,9,0,0,0,1,1,5,0,0,0,2,0,0,1,0,8,1,0,0,0,True,0.0,0,0,1,0,1,6.0,Left Back,Bayer Leverkusen,24
+38004.0,3895180,Piero Martín Hincapié Reyna,8,1,0,0,1,0,7,0,0,0,2,0,0,0,0,7,1,0,0,0,0,0.5211891,0,0,1,0,0,8.0,Left Wing Back,Bayer Leverkusen,24
+38004.0,3895182,Piero Martín Hincapié Reyna,60,1,0,0,1,1,50,0,0,0,8,1,0,5,0,59,1,0,0,0,0,0.15088059,0,1,1,0,5,5.0,Left Center Back,Bayer Leverkusen,178
+38004.0,3895194,Piero Martín Hincapié Reyna,84,2,0,0,2,1,76,0,1,0,12,2,0,2,0,74,10,0,0,0,0,0.108332579,0,2,0,0,2,5.0,Left Center Back,Bayer Leverkusen,255
+38004.0,3895202,Piero Martín Hincapié Reyna,76,4,0,0,6,0,74,0,1,0,10,0,0,6,0,72,4,0,0,0,0,0.332685585,1,1,1,3,6,5.0,Left Center Back,Bayer Leverkusen,250
+38004.0,3895210,Piero Martín Hincapié Reyna,120,0,0,0,2,0,113,1,0,0,13,4,0,1,0,116,4,0,0,0,True,0.0,0,0,0,1,1,5.0,Left Center Back,Bayer Leverkusen,372
+38004.0,3895220,Piero Martín Hincapié Reyna,105,1,1,0,3,0,95,0,0,0,12,2,0,5,1,96,9,0,1,0,0,0.043250825,0,0,3,0,5,5.0,Left Center Back,Bayer Leverkusen,326
+38004.0,3895232,Piero Martín Hincapié Reyna,45,1,1,0,5,1,42,1,1,0,26,0,0,5,0,36,9,0,1,0,True,0.028523209,0,1,3,1,5,5.0,Left Center Back,Bayer Leverkusen,177
+38004.0,3895244,Piero Martín Hincapié Reyna,84,1,0,0,5,2,63,0,0,0,12,1,0,5,1,69,15,0,0,0,0,0.023191312,0,0,3,1,5,5.0,Left Center Back,Bayer Leverkusen,246
+38004.0,3895250,Piero Martín Hincapié Reyna,12,0,0,0,1,0,12,0,0,0,3,0,0,0,0,11,1,0,0,0,0,0.0,0,0,0,1,0,8.0,Left Wing Back,Bayer Leverkusen,38
+38004.0,3895258,Piero Martín Hincapié Reyna,92,0,0,0,2,1,80,0,0,0,3,1,0,0,0,91,1,0,0,0,0,0.0,0,0,0,1,0,5.0,Left Center Back,Bayer Leverkusen,259
+38004.0,3895266,Piero Martín Hincapié Reyna,64,1,0,0,1,0,59,0,0,0,6,1,0,0,0,56,8,0,0,0,0,0.2274368,0,0,0,0,0,5.0,Left Center Back,Bayer Leverkusen,191
+38004.0,3895275,Piero Martín Hincapié Reyna,95,1,0,0,6,2,90,1,0,0,10,2,0,2,0,90,5,0,0,0,0,0.008700319,0,1,2,0,2,5.0,Left Center Back,Bayer Leverkusen,293
+38004.0,3895286,Piero Martín Hincapié Reyna,78,1,0,0,2,1,72,0,0,0,6,0,0,2,0,73,5,0,0,0,0,0.057205044,0,0,2,0,2,5.0,Left Center Back,Bayer Leverkusen,227
+38004.0,3895292,Piero Martín Hincapié Reyna,95,2,1,0,5,0,89,1,0,0,8,0,1,3,0,89,6,0,1,0,0,0.160676505,0,2,1,1,3,5.0,Left Center Back,Bayer Leverkusen,291
+38004.0,3895302,Piero Martín Hincapié Reyna,42,1,0,0,3,0,44,0,1,0,17,0,0,1,1,39,3,0,0,0,True,0.14338115,0,0,1,2,1,8.0,Left Wing Back,Bayer Leverkusen,151
+38004.0,3895309,Piero Martín Hincapié Reyna,72,0,0,0,6,0,64,0,0,0,18,1,0,0,2,67,5,0,0,0,0,0.0,0,0,4,0,0,5.0,Left Center Back,Bayer Leverkusen,226
+38004.0,3895320,Piero Martín Hincapié Reyna,32,0,1,0,3,1,23,1,1,0,7,2,0,2,0,26,6,0,1,0,0,0.0,0,0,0,1,2,5.0,Left Center Back,Bayer Leverkusen,102
+38004.0,3895333,Piero Martín Hincapié Reyna,14,0,1,0,4,0,9,0,0,0,10,1,0,6,0,10,4,1,0,0,0,0.0,0,0,1,1,6,8.0,Left Wing Back,Bayer Leverkusen,59
+38004.0,3895348,Piero Martín Hincapié Reyna,15,0,1,0,0,0,12,0,0,0,3,0,0,1,0,13,2,0,1,0,0,0.0,0,0,0,0,1,8.0,Left Wing Back,Bayer Leverkusen,46
+38009.0,3895113,Kevin Paredes,7,2,0,0,1,1,9,1,1,0,6,1,0,0,1,7,0,0,0,0,0,0.09240110900000001,0,1,1,0,0,13.0,Right Center Midfield,Wolfsburg,43
+38009.0,3895266,Kevin Paredes,30,0,1,0,4,0,22,2,1,0,8,0,0,4,2,21,9,0,1,0,0,0.0,0,0,1,2,4,8.0,Left Wing Back,Wolfsburg,105
+38759.0,3895202,Benjamin Šeško,16,3,3,0,4,1,30,1,4,0,25,0,0,2,0,12,4,2,1,0,0,0.42175001300000003,0,2,3,0,2,22.0,Right Center Forward,RB Leipzig,117
+38917.0,3895095,Tom Krauß,17,1,1,0,0,0,18,0,1,0,2,0,0,0,0,13,4,0,1,0,0,0.045486383,0,1,0,0,0,11.0,Left Defensive Midfield,FSV Mainz 05,56
+38917.0,3895250,Tom Krauß,7,2,0,0,2,0,9,1,0,0,6,0,0,0,0,7,0,0,0,0,0,0.056954509,0,2,0,1,0,15.0,Left Center Midfield,FSV Mainz 05,36
+38991.0,3895107,Eric Martel,23,2,0,0,2,0,26,0,1,0,17,2,0,0,1,22,1,0,0,0,0,0.73562936,0,0,1,1,0,10.0,Center Defensive Midfield,FC Köln,97
+38991.0,3895258,Eric Martel,16,0,0,0,2,1,20,0,1,0,20,2,0,2,0,10,6,0,0,0,0,0.0,0,0,1,0,2,9.0,Right Defensive Midfield,FC Köln,83
+39070.0,3895180,Ansgar Knauff,19,0,3,0,4,0,29,3,0,0,24,6,0,0,1,10,9,0,3,0,0,0.0,0,0,2,1,0,21.0,Left Wing,Eintracht Frankfurt,113
+39070.0,3895333,Ansgar Knauff,11,1,0,0,0,0,12,1,0,0,2,2,0,0,0,10,1,0,0,0,2,0.105557114,0,1,0,0,0,6.0,Left Back,Eintracht Frankfurt,42
+39092.0,3895309,Ian Maatsen,27,0,0,0,1,0,28,3,0,0,7,2,0,0,0,24,3,0,0,0,0,0.0,0,0,1,0,0,6.0,Left Back,Borussia Dortmund,92
+39126.0,3895121,Junior Chukwubuike Adamu,4,0,0,0,0,0,9,1,1,0,2,0,0,0,0,2,2,0,0,0,0,0.0,0,0,0,0,0,15.0,Left Center Midfield,Freiburg,20
+39160.0,3895067,Bartol Franjić,33,0,2,0,2,0,27,2,1,0,8,0,0,7,1,30,3,1,1,0,0,0.0,0,0,1,1,7,10.0,Center Defensive Midfield,Darmstadt 98,117
+39160.0,3895220,Bartol Franjić,24,0,2,0,1,0,20,1,0,0,28,1,0,2,1,22,2,1,1,0,0,0.0,0,0,1,0,2,9.0,Right Defensive Midfield,Darmstadt 98,106
+39167.0,3895052,Xavi Simons,23,0,1,0,0,1,27,3,0,0,14,0,0,1,1,21,2,0,1,0,0,0.0,0,0,0,0,1,12.0,Right Midfield,RB Leipzig,99
+39167.0,3895202,Xavi Simons,28,1,3,0,3,1,30,2,4,0,13,3,2,0,3,22,6,3,0,0,3,0.069489375,1,0,2,1,0,18.0,Right Attacking Midfield,RB Leipzig,137
+39360.0,3895167,Angelo Stiller,79,1,0,0,3,0,67,1,2,0,24,1,1,2,0,70,9,0,0,0,2,0.040256012,0,0,3,0,2,11.0,Left Defensive Midfield,VfB Stuttgart,252
+39460.0,3895052,Nicolas Seiwald,22,0,1,0,2,0,20,0,1,0,23,2,0,0,0,20,2,0,1,0,0,0.0,0,0,0,2,0,9.0,Right Defensive Midfield,RB Leipzig,96
+39460.0,3895202,Nicolas Seiwald,42,0,0,0,1,0,33,1,0,0,24,1,0,0,2,32,10,0,0,0,True,0.0,0,0,1,0,0,9.0,Right Defensive Midfield,RB Leipzig,148
+39565.0,3895074,Jamal Musiala,22,0,1,0,2,1,22,0,4,0,9,1,0,0,0,20,2,0,1,0,0,0.0,0,0,2,0,0,19.0,Center Attacking Midfield,Bayern Munich,87
+39565.0,3895232,Jamal Musiala,30,1,3,0,2,5,46,5,3,0,27,0,0,0,3,26,4,2,1,0,0,0.046734728,0,1,0,0,0,20.0,Left Attacking Midfield,Bayern Munich,170
+40167.0,3895194,Arne Engels,4,0,0,0,0,0,2,0,0,0,4,0,0,0,1,3,1,0,0,0,0,0.0,0,0,0,0,0,13.0,Right Center Midfield,Augsburg,14
+40167.0,3895348,Arne Engels,19,1,0,0,2,0,18,0,0,0,8,1,0,2,1,17,2,0,0,0,0,0.082670294,0,1,1,1,2,15.0,Left Center Midfield,Augsburg,72
+40185.0,3895052,Junior Castello Lukeba,27,0,0,0,1,0,25,0,0,0,5,1,0,1,0,26,1,0,0,0,0,0.0,0,0,1,0,1,5.0,Left Center Back,RB Leipzig,86
+40185.0,3895202,Junior Castello Lukeba,61,0,1,0,1,0,53,0,0,0,5,0,0,1,0,56,5,1,0,0,0,0.0,0,0,0,0,1,5.0,Left Center Back,RB Leipzig,179
+40707.0,3895180,Jessic Ngankam,0,0,0,0,0,1,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,23.0,Center Forward,Eintracht Frankfurt,9
+40707.0,3895250,Jessic Ngankam,0,1,0,0,0,0,3,1,0,0,6,1,0,0,0,0,0,0,0,0,0,0.039315462,0,1,0,0,0,18.0,Right Attacking Midfield,FSV Mainz 05,15
+40724.0,3895052,Florian Wirtz,30,2,2,0,2,1,45,2,2,0,13,0,0,1,0,24,6,0,2,0,0,0.44963343,1,0,0,0,1,21.0,Left Wing,Bayer Leverkusen,124
+40724.0,3895060,Florian Wirtz,75,1,3,0,1,0,89,7,6,0,12,0,0,1,0,62,13,2,1,True,8,0.03490053,0,0,0,1,1,21.0,Left Wing,Bayer Leverkusen,285
+40724.0,3895067,Florian Wirtz,64,2,6,0,0,1,82,3,5,0,11,2,0,0,0,53,11,3,3,True,2,0.09058177,0,1,0,0,0,21.0,Left Wing,Bayer Leverkusen,249
+40724.0,3895074,Florian Wirtz,65,1,5,0,3,0,72,2,7,0,32,0,1,0,1,55,10,4,1,0,3,0.36008543,0,0,1,0,0,21.0,Left Wing,Bayer Leverkusen,273
+40724.0,3895086,Florian Wirtz,56,3,2,0,3,0,66,2,2,0,17,0,0,0,1,52,4,2,0,0,3,0.273933553,0,2,1,1,0,20.0,Left Attacking Midfield,Bayer Leverkusen,207
+40724.0,3895095,Florian Wirtz,26,0,2,0,1,0,36,1,4,0,31,0,0,1,1,21,5,2,0,0,0,0.0,0,0,0,0,1,18.0,Right Attacking Midfield,Bayer Leverkusen,134
+40724.0,3895107,Florian Wirtz,50,5,2,0,3,2,63,2,3,0,25,1,0,0,1,42,8,2,0,True,True,0.205003153,0,2,2,0,0,20.0,Left Attacking Midfield,Bayer Leverkusen,218
+40724.0,3895113,Florian Wirtz,30,2,3,0,0,1,39,0,1,0,13,1,2,0,0,26,4,2,1,0,0,0.10275764700000001,0,2,0,0,0,20.0,Left Attacking Midfield,Bayer Leverkusen,130
+40724.0,3895121,Florian Wirtz,53,3,6,0,1,1,64,4,3,0,13,0,1,0,1,48,5,2,4,0,2,0.219582736,1,0,1,0,0,20.0,Left Attacking Midfield,Bayer Leverkusen,211
+40724.0,3895134,Florian Wirtz,52,1,4,0,0,1,67,5,3,0,36,2,0,1,1,45,7,3,1,0,True,0.4335934,1,0,0,0,1,20.0,Left Attacking Midfield,Bayer Leverkusen,228
+40724.0,3895139,Florian Wirtz,68,3,5,0,0,1,81,5,2,0,18,1,0,0,0,58,10,3,2,True,4,0.5215122839999999,0,1,0,0,0,20.0,Left Attacking Midfield,Bayer Leverkusen,271
+40724.0,3895153,Florian Wirtz,51,0,6,0,2,0,65,3,5,0,30,1,0,0,0,47,4,5,1,0,0,0.0,0,0,1,0,0,20.0,Left Attacking Midfield,Bayer Leverkusen,216
+40724.0,3895158,Florian Wirtz,100,2,5,0,2,2,101,2,1,0,27,1,1,0,2,83,17,3,2,0,3,0.070881274,0,1,1,0,0,20.0,Left Attacking Midfield,Bayer Leverkusen,346
+40724.0,3895167,Florian Wirtz,79,2,6,0,5,1,75,2,5,0,27,2,0,0,0,68,11,4,2,0,True,0.56590184,1,1,5,0,0,17.0,Right Wing,Bayer Leverkusen,288
+40724.0,3895180,Florian Wirtz,61,4,5,0,2,1,73,1,2,0,30,0,1,0,0,50,11,2,3,True,True,0.544262803,1,2,0,0,0,20.0,Left Attacking Midfield,Bayer Leverkusen,249
+40724.0,3895182,Florian Wirtz,69,1,1,0,3,3,91,2,1,0,21,2,1,0,0,57,12,1,0,True,True,0.10643516,0,1,1,0,0,20.0,Left Attacking Midfield,Bayer Leverkusen,259
+40724.0,3895194,Florian Wirtz,37,2,3,0,1,1,38,0,3,0,7,0,0,0,0,32,5,0,3,0,0,0.142889615,0,1,1,0,0,20.0,Left Attacking Midfield,Bayer Leverkusen,134
+40724.0,3895202,Florian Wirtz,55,3,5,0,4,2,81,4,5,0,27,1,2,0,2,49,6,2,3,0,2,0.16964664299999999,0,2,2,0,0,20.0,Left Attacking Midfield,Bayer Leverkusen,256
+40724.0,3895210,Florian Wirtz,84,4,1,0,3,1,90,3,2,0,26,4,2,0,2,77,7,0,1,0,6,0.524159179,0,2,0,1,0,21.0,Left Wing,Bayer Leverkusen,313
+40724.0,3895220,Florian Wirtz,65,2,7,0,2,2,70,2,3,0,16,1,1,0,1,57,8,6,1,True,True,0.184695376,0,0,0,0,0,20.0,Left Attacking Midfield,Bayer Leverkusen,235
+40724.0,3895232,Florian Wirtz,55,1,2,0,6,1,63,3,5,0,40,2,0,0,1,49,6,1,1,0,0,0.07725087,0,1,1,2,0,23.0,Center Forward,Bayer Leverkusen,236
+40724.0,3895244,Florian Wirtz,66,2,8,0,3,0,86,4,5,0,26,0,2,0,1,52,14,5,3,True,3,0.24007409999999998,0,0,1,0,0,19.0,Center Attacking Midfield,Bayer Leverkusen,278
+40724.0,3895250,Florian Wirtz,71,3,6,0,3,1,86,1,2,0,13,0,1,0,0,59,12,3,3,True,2,0.132703234,0,3,1,0,0,20.0,Left Attacking Midfield,Bayer Leverkusen,257
+40724.0,3895258,Florian Wirtz,68,4,2,0,4,2,71,3,1,0,19,0,0,0,0,53,15,2,0,0,True,0.120631612,0,1,2,0,0,20.0,Left Attacking Midfield,Bayer Leverkusen,244
+40724.0,3895266,Florian Wirtz,97,3,7,0,3,3,115,2,3,0,19,1,0,0,1,86,11,3,4,0,2,0.33749204,1,1,0,1,0,20.0,Left Attacking Midfield,Bayer Leverkusen,352
+40724.0,3895275,Florian Wirtz,82,2,3,0,6,2,90,4,4,0,22,1,0,0,0,67,15,2,1,0,2,0.520676904,1,0,3,1,0,20.0,Left Attacking Midfield,Bayer Leverkusen,304
+40724.0,3895286,Florian Wirtz,91,3,4,0,2,1,100,2,8,0,18,0,1,0,0,74,17,3,1,0,6,0.129059061,0,2,2,0,0,20.0,Left Attacking Midfield,Bayer Leverkusen,321
+40724.0,3895292,Florian Wirtz,66,2,4,0,2,1,77,4,5,0,19,0,1,0,1,58,8,0,4,0,3,0.841714318,1,1,0,1,0,18.0,Right Attacking Midfield,Bayer Leverkusen,248
+40724.0,3895302,Florian Wirtz,27,5,3,0,1,0,37,0,2,0,20,1,0,0,0,25,2,1,2,0,True,0.870759703,3,2,0,0,0,20.0,Left Attacking Midfield,Bayer Leverkusen,138
+40724.0,3895309,Florian Wirtz,16,0,1,0,0,2,13,1,0,0,6,1,0,0,0,10,6,1,0,True,0,0.0,0,0,0,0,0,21.0,Left Wing,Bayer Leverkusen,57
+40724.0,3895320,Florian Wirtz,18,0,0,0,0,0,23,3,1,0,8,0,0,0,1,14,4,0,0,0,0,0.0,0,0,0,0,0,18.0,Right Attacking Midfield,Bayer Leverkusen,71
+40724.0,3895348,Florian Wirtz,14,3,2,0,1,0,20,1,2,0,9,1,0,0,0,13,1,0,2,0,2,0.200013376,0,2,0,1,0,20.0,Left Attacking Midfield,Bayer Leverkusen,79
+40761.0,3895333,Omar Marmoush,20,4,1,0,1,1,36,1,0,0,22,2,0,0,0,17,3,1,0,0,True,0.45716991,0,3,0,0,0,24.0,Left Center Forward,Eintracht Frankfurt,113
+40943.0,3895210,Luca Netz,39,1,0,0,3,3,26,0,2,0,20,1,0,5,3,26,13,0,0,0,0,0.06472163,0,0,2,0,5,8.0,Left Wing Back,Borussia Mönchengladbach,138
+40995.0,3895194,Dion Drena Beljo,1,0,0,0,1,0,6,4,0,0,3,0,0,0,0,1,0,0,0,0,0,0.0,0,0,0,0,0,24.0,Left Center Forward,Augsburg,19
+40995.0,3895348,Dion Drena Beljo,0,0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,22.0,Right Center Forward,Augsburg,4
+41411.0,3895067,Nathan Tella,10,1,2,0,0,0,14,0,1,0,2,0,0,0,0,10,0,0,2,0,0,0.26440224,0,0,0,0,0,7.0,Right Wing Back,Bayer Leverkusen,44
+41411.0,3895086,Nathan Tella,7,0,0,0,0,1,6,0,0,0,3,0,0,0,0,6,1,0,0,0,0,0.0,0,0,0,0,0,17.0,Right Wing,Bayer Leverkusen,22
+41411.0,3895107,Nathan Tella,4,1,2,0,0,0,6,0,0,0,2,0,0,0,0,4,0,1,1,0,True,0.026818357,0,1,0,0,0,7.0,Right Wing Back,Bayer Leverkusen,22
+41411.0,3895113,Nathan Tella,4,0,1,0,0,0,2,1,0,0,1,0,0,0,0,4,0,0,1,0,0,0.0,0,0,0,0,0,7.0,Right Wing Back,Bayer Leverkusen,15
+41411.0,3895121,Nathan Tella,2,0,0,0,1,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0.0,0,0,0,0,0,7.0,Right Wing Back,Bayer Leverkusen,6
+41411.0,3895139,Nathan Tella,2,1,0,0,0,0,4,0,1,0,1,0,0,0,0,2,0,0,0,0,0,0.06197454,1,0,0,0,0,7.0,Right Wing Back,Bayer Leverkusen,15
+41411.0,3895153,Nathan Tella,9,0,0,0,0,0,8,0,0,0,2,0,0,1,1,6,3,0,0,0,0,0.0,0,0,0,0,1,7.0,Right Wing Back,Bayer Leverkusen,30
+41411.0,3895180,Nathan Tella,9,0,0,0,0,1,10,0,1,0,1,0,0,0,0,6,3,0,0,0,True,0.0,0,0,0,0,0,7.0,Right Wing Back,Bayer Leverkusen,31
+41411.0,3895202,Nathan Tella,28,1,2,0,5,1,27,0,3,0,14,2,0,1,0,25,3,2,0,0,0,0.7886074,1,0,2,2,1,7.0,Right Wing Back,Bayer Leverkusen,112
+41411.0,3895210,Nathan Tella,23,2,0,0,1,0,23,0,1,0,3,0,0,0,0,18,5,0,0,0,True,0.44860381,0,1,1,0,0,8.0,Left Wing Back,Bayer Leverkusen,80
+41411.0,3895220,Nathan Tella,31,5,3,0,3,2,36,1,1,0,15,2,0,4,1,27,4,1,2,0,2,0.311267958,2,3,0,2,4,7.0,Right Wing Back,Bayer Leverkusen,146
+41411.0,3895232,Nathan Tella,15,2,0,0,1,1,28,3,1,0,16,1,0,1,1,11,4,0,0,True,True,0.09545001,0,0,0,0,1,18.0,Right Attacking Midfield,Bayer Leverkusen,88
+41411.0,3895244,Nathan Tella,2,0,0,0,2,1,5,0,0,0,4,0,0,0,0,2,0,0,0,0,0,0.0,0,0,1,0,0,17.0,Right Wing,Bayer Leverkusen,16
+41411.0,3895250,Nathan Tella,4,0,0,0,0,1,5,1,1,0,4,0,0,0,0,3,1,0,0,0,0,0.0,0,0,0,0,0,7.0,Right Wing Back,Bayer Leverkusen,19
+41411.0,3895258,Nathan Tella,32,1,1,0,1,1,33,0,0,0,9,0,0,0,1,26,6,0,1,0,0,0.056193374,0,1,0,0,0,7.0,Right Wing Back,Bayer Leverkusen,116
+41411.0,3895266,Nathan Tella,30,1,2,0,3,1,47,4,0,0,12,1,0,0,1,26,4,0,2,0,True,0.69061685,1,0,0,2,0,18.0,Right Attacking Midfield,Bayer Leverkusen,137
+41411.0,3895275,Nathan Tella,3,0,0,0,1,1,5,0,0,0,4,0,0,0,0,3,0,0,0,0,True,0.0,0,0,1,0,0,7.0,Right Wing Back,Bayer Leverkusen,20
+41411.0,3895286,Nathan Tella,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0,True,0,0.0,0,0,0,0,0,2.0,Right Back,Bayer Leverkusen,12
+41411.0,3895292,Nathan Tella,34,2,3,0,4,2,30,2,2,0,7,2,0,1,1,28,6,2,1,0,3,0.21904598,0,1,2,1,1,7.0,Right Wing Back,Bayer Leverkusen,132
+41411.0,3895302,Nathan Tella,24,0,2,0,1,1,31,0,4,0,20,0,0,0,0,17,7,0,2,0,True,0.0,0,0,1,0,0,7.0,Right Wing Back,Bayer Leverkusen,118
+41411.0,3895309,Nathan Tella,17,4,5,0,4,1,32,1,3,0,13,2,0,0,0,14,3,1,4,0,True,0.7996514220000001,0,1,1,1,0,21.0,Left Wing,Bayer Leverkusen,111
+41411.0,3895320,Nathan Tella,6,0,1,0,0,0,8,0,1,0,1,0,0,0,0,3,3,0,1,0,0,0.0,0,0,0,0,0,7.0,Right Wing Back,Bayer Leverkusen,26
+41411.0,3895333,Nathan Tella,18,0,5,0,2,2,30,2,2,0,12,0,1,0,0,10,8,2,3,0,0,0.0,0,0,1,1,0,7.0,Right Wing Back,Bayer Leverkusen,102
+41411.0,3895340,Nathan Tella,24,0,4,0,3,3,40,1,2,0,9,1,0,1,1,24,0,1,3,0,0,0.0,0,0,1,1,1,17.0,Right Wing,Bayer Leverkusen,121
+41593.0,3895180,Willian Joel Pacho Tenorio,59,1,0,0,3,1,43,0,0,0,10,0,1,5,1,48,11,0,0,0,True,0.05442568,0,0,1,2,5,5.0,Left Center Back,Eintracht Frankfurt,181
+41593.0,3895333,Willian Joel Pacho Tenorio,67,0,0,0,0,0,58,0,0,0,5,0,3,2,1,61,6,0,0,0,0,0.0,0,0,0,0,2,5.0,Left Center Back,Eintracht Frankfurt,198
+41783.0,3895113,Tiago Barreiros de Melo Tomás,9,2,2,0,1,1,21,1,0,0,17,0,1,0,1,6,3,0,2,0,True,0.213200445,0,0,0,0,0,24.0,Left Center Forward,Wolfsburg,67
+41783.0,3895266,Tiago Barreiros de Melo Tomás,12,0,2,0,2,0,29,1,3,0,11,0,1,2,0,10,2,2,0,0,0,0.0,0,0,0,0,2,21.0,Left Wing,Wolfsburg,79
+42543.0,3895067,Oscar Vilhelmsson,7,3,0,0,6,1,25,0,0,0,13,2,0,2,0,3,4,0,0,0,0,0.542940885,1,2,1,0,2,24.0,Left Center Forward,Darmstadt 98,65
+42543.0,3895220,Oscar Vilhelmsson,8,1,1,0,2,2,23,2,1,0,32,1,0,0,0,7,1,0,1,0,True,0.36120272,0,0,1,0,0,24.0,Left Center Forward,Darmstadt 98,91
+42754.0,3895113,Amin Sarr,6,0,1,0,1,2,13,0,0,0,9,0,1,0,0,3,3,1,0,0,0,0.0,0,0,0,0,0,24.0,Left Center Forward,Wolfsburg,40
+42754.0,3895266,Amin Sarr,9,0,0,0,2,0,11,0,0,0,10,1,0,0,0,9,0,0,0,0,0,0.0,0,0,0,1,0,23.0,Center Forward,Wolfsburg,39
+42822.0,3895292,András Schäfer,24,1,1,0,8,0,29,2,0,0,13,0,1,2,1,18,6,0,1,0,0,0.02534401,0,1,2,3,2,15.0,Left Center Midfield,Union Berlin,109
+43565.0,3895074,Min Jae Kim,99,1,0,0,4,0,88,1,0,0,7,0,0,4,2,91,8,0,0,0,True,0.07818774,0,1,1,1,4,5.0,Left Center Back,Bayern Munich,292
+43565.0,3895232,Min Jae Kim,79,0,0,0,4,1,71,0,0,0,12,0,0,0,0,74,5,0,0,0,0,0.0,0,0,3,1,0,5.0,Left Center Back,Bayern Munich,240
+44198.0,3895340,Ivan Ordets,12,0,0,0,1,0,9,0,1,0,12,1,0,4,1,11,1,0,0,0,0,0.0,0,0,1,0,4,3.0,Right Center Back,Bochum,58
+44737.0,3895074,Mathys Tel,12,0,1,0,1,0,14,1,0,0,6,0,0,0,0,12,0,1,0,True,0,0.0,0,0,0,0,0,21.0,Left Wing,Bayern Munich,49
+44737.0,3895232,Mathys Tel,11,2,3,0,0,0,13,1,0,0,0,0,0,0,1,9,2,3,0,0,0,0.07725974599999999,0,1,0,0,0,24.0,Left Center Forward,Bayern Munich,46
+44955.0,3895139,Aïssa Bilal Laïdouni,45,1,0,0,2,1,38,1,2,0,25,0,0,2,1,35,10,0,0,0,0,0.017184673,0,0,1,1,2,11.0,Left Defensive Midfield,Union Berlin,166
+44955.0,3895292,Aïssa Bilal Laïdouni,18,0,0,0,3,1,20,1,0,0,11,0,0,0,1,16,2,0,0,0,0,0.0,0,0,0,1,0,10.0,Center Defensive Midfield,Union Berlin,75
+45115.0,3895167,Enzo Millot,31,0,1,0,2,0,34,0,3,1,13,0,0,0,0,27,4,0,1,0,True,0.0,0,0,1,1,0,20.0,Left Attacking Midfield,VfB Stuttgart,115
+45115.0,3895320,Enzo Millot,67,0,0,0,3,1,56,1,1,0,22,5,0,1,0,62,5,0,0,0,0,0.0,0,0,2,0,1,11.0,Left Defensive Midfield,VfB Stuttgart,228
+45567.0,3895060,Tomáš Čvančara,23,3,0,0,3,2,60,4,2,0,18,0,0,1,0,18,5,0,0,0,True,0.3719524,0,2,0,0,1,23.0,Center Forward,Borussia Mönchengladbach,138
+46046.0,3895210,Matěj Kovář,17,0,0,0,0,0,10,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Bayer Leverkusen,49
+46430.0,3895086,Tim Siersleben,46,0,0,0,0,0,37,0,0,0,14,1,0,5,2,38,8,0,0,0,0,0.0,0,0,0,0,5,5.0,Left Center Back,FC Heidenheim,145
+47619.0,3895167,Anthony Rouault,7,0,0,0,1,0,3,0,0,0,0,0,0,0,1,3,4,0,0,0,0,0.0,0,0,0,0,0,6.0,Left Back,VfB Stuttgart,15
+47619.0,3895320,Anthony Rouault,2,0,0,0,1,0,3,0,1,0,4,0,0,0,1,2,0,0,0,0,0,0.0,0,0,0,0,0,2.0,Right Back,VfB Stuttgart,14
+48031.0,3895180,Niels Nkounkou,47,0,3,0,3,0,36,2,0,0,20,1,1,2,3,37,10,2,1,0,True,0.0,0,0,3,0,2,8.0,Left Wing Back,Eintracht Frankfurt,176
+48031.0,3895333,Niels Nkounkou,34,0,2,0,7,1,26,1,1,0,14,3,0,2,1,26,8,1,1,0,0,0.0,0,0,4,2,2,6.0,Left Back,Eintracht Frankfurt,130
+48240.0,3895121,Merlin Röhl,10,1,1,0,5,3,22,1,1,0,16,1,1,0,0,6,4,1,0,0,0,0.06367173,0,0,1,1,0,15.0,Left Center Midfield,Freiburg,81
+48240.0,3895275,Merlin Röhl,20,2,0,0,3,1,23,1,2,0,20,2,0,1,0,15,5,0,0,0,True,0.143741004,0,2,2,1,1,11.0,Left Defensive Midfield,Freiburg,101
+48246.0,3895121,Noah Atubolu,34,0,0,0,0,0,14,0,0,0,0,0,0,0,0,27,7,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Freiburg,93
+48246.0,3895275,Noah Atubolu,27,0,0,0,0,0,16,0,0,1,0,0,0,0,0,20,7,0,0,0,0,0.0,0,0,0,0,0,1.0,Goalkeeper,Freiburg,84
+48396.0,3895060,Rocco Reitz,18,0,0,0,1,0,19,3,0,0,16,0,1,0,0,17,1,0,0,0,True,0.0,0,0,0,0,0,11.0,Left Defensive Midfield,Borussia Mönchengladbach,81
+48396.0,3895210,Rocco Reitz,15,0,1,0,4,2,11,0,2,0,17,0,1,1,0,10,5,0,1,0,0,0.0,0,0,3,1,1,13.0,Right Center Midfield,Borussia Mönchengladbach,84
+48496.0,3895182,Noah Loosli,12,0,0,0,2,0,9,0,0,0,1,0,0,0,0,11,1,0,0,0,0,0.0,0,0,2,0,0,3.0,Right Center Back,Bochum,34
+48500.0,3895113,Moritz Jenz,62,0,0,0,3,0,49,0,0,0,11,1,1,2,1,54,8,0,0,True,True,0.0,0,0,1,1,2,4.0,Center Back,Wolfsburg,182
+48500.0,3895266,Moritz Jenz,12,0,1,0,0,0,11,0,0,0,1,2,0,2,1,11,1,1,0,0,0,0.0,0,0,0,0,2,4.0,Center Back,Wolfsburg,43
+48543.0,3895292,Benedict Hollerbach,5,0,2,0,2,1,9,0,2,0,7,2,1,0,0,2,3,1,1,0,0,0.0,0,0,1,0,0,24.0,Left Center Forward,Union Berlin,44
+48644.0,3895134,Anton Stach,63,1,1,0,5,0,51,2,0,0,21,2,0,2,1,46,17,0,1,0,True,0.021272723,1,0,3,1,2,10.0,Center Defensive Midfield,Hoffenheim,210
+48644.0,3895286,Anton Stach,33,1,0,0,0,1,27,0,0,0,10,0,0,8,1,25,8,0,0,0,0,0.030083178,0,1,0,0,8,10.0,Center Defensive Midfield,Hoffenheim,110
+48655.0,3895067,Luca Pfeiffer,18,0,0,0,4,2,43,1,1,0,18,3,0,0,1,15,3,0,0,0,0,0.0,0,0,0,1,0,22.0,Right Center Forward,Darmstadt 98,107
+48655.0,3895220,Luca Pfeiffer,21,3,0,0,6,1,30,1,0,0,41,2,0,2,1,18,3,0,0,0,0,0.227601956,0,0,2,1,2,22.0,Right Center Forward,Darmstadt 98,125
+48820.0,3895158,Antonios Papadopoulos,10,0,0,0,3,1,6,0,0,0,9,1,0,4,0,9,1,0,0,0,0,0.0,0,0,1,2,4,5.0,Left Center Back,Borussia Dortmund,47
+48825.0,3895220,Andreas Müller,7,0,1,0,2,0,5,0,0,0,8,0,1,0,1,5,2,0,1,0,0,0.0,0,0,1,0,0,15.0,Left Center Midfield,Darmstadt 98,34
+48860.0,3895086,Florian Pick,11,0,1,0,0,1,17,0,1,0,2,0,0,0,0,8,3,1,0,0,0,0.0,0,0,0,0,0,11.0,Left Defensive Midfield,FC Heidenheim,47
+48860.0,3895244,Florian Pick,6,1,0,0,1,0,13,0,0,0,3,0,0,0,0,4,2,0,0,0,0,0.025234042,0,1,0,0,0,16.0,Left Midfield,FC Heidenheim,31
+48863.0,3895244,Jan Schöppner,16,0,1,0,5,0,29,0,0,0,25,1,1,3,1,12,4,1,0,0,True,0.0,0,0,2,0,3,13.0,Right Center Midfield,FC Heidenheim,94
+48959.0,3895086,Omar Haktab Traorè,38,0,2,0,2,0,23,1,0,0,21,2,0,3,2,30,8,0,2,0,0,0.0,0,0,1,0,3,2.0,Right Back,FC Heidenheim,130
+48959.0,3895244,Omar Haktab Traorè,51,1,2,0,4,3,40,2,2,0,22,1,1,3,2,39,12,1,1,0,True,0.008326631,0,1,3,1,3,2.0,Right Back,FC Heidenheim,183
+49337.0,3895060,Josip Stanišić,8,0,0,0,0,0,5,0,0,0,2,0,0,0,0,8,0,0,0,0,0,0.0,0,0,0,0,0,3.0,Right Center Back,Bayer Leverkusen,21
+49337.0,3895067,Josip Stanišić,22,0,1,0,0,0,14,0,0,0,0,0,0,0,0,21,1,0,1,0,True,0.0,0,0,0,0,0,4.0,Center Back,Bayer Leverkusen,64
+49337.0,3895095,Josip Stanišić,4,0,0,0,0,0,1,0,0,0,2,0,0,0,0,3,1,0,0,0,0,0.0,0,0,0,0,0,7.0,Right Wing Back,Bayer Leverkusen,9
+49337.0,3895113,Josip Stanišić,55,0,2,0,2,0,47,1,0,0,15,1,1,4,1,49,6,1,1,0,True,0.0,0,0,0,1,4,3.0,Right Center Back,Bayer Leverkusen,189
+49337.0,3895134,Josip Stanišić,22,0,0,0,0,0,16,1,0,0,7,0,0,4,0,19,3,0,0,0,True,0.0,0,0,0,0,4,3.0,Right Center Back,Bayer Leverkusen,72
+49337.0,3895182,Josip Stanišić,104,0,0,0,2,0,85,0,1,0,14,0,1,2,0,98,6,0,0,0,True,0.0,0,0,1,0,2,3.0,Right Center Back,Bayer Leverkusen,298
+49337.0,3895194,Josip Stanišić,93,0,0,0,4,0,78,0,0,0,14,0,0,3,4,87,6,0,0,0,True,0.0,0,0,1,1,3,3.0,Right Center Back,Bayer Leverkusen,275
+49337.0,3895202,Josip Stanišić,67,1,2,0,4,1,63,1,1,0,16,2,0,2,1,63,4,2,0,0,0,0.062444646,0,1,2,0,2,3.0,Right Center Back,Bayer Leverkusen,227
+49337.0,3895210,Josip Stanišić,117,3,2,0,4,2,108,0,2,0,8,0,1,0,0,108,9,2,0,0,0,0.13242003800000002,0,2,0,1,0,3.0,Right Center Back,Bayer Leverkusen,366
+49337.0,3895220,Josip Stanišić,78,2,0,0,5,1,67,0,2,0,11,1,0,4,1,68,10,0,0,0,True,0.08300795799999999,0,2,3,1,4,3.0,Right Center Back,Bayer Leverkusen,249
+49337.0,3895232,Josip Stanišić,40,1,3,0,4,0,35,0,1,0,26,2,0,1,2,32,8,3,0,0,True,0.32476836,1,0,2,1,1,7.0,Right Wing Back,Bayer Leverkusen,156
+49337.0,3895244,Josip Stanišić,56,0,1,0,3,0,42,0,0,0,12,0,0,0,0,46,10,1,0,0,0,0.0,0,0,1,1,0,3.0,Right Center Back,Bayer Leverkusen,168
+49337.0,3895258,Josip Stanišić,95,0,0,0,3,0,83,0,0,0,12,1,0,0,3,90,5,0,0,0,True,0.0,0,0,1,1,0,3.0,Right Center Back,Bayer Leverkusen,279
+49337.0,3895266,Josip Stanišić,81,1,0,0,4,0,69,1,1,0,13,0,0,3,0,74,7,0,0,0,True,0.026901074,0,0,1,1,3,7.0,Right Wing Back,Bayer Leverkusen,246
+49337.0,3895275,Josip Stanišić,85,0,1,0,2,1,77,0,0,0,8,0,0,1,0,77,8,1,0,0,0,0.0,0,0,1,0,1,3.0,Right Center Back,Bayer Leverkusen,260
+49337.0,3895286,Josip Stanišić,6,0,0,0,1,0,6,0,0,0,0,0,0,1,0,6,0,0,0,0,0,0.0,0,0,0,0,1,3.0,Right Center Back,Bayer Leverkusen,19
+49337.0,3895309,Josip Stanišić,60,1,0,0,3,1,52,1,2,0,12,0,0,2,2,51,9,0,0,0,0,0.11654504,1,0,2,1,2,7.0,Right Wing Back,Bayer Leverkusen,198
+49337.0,3895320,Josip Stanišić,9,0,0,0,0,0,7,0,0,0,1,0,0,0,0,8,1,0,0,0,0,0.0,0,0,0,0,0,3.0,Right Center Back,Bayer Leverkusen,26
+49337.0,3895340,Josip Stanišić,59,1,4,0,5,1,46,1,1,0,7,0,0,1,0,52,7,3,1,True,2,0.043656476,1,0,2,1,1,7.0,Right Wing Back,Bayer Leverkusen,191
+49337.0,3895348,Josip Stanišić,11,0,0,0,0,0,12,0,0,0,0,0,0,2,0,11,0,0,0,0,True,0.0,0,0,0,0,2,7.0,Right Wing Back,Bayer Leverkusen,35
+49665.0,3895309,Felix Kalu Nmecha,12,0,0,0,2,1,7,0,0,0,7,0,0,0,0,10,2,0,0,0,0,0.0,0,0,2,0,0,10.0,Center Defensive Midfield,Borussia Dortmund,39
+50429.0,3895333,Hugo Ekitike,22,3,0,0,2,2,39,0,3,0,14,0,0,0,1,15,7,0,0,0,2,0.265956963,1,1,0,0,0,22.0,Right Center Forward,Eintracht Frankfurt,117
+51769.0,3895302,Julián Malatini,59,1,0,0,4,0,47,2,0,0,11,2,0,1,2,47,12,0,0,0,0,0.038188405,0,1,1,1,1,3.0,Right Center Back,Werder Bremen,189
+51825.0,3895348,Tim Breithaupt,21,0,0,0,0,0,16,1,0,0,11,2,0,0,2,20,1,0,0,0,0,0.0,0,0,0,0,0,10.0,Center Defensive Midfield,Augsburg,80
+52124.0,3895302,Isak Hansen-Aarøen,4,0,1,0,0,0,6,0,0,0,4,0,0,0,0,3,1,0,1,0,0,0.0,0,0,0,0,0,15.0,Left Center Midfield,Werder Bremen,19
+55787.0,3895107,Mathias Flaga Olesen,12,0,0,0,0,0,10,0,0,0,1,0,0,0,0,10,2,0,0,0,True,0.0,0,0,0,0,0,11.0,Left Defensive Midfield,FC Köln,34
+67007.0,3895086,Eren Sami Dinkçi,9,1,4,0,2,1,32,4,1,0,31,0,0,0,0,9,0,2,2,0,0,0.08032984,1,0,1,0,0,17.0,Right Wing,FC Heidenheim,108
+67007.0,3895244,Eren Sami Dinkçi,21,0,5,0,1,0,30,3,3,0,23,1,0,0,0,11,10,2,3,0,0,0.0,0,0,1,0,0,12.0,Right Midfield,FC Heidenheim,116
+72768.0,3895107,Steffen Tigges,5,0,0,0,0,0,6,0,1,0,3,0,0,0,0,4,1,0,0,0,0,0.0,0,0,0,0,0,19.0,Center Attacking Midfield,FC Köln,23
+72768.0,3895258,Steffen Tigges,7,0,1,0,0,0,10,1,0,0,3,0,0,0,0,5,2,1,0,0,0,0.0,0,0,0,0,0,23.0,Center Forward,FC Köln,27
+74089.0,3895086,Marvin Pieringer,5,0,0,0,2,0,7,0,0,0,6,0,0,0,1,5,0,0,0,0,0,0.0,0,0,0,0,0,23.0,Center Forward,FC Heidenheim,24
+74089.0,3895244,Marvin Pieringer,5,0,2,0,1,0,5,0,0,0,1,0,0,1,0,5,0,2,0,0,0,0.0,0,0,1,0,1,15.0,Left Center Midfield,FC Heidenheim,21
+74659.0,3895052,Fabio Carvalho,6,0,2,0,0,0,7,0,0,0,2,0,0,0,0,6,0,1,1,0,0,0.0,0,0,0,0,0,11.0,Left Defensive Midfield,RB Leipzig,26
+79429.0,3895121,Kiliann Sildillia,45,2,4,0,7,0,32,1,0,0,21,1,0,2,2,36,9,2,2,0,0,0.10790730700000001,0,1,4,0,2,2.0,Right Back,Freiburg,161
+79429.0,3895275,Kiliann Sildillia,41,0,0,0,8,0,29,1,1,0,17,3,1,4,0,24,17,0,0,0,0,0.0,0,0,3,2,4,3.0,Right Center Back,Freiburg,144
+89326.0,3895139,David Datro Fofana,13,0,3,0,7,1,41,6,5,0,23,0,0,3,0,11,2,2,1,0,0,0.0,0,0,1,0,3,23.0,Center Forward,Union Berlin,129
+95272.0,3895320,Hiroki Ito,73,0,0,0,0,1,53,0,1,1,6,0,0,4,1,62,11,0,0,0,0,0.0,0,0,0,0,4,5.0,Left Center Back,VfB Stuttgart,203
+114833.0,3895067,Noah Mbamba,17,1,0,0,2,0,20,2,2,0,4,0,0,0,0,17,0,0,0,True,0,0.04667749,0,1,2,0,0,21.0,Left Wing,Bayer Leverkusen,69
+114833.0,3895139,Noah Mbamba,1,0,1,0,0,0,4,1,1,0,2,1,0,0,0,1,0,0,1,0,0,0.0,0,0,0,0,0,20.0,Left Attacking Midfield,Bayer Leverkusen,15
+114833.0,3895220,Noah Mbamba,1,0,1,0,0,0,1,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0.0,0,0,0,0,0,21.0,Left Wing,Bayer Leverkusen,9
+131243.0,3895167,Deniz Undav,29,8,3,0,2,1,48,5,2,0,21,2,0,0,1,27,2,1,2,0,0,0.5501907036,0,2,0,0,0,18.0,Right Attacking Midfield,VfB Stuttgart,160
+131243.0,3895320,Deniz Undav,16,1,0,0,3,2,36,1,1,0,22,2,0,0,0,13,3,0,0,0,3,0.0791097,1,0,1,0,0,22.0,Right Center Forward,VfB Stuttgart,103
+133161.0,3895121,Noah Weißhaupt,6,0,0,0,1,0,6,1,0,0,1,0,0,0,0,4,2,0,0,0,True,0.0,0,0,0,0,0,16.0,Left Midfield,Freiburg,24
+133208.0,3895182,Patrick Osterhage,37,1,1,0,1,0,29,0,2,0,24,0,1,1,0,30,7,0,1,0,0,0.057716127,0,1,1,0,1,10.0,Center Defensive Midfield,Bochum,134
+133208.0,3895340,Patrick Osterhage,24,0,2,0,0,3,27,3,3,0,5,0,4,3,0,22,2,1,1,0,0,0.0,0,0,0,0,3,11.0,Left Defensive Midfield,Bochum,109
+133483.0,3895086,Lennard Maloney,40,0,1,0,4,1,33,0,0,0,23,3,2,2,2,28,12,0,1,0,0,0.0,0,0,3,0,2,9.0,Right Defensive Midfield,FC Heidenheim,152
+133483.0,3895244,Lennard Maloney,45,0,0,0,6,0,31,0,1,0,29,1,0,3,3,34,11,0,0,0,0,0.0,0,0,1,4,3,10.0,Center Defensive Midfield,FC Heidenheim,160
+134272.0,3895286,David Jurásek,41,0,0,0,3,0,20,2,0,0,11,0,0,4,2,31,10,0,0,0,True,0.0,0,0,1,1,4,8.0,Left Wing Back,Hoffenheim,122
+134880.0,3895107,Faride Alidou,8,0,0,0,3,1,17,3,0,0,33,0,2,0,1,7,1,0,0,0,0,0.0,0,0,2,0,0,24.0,Left Center Forward,FC Köln,83
+134880.0,3895258,Faride Alidou,14,1,2,0,4,0,23,1,2,0,17,0,0,2,0,10,4,1,1,0,2,0.06454638,0,1,1,0,2,12.0,Right Midfield,FC Köln,85
+135777.0,3895060,Yvandro Borges Sanches,4,0,0,0,0,0,5,0,0,0,3,0,0,0,0,2,2,0,0,0,0,0.0,0,0,0,0,0,21.0,Left Wing,Borussia Mönchengladbach,17
+140589.0,3895232,Aleksandar Pavlović,51,0,0,0,1,0,48,3,0,0,22,0,0,0,1,46,5,0,0,0,True,0.0,0,0,1,0,0,9.0,Right Defensive Midfield,Bayern Munich,177
+143728.0,3895180,Hugo Larsson,45,0,0,0,2,0,39,2,0,0,14,1,0,2,1,43,2,0,0,0,0,0.0,0,0,1,0,2,9.0,Right Defensive Midfield,Eintracht Frankfurt,143
+143728.0,3895333,Hugo Larsson,24,0,0,0,1,0,22,0,0,0,5,0,0,0,0,24,0,0,0,0,0,0.0,0,0,1,0,0,11.0,Left Defensive Midfield,Eintracht Frankfurt,72
+151463.0,3895182,Moritz Broschinski,8,0,1,0,4,1,20,2,0,0,18,0,0,0,0,6,2,0,1,0,0,0.0,0,0,0,1,0,23.0,Center Forward,Bochum,63
+153361.0,3895067,Matej Maglica,7,0,0,0,0,0,5,0,0,0,7,0,0,0,0,7,0,0,0,0,0,0.0,0,0,0,0,0,5.0,Left Center Back,Darmstadt 98,30
+153361.0,3895220,Matej Maglica,42,0,0,0,4,0,32,0,0,0,13,2,0,4,1,30,12,0,0,0,0,0.0,0,0,2,1,4,5.0,Left Center Back,Darmstadt 98,132
+161995.0,3895158,Jamie Jermaine Bynoe-Gittens,14,1,3,0,2,2,24,0,4,0,15,1,0,0,1,8,6,1,2,0,0,0.068964936,0,1,1,0,0,21.0,Left Wing,Borussia Dortmund,97
+161995.0,3895309,Jamie Jermaine Bynoe-Gittens,16,2,1,0,2,2,33,7,4,0,24,0,0,0,2,15,1,1,0,0,True,0.048385845999999996,0,2,0,0,0,16.0,Left Midfield,Borussia Dortmund,126
+185015.0,3895153,Justin Gideon Njinmah,5,1,1,0,0,0,13,0,0,0,8,0,0,0,0,3,2,0,1,0,0,0.12818192,0,0,0,0,0,18.0,Right Attacking Midfield,Werder Bremen,33
+196651.0,3895052,Arthur Augusto de Matos Soares,7,1,0,0,1,0,7,0,0,0,0,0,0,0,0,6,1,0,0,0,0,0.024260674,0,0,0,1,0,7.0,Right Wing Back,Bayer Leverkusen,26
+196651.0,3895060,Arthur Augusto de Matos Soares,15,0,0,0,1,0,11,0,0,0,2,0,0,0,0,14,1,0,0,0,0,0.0,0,0,0,1,0,7.0,Right Wing Back,Bayer Leverkusen,48
+196651.0,3895333,Arthur Augusto de Matos Soares,41,0,3,0,1,0,38,0,3,0,4,0,0,5,0,33,8,2,1,0,True,0.0,0,0,1,0,5,8.0,Left Wing Back,Bayer Leverkusen,132
+196651.0,3895340,Arthur Augusto de Matos Soares,45,1,3,0,4,0,38,2,0,0,6,2,1,2,0,41,4,1,2,2,2,0.010973065,0,1,0,1,2,8.0,Left Wing Back,Bayer Leverkusen,151
+201413.0,3895134,Bambasé Conté,4,0,0,0,1,1,5,0,0,0,1,0,0,0,0,4,0,0,0,0,0,0.0,0,0,1,0,0,15.0,Left Center Midfield,Hoffenheim,17
+217047.0,3895180,Fares Chaïbi,34,1,0,0,7,0,48,1,2,0,16,0,0,0,0,22,12,0,0,0,0,0.052682277,0,0,3,1,0,23.0,Center Forward,Eintracht Frankfurt,139
+217047.0,3895333,Fares Chaïbi,31,4,0,0,1,0,26,0,0,0,20,0,0,0,0,16,15,0,0,True,0,0.206094968,0,2,0,0,0,20.0,Left Attacking Midfield,Eintracht Frankfurt,110
+251293.0,3895286,Umut Tohumcu,22,0,2,0,4,0,29,2,3,0,18,0,0,0,0,20,2,0,2,0,0,0.0,0,0,1,1,0,15.0,Left Center Midfield,Hoffenheim,106
+256297.0,3895309,Julien Duranville,2,0,1,0,0,0,6,0,3,0,4,2,0,0,0,0,2,1,0,0,0,0.0,0,0,0,0,0,17.0,Right Wing,Borussia Dortmund,24
+261630.0,3895060,Gustavo Adolfo Puerta Molano,2,0,0,0,1,0,6,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0.0,0,0,0,0,0,19.0,Center Attacking Midfield,Bayer Leverkusen,13
+261630.0,3895107,Gustavo Adolfo Puerta Molano,2,0,0,0,0,0,3,0,0,0,2,0,0,0,0,1,1,0,0,0,0,0.0,0,0,0,0,0,18.0,Right Attacking Midfield,Bayer Leverkusen,8
+261630.0,3895153,Gustavo Adolfo Puerta Molano,3,0,0,0,2,0,2,0,0,0,3,0,0,1,0,2,1,0,0,0,0,0.0,0,0,1,1,1,9.0,Right Defensive Midfield,Bayer Leverkusen,13
+261630.0,3895182,Gustavo Adolfo Puerta Molano,17,1,0,0,2,1,16,0,0,0,6,0,0,0,0,17,0,0,0,0,0,0.05486425,0,1,2,0,0,11.0,Left Defensive Midfield,Bayer Leverkusen,60
+261630.0,3895232,Gustavo Adolfo Puerta Molano,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0.0,0,0,0,0,0,11.0,Left Defensive Midfield,Bayer Leverkusen,5
+261630.0,3895333,Gustavo Adolfo Puerta Molano,3,0,0,0,0,0,4,1,0,0,3,0,0,0,0,3,0,0,0,0,0,0.0,0,0,0,0,0,11.0,Left Defensive Midfield,Bayer Leverkusen,15
+261630.0,3895340,Gustavo Adolfo Puerta Molano,15,1,1,0,0,0,16,0,0,0,4,1,0,0,0,15,0,1,0,0,True,0.020731112,0,1,0,0,0,11.0,Left Defensive Midfield,Bayer Leverkusen,52
+282348.0,3895220,Fabio Torsiello,10,0,0,0,2,0,7,1,0,0,19,1,1,1,1,7,3,0,0,0,0,0.0,0,0,1,0,1,12.0,Right Midfield,Darmstadt 98,53
+291796.0,3895333,Jean-Mattéo Bahoya Négoce,8,0,0,0,1,0,8,0,0,0,2,0,0,0,0,5,3,0,0,0,0,0.0,0,0,0,0,0,20.0,Left Attacking Midfield,Eintracht Frankfurt,26
+297024.0,3895182,Tim Oermann,0,0,0,0,1,0,1,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,1,0,10.0,Center Defensive Midfield,Bochum,6
+297024.0,3895340,Tim Oermann,16,0,0,0,4,0,10,1,1,0,9,0,0,2,1,10,6,0,0,0,0,0.0,0,0,1,3,2,7.0,Right Wing Back,Bochum,59
+300704.0,3895107,Denis Huseinbašić,37,0,0,0,6,1,43,0,3,0,22,0,0,1,0,36,1,0,0,0,0,0.0,0,0,4,1,1,13.0,Right Center Midfield,FC Köln,150
+300704.0,3895258,Denis Huseinbašić,13,0,0,0,0,0,12,0,0,0,6,0,0,0,0,13,0,0,0,0,0,0.0,0,0,0,0,0,11.0,Left Defensive Midfield,FC Köln,44
+314756.0,3895180,Elias Niklas Baum,4,0,0,0,2,0,8,1,1,0,11,0,2,1,0,3,1,0,0,0,0,0.0,0,0,0,2,1,11.0,Left Defensive Midfield,Eintracht Frankfurt,36
+314766.0,3895333,Ignacio Ferri Julià,3,2,0,0,0,1,8,0,1,0,3,0,0,0,1,2,1,0,0,0,0,0.263919256,0,1,0,0,0,22.0,Right Center Forward,Eintracht Frankfurt,27
+316237.0,3895348,Mert Kömür,17,1,2,0,2,1,26,0,2,0,20,0,0,0,1,16,1,0,2,0,0,0.10435216,1,0,1,1,0,19.0,Center Attacking Midfield,Augsburg,97
+316245.0,3895348,Mahmut Kücüksahin,4,0,0,0,0,0,5,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0.0,0,0,0,0,0,13.0,Right Center Midfield,Augsburg,13
+343893.0,3895060,Grant-Leon Ranos,6,1,0,0,1,0,7,0,0,0,9,0,0,0,0,5,1,0,0,0,0,0.029935844,0,1,1,0,0,19.0,Center Attacking Midfield,Borussia Mönchengladbach,33
+363583.0,3895095,Brajan Gruda,32,1,5,0,1,2,44,0,3,0,18,1,0,0,0,22,10,2,3,0,True,0.02572198,0,0,0,0,0,17.0,Right Wing,FSV Mainz 05,147
+363583.0,3895250,Brajan Gruda,22,0,2,0,3,0,27,0,1,0,7,0,1,0,1,13,9,1,1,0,True,0.0,0,0,0,1,0,18.0,Right Attacking Midfield,FSV Mainz 05,92
+363595.0,3895258,Justin Diehl,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,16.0,Left Midfield,FC Köln,4
+369243.0,3895060,Lukas Ullrich,2,0,0,0,0,0,3,0,0,0,1,0,0,1,0,2,0,0,0,0,0,0.0,0,0,0,0,1,6.0,Left Back,Borussia Mönchengladbach,9
+394487.0,3895210,Shio Fukuda,3,0,0,0,4,0,11,2,1,0,10,0,0,0,0,1,2,0,0,0,0,0.0,0,0,0,1,0,24.0,Left Center Forward,Borussia Mönchengladbach,35
+405983.0,3895107,Max Finkgräfe,8,1,0,0,1,0,7,1,0,0,7,0,0,1,2,6,2,0,0,0,0,0.1103103,0,0,0,1,1,21.0,Left Wing,FC Köln,36
+405983.0,3895258,Max Finkgräfe,29,0,3,0,3,0,20,1,1,0,30,3,0,2,1,19,10,1,2,0,True,0.0,0,0,2,1,2,6.0,Left Back,FC Köln,118
+426425.0,3895286,Tim Drexler,39,0,1,0,2,1,31,0,0,0,14,1,0,5,1,37,2,0,1,0,0,0.0,0,0,1,0,5,5.0,Left Center Back,Hoffenheim,127
