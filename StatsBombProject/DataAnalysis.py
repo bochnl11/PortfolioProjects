@@ -27,7 +27,7 @@ def load_competitions():
     
     # Only want German and Canadian male leagues for 2023/24 season
     return competitions_df[
-        (competitions_df['country_name'].isin(['Germany', 'Canada'])) &
+        (competitions_df['country_name'].isin(['Germany', 'Deutschland'])) &
         (competitions_df['competition_international'] == False) &
         (competitions_df['competition_gender'] == 'male') & 
         (competitions_df['season_name'] == "2023/2024")
