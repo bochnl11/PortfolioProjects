@@ -3,12 +3,11 @@
 # Purpose: Analyze soccer match data from StatsBomb to generate player statistics and predictive models
 # Last Updated: 2024
 # 
-# Dataset: The StatsBomb dataset is structured into three main types of files: competition, match, and event data. 
+# Dataset: The StatsBomb dataset is structured into three main types of json files: competition, match, and event data. 
 # Competition files outline overarching tournament details like competition name, country, and season. Match 
 # files detail individual games, including teams, scores, stadiums, and metadata linking them to competitions. 
 # Event files provide granular, timestamped actions from each match, such as passes and goals, enabling 
-# in-depth analysis. Together, these files form a hierarchical relationship: competitions contain matches, 
-# and matches contain events. This structure allows seamless analysis across various levels of detail.
+# in-depth analysis. 
 
 import pandas as pd
 import os
